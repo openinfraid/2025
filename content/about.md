@@ -40,15 +40,15 @@ technologies that recently arose on providing reliable cloud infrastructure serv
 including OpenStack, StarlingX, Airship, Kubernetes, Docker, Ceph, GitLab, Jenkins,
 Elastic Stack, Terraform, Ansible, Prometheus, Kata Containers, Hadoop, Open
 Compute, Open Networking, HPC, Machine Learning, Blockchain, IoT, and other
-technologies.
+technologies.<br />
 
 The event is a 1 day conference with Single Session format containing Keynote
 Speech, Talk, and Lightning Session. This event is an improvement of the OpenStack
 Day event with wider discussion material and higher number of participants.
-Indonesia OpenInfra Day was planned to be held regularly at least annually.
+Indonesia OpenInfra Day was planned to be held regularly at least annually.<br />
 
 In 2021, The Indonesia OpenInfra Days will be held on Saturday, August 21st 2021
 virtually with a target 250 number of participants. This event is organized
-and managed by OpenStack Indonesia Community.
+and managed by OpenStack Indonesia Community.<br />
 
 
