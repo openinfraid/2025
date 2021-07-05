@@ -127,12 +127,12 @@ logo = "images/logo.png"
 logo_footer = "images/footer-logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Indonesia OpenInfra Days 2021"
+author = "#IOID21"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Powered by [IMTEK](https://imtek.id/)"
 
 # Preloader
 [params.preloader]
@@ -148,7 +148,7 @@ link = "/"
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 title = "Subscribe to Our Newsletter"
 content = "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor"
 # mailchimp subsciption
