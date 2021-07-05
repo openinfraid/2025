@@ -262,41 +262,37 @@ call_to_action:
 ############### Sponsors ##################
 sponsors:
   enable : true
-  title : "Our _Sponsors_"
+  title : "Our Sponsors"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore dolore"
   button:
     enable : true
     label : "Become a sponsor"
-    link : "#"
+    link : "https://www.openstack.id/wp-content/uploads/2021/06/PropIOID21_EN.3.pdf"
   sponsor_group:
   - name : "Platinum Sponsors"
     sponsor_item:
-    - name : "sponsor"
+    - name : "nvidia"
       logo : "images/sponsors/pt-spon-two.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-four.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/pt-spon-three.png"
       link : "#"
       
   - name : "Gold Sponsors"
     sponsor_item:
-    - name : "sponsor"
+    - name : "btech"
       logo : "images/sponsors/gl-spon-two.png"
-      link : "#"
+      link : "https://btech.id"
+  
+  - name : "Silver Sponsors"
+    sponsor_item:
+    - name : "bri"
+      logo : "images/sponsors/gl-spon-two.png"
+      link : "https://bri.co.id"
       
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-three.png"
-      link : "#"
-      
-    - name : "sponsor"
-      logo : "images/sponsors/gl-spon-one.png"
+  - name : "Custom Sponsors"
+    sponsor_item:
+    - name : "imtek"
+      logo : "images/sponsors/gl-spon-two.png"
+      link : "https://imtek.id"
+    
+    - name : "onid"
+      logo : "images/sponsors/gl-spon-two.png"
       link : "#"
