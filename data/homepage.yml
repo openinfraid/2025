@@ -29,8 +29,6 @@ about:
   Elastic Stack, Terraform, Ansible, Prometheus, Kata Containers, Hadoop, Open
   Compute, Open Networking, HPC, Machine Learning, Blockchain, IoT, and other
   technologies."
-  <br><br>
-  
   button_solid:
     enable : true
     label : "Buy ticket"
