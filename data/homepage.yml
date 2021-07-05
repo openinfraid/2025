@@ -3,16 +3,16 @@ banner:
   enable : true
   heading : "Indonesia"
   heading_2 : "OpenInfra Days 2021"
-  content : "Saturday, 21 Agustus 2021"
+  content : "Saturday, 21th August 2021"
   timer:
     enable : true
     year : 2021
     month : 8
-    day : 1
+    day : 21
   button:
     enable : true
     label : "get ticket now"
-    link : "#"
+    link : "https://s.id/ioid21_register"
 
     
 ################# About ###################
@@ -62,97 +62,97 @@ tab:
       venue : "Main Room"
       time : "08.30 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-two.jpg"
       subject : "Keynote"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Keynote"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
+      subject : "TBA"
       venue : "Main Room"
       time : "9.00 AM"
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "TBA"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
       subject : "Closing & Doorprize"
       venue : "Main Room"
@@ -163,9 +163,9 @@ tab:
   #  date : "23 November 2017"
   #  tablist_items:
     # speaker
-    #  - speaker : "Samanta Doe"
+    #  - speaker : "TBA"
     #  speaker_image : "images/speakers/speaker-thumb-one.jpg"
-    #  subject : "Introduction to Wp"
+    #  subject : "TBA"
     #  venue : "Main Room"
     #  time : "9.00 AM"
 
@@ -173,9 +173,9 @@ tab:
   #  date : "25 November 2017"
   #  tablist_items:
     # speaker
-    #- speaker : "Samanta Doe"
+    #- speaker : "TBA"
     #speaker_image : "images/speakers/speaker-thumb-one.jpg"
-    #subject : "Introduction to Wp"
+    #subject : "TBA"
     #venue : "Main Room"
     #time : "9.00 AM"
 
@@ -184,7 +184,7 @@ registration:
   enable : true
   title : "Register to #IOID21"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
-  form_action : "#" # works with formspree.io
+  #form_action : "#" # works with formspree.io
 
   funfacts:
   - name : "17 Speakers"
@@ -208,7 +208,7 @@ pricing:
   - name : "Standard"
     price : "IDR 30K"
     price_per : "Person"
-    button_link : "#"
+    button_link : "https://s.id/ioid21_register"
     features:
     - "1 Comfortable Seats"
     - "Merch"
@@ -217,7 +217,7 @@ pricing:
   - name : "Patron"
     price : "IDR 100K"
     price_per : "Person"
-    button_link : "#"
+    button_link : "https://s.id/ioid21_register"
     features:
     - "1 Comfortable Seats"
     - "Merch"
@@ -227,7 +227,7 @@ pricing:
   - name : "Custom"
     price : "IDR ~"
     price_per : "Person"
-    button_link : "#"
+    button_link : "https://s.id/ioid21_register"
     features:
     - "1 Comfortable Seats"
     - "Merch"
@@ -243,7 +243,7 @@ call_to_action:
   button:
     enable : true
     label : "Buy ticket"
-    link : "#"
+    link : "https://s.id/ioid21_register"
 
 
 ############### Sponsors ##################

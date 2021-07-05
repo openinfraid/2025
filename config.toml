@@ -80,8 +80,8 @@ url = "speaker"
 weight = 3
 
 [[menu.main]]
-name = "News"
-url = "blog"
+name = "Schedule"
+url = "schedule"
 weight = 4
 
 [[menu.main]]
@@ -106,8 +106,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "Schedule"
-  url = "schedule"
+  name = "News"
+  url = "Blog"
 
 [[menu.main]]
 name = "Contact"
