@@ -56,48 +56,108 @@ tab:
     date : "21 Agustus 2021"
     tablist_items:
     # speaker
-    - speaker : "Samanta Doe"
+    - speaker : "Master of Ceremony"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Introduction to Wp"
+      subject : "Opening Speech"
       venue : "Main Room"
-      time : "9.00 AM"
-
+      time : "08.30 AM"
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
+      subject : "Keynote"
       venue : "Main Room"
       time : "9.00 AM"
-      
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
+      subject : "Keynote"
       venue : "Main Room"
       time : "9.00 AM"
-      
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Introduction to Wp"
       venue : "Main Room"
       time : "9.00 AM"
-      
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Introduction to Wp"
       venue : "Main Room"
       time : "9.00 AM"
-      
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
       subject : "Introduction to Wp"
       venue : "Main Room"
       time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Main Room"
+      time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Main Room"
+      time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Main Room"
+      time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Main Room"
+      time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Main Room"
+      time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Main Room"
+      time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Main Room"
+      time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Main Room"
+      time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Main Room"
+      time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Introduction to Wp"
+      venue : "Main Room"
+      time : "9.00 AM"
+    # speaker
+    - speaker : "Samanta Doe"
+      speaker_image : "images/speakers/speaker-thumb-six.jpg"
+      subject : "Closing & Doorprize"
+      venue : "Main Room"
+      time : "04.50 PM"
 
-      
   # tab item
   #  - name : "Day-02"
   #  date : "23 November 2017"
@@ -130,8 +190,8 @@ registration:
   - name : "17 Speakers"
     icon : "fa-microphone"
     
-  - name : "300 + Seats"
-    icon : "fa-flag"
+  - name : "9+ Attendees"
+    icon : "fa-user-o"
     
   - name : "300 tickets"
     icon : "fa-ticket"
@@ -221,5 +281,5 @@ sponsors:
       link : "https://imtek.id"
     
     - name : "onid"
-      logo : "images/sponsors/gl-spon-two.png"
+      logo : "images/sponsors/onid-logo.png"
       link : "#"
