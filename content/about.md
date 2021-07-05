@@ -10,7 +10,7 @@ image : "images/speakers/featured-speaker.jpg"
 
 #### Testimonial ####
 testimonial:
-  enable: true
+  enable: false
   title: "What People _Say?_"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti aliquid vero harum rerum voluptates, ab, ullam."
   testimonial_items:
@@ -30,13 +30,21 @@ testimonial:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis voluptate modi sunt placeat in vel illo dolorem, atque maxime voluptates optio fugit iure cum ipsa quo quaerat! Veritatis, modi. Laudantium provident deleniti earum voluptas delectus, labore dolor dolorem amet expedita."
 ---
 
-## About The _Eventre_
+## About The _#IOID21_
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore
-magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et
-dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
+The Indonesia OpenInfra Days brings together users, business, developers, and
+operations from various organizations including enterprises, SMEs, governments,
+universities, NGOs, cloud providers, and technology providers to discuss IT
+infrastructure that utilize open source software and hardware. Open source
+technologies that recently arose on providing reliable cloud infrastructure services
+including OpenStack, StarlingX, Airship, Kubernetes, Docker, Ceph, GitLab, Jenkins,
+Elastic Stack, Terraform, Ansible, Prometheus, Kata Containers, Hadoop, Open
+Compute, Open Networking, HPC, Machine Learning, Blockchain, IoT, and other
+technologies.
+The event is a 1 day conference with Single Session format containing Keynote
+Speech, Talk, and Lightning Session. This event is an improvement of the OpenStack
+Day event with wider discussion material and higher number of participants.
+Indonesia OpenInfra Day was planned to be held regularly at least annually.
+In 2021, The Indonesia OpenInfra Days will be held on Saturday, August 21st 2021
+virtually with a target 250 number of participants. This event is organized
+and managed by OpenStack Indonesia Community.
