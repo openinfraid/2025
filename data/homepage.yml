@@ -182,8 +182,8 @@ tab:
 ############ Registration ####################
 registration:
   enable : true
-  title : "Register to #IOID21"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  title : "Statistic #IOID21"
+  content : "Current Statistic for Indonesia OpenInfra Days 2021"
   #form_action : "#" # works with formspree.io
 
   funfacts:
