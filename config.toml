@@ -92,7 +92,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Pages"
   name = "Gallery"
-  url = "gallery"
+  url = "https://www.flickr.com/photos/182934431@N07/"
 
   [[menu.main]]
   parent = "Pages"
@@ -119,8 +119,8 @@ weight = 6
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-#logo_footer = "images/footer-logo.png"
-logo_width = "70px"
+logo_footer = "images/footer-logo.png"
+logo_width = "100px"
 # Meta data
 description = "Indonesia OpenInfra Days 2021"
 author = "#IOID21"
