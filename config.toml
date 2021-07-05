@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://openstackindo.gitlab.io/ioid2021"
-title = "OpenInfra Indonesia 2021"
+title = "Indonesia OpenInfra Days 2021"
 theme = "eventre-hugo"
 # post pagination
 paginate = "3"
@@ -109,11 +109,6 @@ hasChildren = true
   name = "Schedule"
   url = "schedule"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Testimonial"
-  url = "testimonial"
-  
 [[menu.main]]
 name = "Contact"
 url = "contact"
@@ -176,24 +171,29 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://www.facebook.com/groups/openstackindo"
 
 [[params.social]]
 title = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://twitter.com/openstackindo"
 
 [[params.social]]
-title = "instagram"
-icon = "fa-instagram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+title = "youtube"
+icon = "fa-youtube-play" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.youtube.com/OpenStackIndonesia"
+
+[[params.social]]
+title = "telegram"
+icon = "fa-telegram" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://t.me/openstackindo"
 
 [[params.social]]
 title = "github"
 icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://github.com/openstackindo"
 
 [[params.social]]
-title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "#"
+title = "meetup"
+icon = "fa-meetup" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
+link = "https://www.meetup.com/Indonesia-OpenStack-User-Group/"
