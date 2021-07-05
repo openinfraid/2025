@@ -127,7 +127,7 @@ author = "#IOID21"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Powered by [IMTEK](https://imtek.id/)"
+copyright = "Powered by [IMTEK](https://imtek.id/) for [OpenStack Indonesia](https://openstack.id)"
 
 # Preloader
 [params.preloader]
@@ -139,7 +139,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Buy Ticket"
 icon = "images/icon/ticket.png"
-link = "/"
+link = "pricing"
 
 # Subscription
 [params.subscription]
