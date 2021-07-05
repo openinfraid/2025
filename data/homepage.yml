@@ -26,7 +26,7 @@ about:
   button_solid:
     enable : true
     label : "Buy ticket"
-    link : "#"
+    link : "pricing"
   button_outline:
     enable : true
     label : "Read more"
@@ -54,42 +54,42 @@ tab:
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-one.jpg"
       subject : "Introduction to Wp"
-      venue : "Auditorium A"
+      venue : "Main Room"
       time : "9.00 AM"
 
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-two.jpg"
       subject : "Introduction to Wp"
-      venue : "Auditorium A"
+      venue : "Main Room"
       time : "9.00 AM"
       
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-three.jpg"
       subject : "Introduction to Wp"
-      venue : "Auditorium A"
+      venue : "Main Room"
       time : "9.00 AM"
       
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-four.jpg"
       subject : "Introduction to Wp"
-      venue : "Auditorium A"
+      venue : "Main Room"
       time : "9.00 AM"
       
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-five.jpg"
       subject : "Introduction to Wp"
-      venue : "Auditorium A"
+      venue : "Main Room"
       time : "9.00 AM"
       
     # speaker
     - speaker : "Samanta Doe"
       speaker_image : "images/speakers/speaker-thumb-six.jpg"
       subject : "Introduction to Wp"
-      venue : "Auditorium A"
+      venue : "Main Room"
       time : "9.00 AM"
 
       
@@ -101,7 +101,7 @@ tab:
     #  - speaker : "Samanta Doe"
     #  speaker_image : "images/speakers/speaker-thumb-one.jpg"
     #  subject : "Introduction to Wp"
-    #  venue : "Auditorium A"
+    #  venue : "Main Room"
     #  time : "9.00 AM"
 
   #  - name : "Day-03"
@@ -111,7 +111,7 @@ tab:
     #- speaker : "Samanta Doe"
     #speaker_image : "images/speakers/speaker-thumb-one.jpg"
     #subject : "Introduction to Wp"
-    #venue : "Auditorium A"
+    #venue : "Main Room"
     #time : "9.00 AM"
 
 ############ Registration ####################

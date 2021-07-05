@@ -120,7 +120,7 @@ weight = 6
 [params]
 logo = "images/logo.png"
 logo_footer = "images/footer-logo.png"
-logo_width = "100px"
+logo_width = "300px"
 # Meta data
 description = "Indonesia OpenInfra Days 2021"
 author = "#IOID21"
