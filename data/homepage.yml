@@ -194,13 +194,13 @@ sponsors:
   - name : "Platinum Sponsors"
     sponsor_item:
     - name : "nvidia"
-      logo : "images/sponsors/pt-spon-two.png"
-      link : "#"
+      logo : "images/sponsors/nvdia-logo.png"
+      link : "https://nvidia.com"
       
   - name : "Gold Sponsors"
     sponsor_item:
     - name : "btech"
-      logo : "images/sponsors/gl-spon-two.png"
+      logo : "images/sponsors/btech-logo.png"
       link : "https://btech.id"
   
   - name : "Silver Sponsors"
