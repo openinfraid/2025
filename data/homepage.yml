@@ -48,7 +48,7 @@ tab:
   tablist:
   # tab item
   - name : "Day-01"
-    date : "20 November 2017"
+    date : "21 Agustus 2021"
     tablist_items:
     # speaker
     - speaker : "Samanta Doe"
@@ -94,117 +94,44 @@ tab:
 
       
   # tab item
-  - name : "Day-02"
-    date : "23 November 2017"
-    tablist_items:
+  #  - name : "Day-02"
+  #  date : "23 November 2017"
+  #  tablist_items:
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
+    #  - speaker : "Samanta Doe"
+    #  speaker_image : "images/speakers/speaker-thumb-one.jpg"
+    #  subject : "Introduction to Wp"
+    #  venue : "Auditorium A"
+    #  time : "9.00 AM"
 
+  #  - name : "Day-03"
+  #  date : "25 November 2017"
+  #  tablist_items:
     # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-      
-  # tab item
-  - name : "Day-03"
-    date : "25 November 2017"
-    tablist_items:
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-one.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-two.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-three.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-four.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-five.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-      
-    # speaker
-    - speaker : "Samanta Doe"
-      speaker_image : "images/speakers/speaker-thumb-six.jpg"
-      subject : "Introduction to Wp"
-      venue : "Auditorium A"
-      time : "9.00 AM"
-
+    #- speaker : "Samanta Doe"
+    #speaker_image : "images/speakers/speaker-thumb-one.jpg"
+    #subject : "Introduction to Wp"
+    #venue : "Auditorium A"
+    #time : "9.00 AM"
 
 ############ Registration ####################
 registration:
   enable : true
-  title : "Register to _Eventre_"
+  title : "Register to #IOID21"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
   form_action : "#" # works with formspree.io
 
   funfacts:
-  - name : "8 Speakers"
+  - name : "17 Speakers"
     icon : "fa-microphone"
     
-  - name : "500 + Seats"
+  - name : "300 + Seats"
     icon : "fa-flag"
     
   - name : "300 tickets"
     icon : "fa-ticket"
     
-  - name : "3 days event"
+  - name : "Online 1 days event"
     icon : "fa-calendar"
 
 
@@ -213,44 +140,32 @@ registration:
 ############ Pricing ####################
 pricing:
   enable : true
-  title : "Get _Ticket_"
+  title : "Get Ticket"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   pricing_table:
-  - name : "Starter"
-    price : "39.00"
-    price_per : "Person"
-    button_link : "#"
-    features:
-    - "1 Comfortable Seats"
-    - "Free Lunch and Coffee"
-    - "Certificate"
-    - "Easy Access"
-    
   - name : "Standard"
-    price : "49.00"
+    price : "IDR 30K"
     price_per : "Person"
     button_link : "#"
     features:
     - "1 Comfortable Seats"
-    - "Free Lunch and Coffee"
-    - "Certificate"
+    - "Merch"
     - "Easy Access"
     
-  - name : "Platinum"
-    price : "99.00"
+  - name : "Patron"
+    price : "IDR 100K"
     price_per : "Person"
     button_link : "#"
     features:
     - "1 Comfortable Seats"
-    - "Free Lunch and Coffee"
-    - "Certificate"
+    - "Merch"
+    - "T-Shirt"
     - "Easy Access"
-
 
 ############### Call to action ############
 call_to_action:
   enable : true
-  title : "Get Ticket _Now!_"
+  title : "Get Ticket Now!"
   image : "images/speakers/speaker-ticket.png"
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor incidi"
   button:
