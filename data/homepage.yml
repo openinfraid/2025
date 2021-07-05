@@ -141,7 +141,7 @@ pricing:
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   pricing_table:
   - name : "Standard"
-    price : "30K"
+    price : "IDR 30K"
     price_per : "Person"
     button_link : "#"
     features:
@@ -150,7 +150,7 @@ pricing:
     - "Easy Access"
     
   - name : "Patron"
-    price : "100K"
+    price : "IDR 100K"
     price_per : "Person"
     button_link : "#"
     features:
@@ -160,7 +160,7 @@ pricing:
     - "Easy Access"
 
   - name : "Custom"
-    price : "~"
+    price : "IDR ~"
     price_per : "Person"
     button_link : "#"
     features:
