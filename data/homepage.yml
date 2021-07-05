@@ -3,12 +3,12 @@ banner:
   enable : true
   heading : "Indonesia"
   heading_2 : "OpenInfra Days 2021"
-  content : "21 Agustus 2021"
+  content : "Saturday, 21 Agustus 2021"
   timer:
     enable : true
     year : 2021
     month : 8
-    day : 21
+    day : 1
   button:
     enable : true
     label : "get ticket now"
@@ -18,8 +18,8 @@ banner:
 ################# About ###################
 about:
   enable : true
-  title : "About The _Eventre_"
-  image : "images/speakers/featured-speaker.jpg"
+  title : "About #IOID21"
+  image : "#"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
   <br><br>
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
@@ -36,7 +36,7 @@ about:
 ################# Speaker ###################
 speakers:
   enable : true
-  title : "Who _Speaking?_"
+  title : "Who Speaking?"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   # speaker items are coming from "content/speakers" folder
 
@@ -47,7 +47,7 @@ tab:
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   tablist:
   # tab item
-  - name : "Day-01"
+  - name : "Saturday"
     date : "21 Agustus 2021"
     tablist_items:
     # speaker
@@ -131,11 +131,8 @@ registration:
   - name : "300 tickets"
     icon : "fa-ticket"
     
-  - name : "Online 1 days event"
+  - name : "1 days online event"
     icon : "fa-calendar"
-
-
-
 
 ############ Pricing ####################
 pricing:
@@ -144,7 +141,7 @@ pricing:
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
   pricing_table:
   - name : "Standard"
-    price : "IDR 30K"
+    price : "30K"
     price_per : "Person"
     button_link : "#"
     features:
@@ -153,7 +150,17 @@ pricing:
     - "Easy Access"
     
   - name : "Patron"
-    price : "IDR 100K"
+    price : "100K"
+    price_per : "Person"
+    button_link : "#"
+    features:
+    - "1 Comfortable Seats"
+    - "Merch"
+    - "T-Shirt"
+    - "Easy Access"
+
+  - name : "Custom"
+    price : "~"
     price_per : "Person"
     button_link : "#"
     features:
@@ -205,7 +212,7 @@ sponsors:
   - name : "Custom Sponsors"
     sponsor_item:
     - name : "imtek"
-      logo : "images/sponsors/gl-spon-two.png"
+      logo : "images/sponsors/imtek-logo.png"
       link : "https://imtek.id"
     
     - name : "onid"
