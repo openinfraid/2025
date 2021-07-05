@@ -80,7 +80,7 @@ url = "speaker"
 weight = 3
 
 [[menu.main]]
-name = "Blog"
+name = "News"
 url = "blog"
 weight = 4
 
@@ -119,7 +119,7 @@ weight = 6
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-logo_footer = "#"
+logo_footer = "images/footer-logo.png"
 logo_width = "100px"
 # Meta data
 description = "Indonesia OpenInfra Days 2021"
