@@ -19,10 +19,18 @@ banner:
 about:
   enable : true
   title : "About #IOID21"
-  image : "#"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamco.
+  image : "images/footer-logo.png"
+  content : "The Indonesia OpenInfra Days brings together users, business, developers, and
+  operations from various organizations including enterprises, SMEs, governments,
+  universities, NGOs, cloud providers, and technology providers to discuss IT
+  infrastructure that utilize open source software and hardware. Open source
+  technologies that recently arose on providing reliable cloud infrastructure services
+  including OpenStack, StarlingX, Airship, Kubernetes, Docker, Ceph, GitLab, Jenkins,
+  Elastic Stack, Terraform, Ansible, Prometheus, Kata Containers, Hadoop, Open
+  Compute, Open Networking, HPC, Machine Learning, Blockchain, IoT, and other
+  technologies."
   <br><br>
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
+  
   button_solid:
     enable : true
     label : "Buy ticket"
@@ -32,7 +40,6 @@ about:
     label : "Read more"
     link : "about"
 
-    
 ################# Speaker ###################
 speakers:
   enable : true
