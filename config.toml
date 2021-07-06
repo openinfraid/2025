@@ -107,7 +107,7 @@ hasChildren = true
   [[menu.main]]
   parent = "Pages"
   name = "News"
-  url = "Blog"
+  url = "blog"
 
 [[menu.main]]
 name = "Contact"

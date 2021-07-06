@@ -46,7 +46,7 @@ tab:
   tablist:
   # tab item
   - name : "Saturday"
-    date : "21 Agustus 2021"
+    date : "21th August 2021"
     tablist_items:
     # speaker
     - speaker : "Master of Ceremony"
@@ -218,7 +218,7 @@ pricing:
     - "Networking"
     - "Q+A with Speakers"
     - "Sticker Pack"
-    - "Exclustive T-Shirt"
+    - "Exclusive T-Shirt"
 
   - name : "Custom"
     price : "IDR ~"
@@ -231,7 +231,7 @@ pricing:
     - "Networking"
     - "Q+A with Speakers"
     - "Sticker Pack"
-    - "Exclustive T-Shirt"
+    - "Exclusive T-Shirt"
 
 
 ############### Call to action ############
