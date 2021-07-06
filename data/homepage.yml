@@ -254,7 +254,7 @@ sponsors:
   button:
     enable : true
     label : "Become a sponsor"
-    link : "https://www.openstack.id/wp-content/uploads/2021/06/PropIOID21_EN.3.pdf"
+    link : "files/PropIOID21_EN.5.pdf"
   sponsor_group:
   - name : "Platinum Sponsors"
     sponsor_item:
