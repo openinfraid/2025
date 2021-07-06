@@ -1,12 +1,12 @@
 ---
-title : "Elementum purus id ultrices."
+title : "Call for Presentation"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-03-14T15:40:24+06:00
-image: "images/news/post-thumb-six.jpg"
-author: "Admin"
-author_id: "https://linkedin.com/in/#"
-tags: ["business", "upcoming"]
-categories: ["events", "upcoming"]
+date: 2020-06-18T15:40:24+06:00
+image: "images/news/cfp.png"
+author: "Ary"
+author_id: "https://linkedin.com/in/aryulianto"
+tags: ["business", "events"]
+categories: ["events", "creative"]
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
 draft : false
 ---

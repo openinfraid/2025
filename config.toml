@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://2021.imtek.id"
+baseURL = "https://2021.openinfra.id"
 title = "Indonesia OpenInfra Days 2021"
 theme = "eventre-hugo"
 # post pagination
@@ -80,8 +80,8 @@ url = "speaker"
 weight = 3
 
 [[menu.main]]
-name = "News"
-url = "blog"
+name = "Schedule"
+url = "schedule"
 weight = 4
 
 [[menu.main]]
@@ -106,8 +106,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "Schedule"
-  url = "schedule"
+  name = "News"
+  url = "Blog"
 
 [[menu.main]]
 name = "Contact"
@@ -127,7 +127,7 @@ author = "#IOID21"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # copyright
-copyright = "Powered by [IMTEK](https://imtek.id/)"
+copyright = "Powered by [IMTEK](https://imtek.id/) for [OpenStack Indonesia](https://openstack.id)"
 
 # Preloader
 [params.preloader]
@@ -139,7 +139,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Buy Ticket"
 icon = "images/icon/ticket.png"
-link = "/"
+link = "pricing"
 
 # Subscription
 [params.subscription]
@@ -164,7 +164,7 @@ link = "#"
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 ############################# social site ########################
