@@ -208,6 +208,10 @@ sponsors:
       logo : "images/sponsors/btech-logo.png"
       link : "https://btech.id"
   
+    - name : "biznetgio"
+      logo : "images/sponsors/biznet-giocloud-logo.png"
+      link : "https://www.biznetgio.com/"
+
   - name : "Silver Sponsors"
     sponsor_item:
     - name : "bri"
