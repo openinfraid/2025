@@ -35,14 +35,14 @@ about:
 speakers:
   enable : true
   title : "Who Speaking?"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  content : ""
   # speaker items are coming from "content/speakers" folder
 
 ###################### Tab ####################
 tab:
   enable : true
   title : "Event Schedule"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  content : ""
   tablist:
   # tab item
   - name : "Saturday"
@@ -196,7 +196,7 @@ registration:
 pricing:
   enable : true
   title : "Get Ticket"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore"
+  content : ""
   pricing_table:
   - name : "Standard"
     price : "IDR 30K"
@@ -239,7 +239,7 @@ call_to_action:
   enable : true
   title : "Get Ticket Now!"
   image : "images/speakers/speaker-ticket.png"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmtempor incidi"
+  content : ""
   button:
     enable : true
     label : "Buy ticket"
@@ -250,7 +250,7 @@ call_to_action:
 sponsors:
   enable : true
   title : "Our Sponsors"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor incididunt ut labore dolore"
+  content : ""
   button:
     enable : true
     label : "Become a sponsor"
