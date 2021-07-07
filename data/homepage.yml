@@ -195,7 +195,7 @@ registration:
   - name : "17 Speakers"
     icon : "fa-microphone"
     
-  - name : "9+ Attendees"
+  - name : "15+ Attendees"
     icon : "fa-user-o"
     
   - name : "300 tickets"
@@ -302,4 +302,4 @@ sponsors:
     
     - name : "onid"
       logo : "images/sponsors/onid-logo.png"
-      link : "#"
+      link : "https://t.me/opennetworkingid"
