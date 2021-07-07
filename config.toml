@@ -125,7 +125,7 @@ logo_width = "100px"
 description = "Indonesia OpenInfra Days 2021"
 author = "#IOID21"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mrgrlwgq"
 # copyright
 copyright = "Powered by [IMTEK](https://imtek.id/) for [OpenStack Indonesia](https://openstack.id)"
 
