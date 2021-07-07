@@ -284,6 +284,10 @@ sponsors:
       logo : "images/sponsors/biznet-giocloud-logo.png"
       link : "https://www.biznetgio.com/"
 
+    - name : "easystack"
+      logo : "images/sponsors/easystack-logo.png"
+      link : "https://easystack.io/"
+
   - name : "Silver Sponsors"
     sponsor_item:
     - name : "bri"
