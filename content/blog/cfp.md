@@ -5,23 +5,36 @@ date: 2020-06-18T15:40:24+06:00
 image: "images/news/cfp.png"
 author: "Ary"
 author_id: "https://linkedin.com/in/aryulianto"
-tags: ["business", "events"]
-categories: ["events", "creative"]
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
+tags: ["EVENTS", "IOID21", "WeAreOpenInfra"]
+categories: ["events", "IOID21","anually"]
+description : ""
 draft : false
 ---
+### Indonesia OpenInfra Days 2021 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo conse
-quat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+akan kembali diadakan pada hari Sabtu, 21 Agustus 2021 secara virtual melalui Kanal Resmi Youtube OpenStack Indonesia. Acara ini akan menyajikan Sesi Kilat (Lightning Talks) dan Sesi Penyajian (Talks). Panitia mengundang Anda untuk berpartisipasi menjadi penyaji dalam konferensi yang rutin diadakan satu tahun sekali ini.
 
+### Topik
+Seperti di tahun-tahun sebelumnya, topik yang disajikan dalam acara ini berkaitan dengan teknologi open infrastructure. Materi yang disajikan dapat berisi hal-hal teknis maupun non-teknis.
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. 
+### Berikut contoh teknologi yang berkaitan:
+OpenStack | StarlingX | Airship | Zuul | Kubernetes | Docker | Ceph | GitLab | Jenkins | Elastic Stack | Terraform | Ansible | Prometheus | Hadoop | Open Compute | Open Networking | HPC | Machine Learning | Blockchain | IoT | Community | dan lain-lain.
 
+### Sesi
+Format sesi yang tersedia dalam acara ini adalah Sesi Kilat (10 menit + T&J) dan Sesi Penyajian (30 menit + T&J)
 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.
-quaerat voluptatem.
+### Jadwal
+– Tenggat pengajuan penyajian: 23 Juli 2021
+– Pengumuman penyajian diterima: 28 Juli 2021
 
+### Penyerahan Presentasi
+Sila ajukan proposal penyajian Anda melaui tautan berikut: [https://s.id/ioid21_cfp](https://s.id/ioid21_cfp)
 
->Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo consequat.
+### Contoh Penyajian Diterima
+Kunjungi tautan berikut untuk referensi penyajian: [IOID2019](https://www.openstack.id/2019/11/13/salindia-presentasi-ioid19/) | [OICNDI2020](https://www.openstack.id/2020/11/26/salindia-presentasi-oicndi2020/)
 
-Amet consectetur adipisicing elit, sed do eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud.laboris nisi ut aliquip ex ea commodo conse
+### Penilai
+Wakil Komunitas OpenStack Indonesia
+
+### Penyelenggara
+Komunitas OpenStack Indonesia
