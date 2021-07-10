@@ -1,41 +1,45 @@
 ---
-title : "Our _FAQ_"
+title : "Our FAQ"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
+description : ""
 draft : false
 layout : "faq"
 ---
 
 
-{{< faq "Will updates also be free?" >}}
-Lorem, [link](https://examplesite.com) _ipsum_ dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "Siapakah penyelenggara kegiatan acara The Indonesia OpenInfra Days 2021?" >}}
+Penyelenggara kegiatan acara ini yaitu Komunitas OpenStack Indonesia bekerja sama dengan komunitas-komunitas TI indonesia lainnya.
 {{</ faq >}}
 
-{{< faq "Discounts for students and Non Profit Organizations?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "Untuk siapa acara ini?" >}}
+Konferensi The Indonesia OpenInfra Days 2021 terbuka bagi para pengguna, pebisnis, pengembang, dan berbagai organisasi termasuk perusahaan, UKM (Unit Kegiatan Mahasiswa), pemerintahan, Kampus, LSM (Lembaga Swadaya Masyarakat), penyedia layananan komputasi awan, dan penyedia teknologi.
 {{</ faq >}}
 
-{{< faq "I need something unique, Can you make it?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "Bagaimana cara menjadi pembicara  The Indonesia OpenInfra Days 2021?" >}}
+Pembicara terbuka bagi setiap orang yang akan dipilih dan dinilai melalui prosedur [Call for Paper (CFP](https://s.id/ioid21_cfp)).
 {{</ faq >}}
 
-{{< faq "Is there any documentation and support?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "Bagaimana saya bisa memesan tiket pendaftaran acara ini?" >}}
+Pemesanan tiket dapat mengisi tautan berikut [https://s.id/ioid21_register](https://s.id/ioid21_register) dan melakukan pembayaran BRI 112701030456501 a/n Yoga Dwi Goesty Dara Seta.
 {{</ faq >}}
 
-{{< faq "Any refunds?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "Dapatkah saya membeli memesan tiket pada hari acara berlangsung (D-Day)?" >}}
+Anda tidak dapat memesan tiket pada hari acara berlangsung.
 {{</ faq >}}
 
-{{< faq "What is a product key?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "Bagaimana cara saya dapat menghadiri acara ini?" >}}
+Acara ini akan dilakukan secara virtual. Bagi peserta yang telah memesan tiket akan mendapatkan tautan streaming acara.
 {{</ faq >}}
 
-{{< faq "Where do I download the file to?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "Apakah semua peserta akan mendapatkan merchandise?" >}}
+Iya, Setiap peserta yang akan mendapatkan merchandise special edition.
 {{</ faq >}}
 
-{{< faq "What happens after I download?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "Apakah bisa pengembalian dana pengembalian dana jika saya tidak mengikuti acara ini?" >}}
+Biaya pendaftaran tidak dapat dikembalikan jika sudah melakukan pendaftaran.
+{{</ faq >}}
+
+{{< faq "Apakah saya akan mendapatkan sertifikat setelah mengikuti acara ini?" >}}
+Kami dapat sediakan melalui permintaan khusus kepada panitia.
 {{</ faq >}}
