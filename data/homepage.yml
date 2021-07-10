@@ -198,7 +198,7 @@ registration:
   - name : "30+ Attendees"
     icon : "fa-user-o"
     
-  - name : "300 tickets"
+  - name : "250 tickets"
     icon : "fa-ticket"
     
   - name : "1 days online event"
