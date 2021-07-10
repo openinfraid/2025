@@ -104,10 +104,10 @@ hasChildren = true
   name = "Pricing"
   url = "pricing"
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "News"
-  url = "blog"
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "News"
+#  url = "blog"
 
 [[menu.main]]
 name = "Contact"

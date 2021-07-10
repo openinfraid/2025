@@ -264,12 +264,13 @@ call_to_action:
 ############### Sponsors ##################
 sponsors:
   enable : true
-  title : "Our Sponsors"
+  title : "Sponsors & Community Partner"
   content : ""
   button:
     enable : true
     label : "Become a sponsor"
     link : "files/PropIOID21_EN.5.pdf"
+
   sponsor_group:
   - name : "Platinum Sponsors"
     sponsor_item:
@@ -310,3 +311,21 @@ sponsors:
     - name : "indocenter"
       logo : "images/sponsors/indocenter-logo.png"
       link : "https://indocenter.co.id/"  
+  
+  - name : "Community Partner"
+    sponsor_item:
+    - name : "gimpscape"
+      logo : "images/community/gimpscape.png"
+      link : "https://gimpscape.org/"
+
+    - name : "klas"
+      logo : "images/community/klas.png"
+      link : "https://klas.or.id/"
+    
+    - name : "opensuse-id"
+      logo : "images/community/opensuse-id.png"
+      link : "https://opensuse.id/"
+      
+    - name : "sdx"
+      logo : "images/community/sdx.png"
+      link : "https://t.me/SDxIndonesia"
