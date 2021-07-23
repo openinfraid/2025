@@ -19,9 +19,6 @@ social:
 - name: "instagram"
   icon: "fa-instagram"
   link: "https://www.instagram.com/ricolinguanyu/"
-- name: "skype"
-  icon: "fa-skype"
-  link: "#"
 
 personal_info:
   enable : false
@@ -42,3 +39,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
+### EasyStack: From 0 to 1
