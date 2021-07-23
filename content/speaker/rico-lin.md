@@ -4,7 +4,7 @@ page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Senior Software Engineer"
 image: "images/speakers/rico-lin.jpg"
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, velit."
+description : "Senior Software Engineer - EasyStack"
 draft : false
 social:
 - name: "facebook"
@@ -39,4 +39,5 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-### EasyStack: From 0 to 1
+#### EasyStack: From 0 to 1
+
