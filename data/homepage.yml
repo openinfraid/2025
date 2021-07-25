@@ -333,3 +333,7 @@ sponsors:
     - name : "cncf-indonesia"
       logo : "images/community/cncf-indo.png"
       link : "https://t.me/kubernetesindonesia"
+
+    - name : "adaptive-net-lab"
+      logo : "images/community/anl.png"
+      link : "https://adaptivenetworklab.org/"
