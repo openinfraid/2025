@@ -2,8 +2,8 @@
 title : "TBA"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Our CFP Still Open!"
-image: "images/speakers/rico-lin.jpg"
+designation: "Our CFP Still Open!<br/>https://s.id/ioid21_cfp"
+image: "images/speakers/tba.jpg"
 description : "Our CFP Still Open!"
 draft : false
 social:
