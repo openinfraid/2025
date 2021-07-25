@@ -24,8 +24,11 @@ OpenStack | StarlingX | Airship | Zuul | Kubernetes | Docker | Ceph | GitLab | J
 Format sesi yang tersedia dalam acara ini adalah Sesi Kilat (10 menit + T&J) dan Sesi Penyajian (30 menit + T&J)
 
 ### Jadwal
-– Tenggat pengajuan penyajian: 23 Juli 2021
-– Pengumuman penyajian diterima: 28 Juli 2021
+~~– Tenggat pengajuan penyajian: 23 Juli 2021<br/>
+– Pengumuman penyajian diterima: 28 Juli 2021~~
+
+- Tenggat pengajuan penyajian diperpanjang sampai: 30 Juli 2021
+- Pengumuman penyajian diterima: 31-1 Juli 2021
 
 ### Penyerahan Presentasi
 Sila ajukan proposal penyajian Anda melaui tautan berikut: [https://s.id/ioid21_cfp](https://s.id/ioid21_cfp)
