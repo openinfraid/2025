@@ -2,9 +2,9 @@
 title : "Dirgantara Rahadian"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "IT Infranstructure Head"
+designation: "IT Infranstructure Head<br/>Bank BTPN Syariah"
 image: "images/speakers/dirgantara.jpg"
-description : "IT Infranstructure Head - Bank BTPNS"
+description : "IT Infranstructure Head - Bank BTPN Syariah"
 draft : false
 social:
 - name: "facebook"
