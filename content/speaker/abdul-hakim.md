@@ -3,7 +3,7 @@ title : "Rico Lin"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Academy Manager<br/>PT Boer Technology"
-image: "images/speakers/rico-lin.jpg"
+image: "images/speakers/hakim.jpg"
 description : "Academy Manager - PT Boer Technology"
 draft : false
 social:
