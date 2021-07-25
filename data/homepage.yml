@@ -329,3 +329,7 @@ sponsors:
     - name : "sdx"
       logo : "images/community/sdx.png"
       link : "https://t.me/SDxIndonesia"
+    
+    - name : "cncf-indonesia"
+      logo : "images/community/cncf-indo.png"
+      link : "https://t.me/kubernetesindonesia"
