@@ -1,9 +1,9 @@
 ---
-title : "Atwatan Malik"
+title : "Prasta Maha"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Cloud Engineer<br/>PT Boer Technology"
-image: "images/speakers/atwatan-malik.png"
+image: "images/speakers/atwatan-malik.jpg"
 description : "Cloud Engineer - PT Boer Technology"
 draft : false
 social:
@@ -12,10 +12,10 @@ social:
   link: "#"
 - name: "twitter"
   icon: "fa-twitter"
-  link: "#"
+  link: "https://twitter.com/prastamh"
 - name: "linkedin"
   icon: "fa-linkedin"
-  link: "https://www.linkedin.com/in/atwatanmalikm"
+  link: "https://www.linkedin.com/in/prastamaha"
 - name: "instagram"
   icon: "fa-instagram"
   link: "#"
@@ -39,4 +39,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-#### Implement Secure Containers using Kata Container and gVisor in Kubernetes
+#### Securing Kubernetes Service Using oauth2-proxy
