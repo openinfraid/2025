@@ -195,10 +195,10 @@ registration:
   - name : "17 Speakers"
     icon : "fa-microphone"
     
-  - name : "45+ Attendees"
+  - name : "50+ Attendees"
     icon : "fa-user-o"
     
-  - name : "250 tickets"
+  - name : "Flexible tickets"
     icon : "fa-ticket"
     
   - name : "1 days online event"
