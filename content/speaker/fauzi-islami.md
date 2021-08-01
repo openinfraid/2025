@@ -3,7 +3,7 @@ title : "M. Fauzi Islami"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "IT Consultant<br/>PT. Inovasi Informatika Indonesia"
-image: "images/speakers/prasta-maha.jpg"
+image: "images/speakers/fauzi-islami.jpg"
 description : "IT Consultant - PT. Inovasi Informatika Indonesia"
 draft : false
 social:
