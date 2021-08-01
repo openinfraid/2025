@@ -1,10 +1,10 @@
 ---
-title : "Prasta Maha"
+title : "Giri Kuncoro"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Cloud Engineer<br/>PT Boer Technology"
-image: "images/speakers/prasta-maha.jpg"
-description : "Cloud Engineer - PT Boer Technology"
+designation: "Senior Software Engineer<br/>Gojek"
+image: "images/speakers/giri-kuncoro.png"
+description : "Senior Software Engineer - Gojek"
 draft : false
 social:
 - name: "facebook"
@@ -12,13 +12,13 @@ social:
   link: "#"
 - name: "twitter"
   icon: "fa-twitter"
-  link: "https://twitter.com/prastamh"
+  link: "https://twitter.com/girikuncoro"
 - name: "linkedin"
   icon: "fa-linkedin"
-  link: "https://www.linkedin.com/in/prastamaha"
+  link: "https://www.linkedin.com/in/girikuncoro"
 - name: "instagram"
   icon: "fa-instagram"
-  link: "#"
+  link: "https://www.instagram.com/girikuncoro"
 
 personal_info:
   enable : false
@@ -39,4 +39,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-#### Securing Kubernetes Service Using oauth2-proxy
+#### Kekuatan Super eBPF
