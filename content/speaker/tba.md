@@ -2,9 +2,9 @@
 title : "TBA"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Our CFP Still Open!<br/>https://s.id/ioid21_cfp"
+designation: "Will Announce Soon! <br/>Waiting for Speakers Confirmation"
 image: "images/speakers/tba.JPG"
-description : "Our CFP Still Open!"
+description : "Will Announce Soon!"
 draft : false
 social:
 - name: "facebook"
@@ -39,5 +39,5 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-#### [https://2021.openinfra.id/blog/cfp/](https://2021.openinfra.id/blog/cfp/)
+#### Will announce soon!
 
