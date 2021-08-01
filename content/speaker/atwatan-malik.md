@@ -9,16 +9,16 @@ draft : false
 social:
 - name: "facebook"
   icon: "fa-facebook"
-  link: "#"
+  link: "https://www.facebook.com/ibnmahar"
 - name: "twitter"
   icon: "fa-twitter"
-  link: "#"
+  link: "https://twitter.com/atwatanmalikm"
 - name: "linkedin"
   icon: "fa-linkedin"
   link: "https://www.linkedin.com/in/atwatanmalikm"
 - name: "instagram"
   icon: "fa-instagram"
-  link: "#"
+  link: "https://instagram.com/atwatanmalik_m"
 
 personal_info:
   enable : false
