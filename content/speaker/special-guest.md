@@ -1,10 +1,10 @@
 ---
-title : "Special Guest Speaker"
+title : "TBA"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Keynote<br/>OpenInfra Foundation"
+designation: "Special Guest Speaker<br/>OpenInfra Foundation"
 image: "images/speakers/tba.JPG"
-description : "Keynote - OpenInfra Foundation"
+description : "Special Guest Speaker - OpenInfra Foundation"
 draft : false
 social:
 - name: "facebook"
@@ -39,4 +39,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-#### Special Guest From
+#### Special Guest From OpenInfra Foundation
