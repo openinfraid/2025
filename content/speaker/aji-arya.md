@@ -2,9 +2,9 @@
 title : "Aji Arya Revaldi"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Senior Cloud Engineer<br/>IMTEK"
+designation: "Cloud Engineer<br/>IMTEK"
 image: "images/speakers/aji-arya.jpg"
-description : "Senior Cloud Engineer - IMTEK"
+description : "Cloud Engineer - IMTEK"
 draft : false
 social:
 - name: "facebook"
