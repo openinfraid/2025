@@ -3,7 +3,7 @@ title : "Cahyo Darujati"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Senior Konsultan<br/>PT. Radnet Digital Indonesia"
-image: "images/speakers/atwatan-malik.png"
+image: "images/speakers/cahyo-darujati.jpg"
 description : "Senior Konsultan - PT. Radnet Digital Indonesia"
 draft : false
 social:
