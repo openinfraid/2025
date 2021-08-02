@@ -1,21 +1,21 @@
 ---
-title : "TBA"
+title : "Cahyo Darujati"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Will Announce Soon! <br/>Waiting for Speakers Confirmation"
-image: "images/speakers/tba.JPG"
-description : "Will Announce Soon!"
+designation: "Senior Konsultan<br/>PT. Radnet Digital Indonesia"
+image: "images/speakers/cahyo-darujati.jpg"
+description : "Senior Konsultan - PT. Radnet Digital Indonesia"
 draft : false
 social:
 - name: "facebook"
   icon: "fa-facebook"
-  link: "!"
+  link: "#"
 - name: "twitter"
   icon: "fa-twitter"
   link: "#"
 - name: "linkedin"
   icon: "fa-linkedin"
-  link: "#"
+  link: "https://id.linkedin.com/in/cahyodarujati"
 - name: "instagram"
   icon: "fa-instagram"
   link: "#"
@@ -39,5 +39,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-#### Will announce soon!
-
+#### Machine Learning tanpa Koding dengan Orange
