@@ -50,7 +50,7 @@ tab:
     tablist_items:
     # speaker
     - speaker : "Master of Ceremony"
-      speaker_image : "images/speakers/mc-sandika-thumb.JPG"
+      speaker_image : "images/speakers/mc-sandika-thumb.jpg"
       subject : "Opening"
       venue : "Main Room"
       time : "08.30 AM"
