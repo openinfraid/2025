@@ -63,7 +63,7 @@ tab:
     # speaker
     - speaker : "TBA"
       speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Keynote #1 - OIF"
+      subject : "Keynote #1 - OpenInfra Foundation"
       venue : "Main Room"
       time : "09.00 AM"
     # speaker
@@ -79,19 +79,19 @@ tab:
       venue : "Main Room"
       time : "10.00 AM"
     # speaker
-    - speaker : "Dr. Cahyo Darujati, ST., MT."
+    - speaker : "Cahyo Darujati"
       speaker_image : "images/speakers/cahyo-darujati-thumb.jpg"
       subject : "Lightning Talk #2 - Machine Learning tanpa Koding dengan Orange"
       venue : "Main Room"
       time : "10.10 AM"
     # speaker
-    - speaker : "D. P. Prasta Maha Gangga"
+    - speaker : "Prasta Maha"
       speaker_image : "images/speakers/prasta-maha-thumb.jpg"
       subject : "Talk #1 - Securing Kubernetes Service Using oauth2-proxy"
       venue : "Main Room"
       time : "10.20 AM"
     # speaker
-    - speaker : "Muhammad Fauzi Islami"
+    - speaker : "M. Fauzi Islami"
       speaker_image : "images/speakers/fauzi-islami-thumb.jpg"
       subject : "Talk #2 - Make Kubernetes Secret Object More Secret Using Sealed Secret"
       venue : "Main Room"
