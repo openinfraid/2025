@@ -97,13 +97,13 @@ tab:
       venue : "Main Room"
       time : "10.50 AM"
     # speaker
-    - speaker : "Atwatan Malik Mahardi"
+    - speaker : "Atwatan Malik"
       speaker_image : "images/speakers/atwatan-malik-thumb.png"
       subject : "Talk #3 - Implement Secure Containers using Kata Container and gVisor in Kubernetes"
       venue : "Main Room"
       time : "11.20 AM"
     # speaker
-    - speaker : "Aji M. Arya Revaldi"
+    - speaker : "Aji Arya Revaldi"
       speaker_image : "images/speakers/aji-arya-thumb.jpg"
       subject : "Talk #4 - Block and Object Storage Solution with Ceph in Production"
       venue : "Main Room"
@@ -189,7 +189,7 @@ registration:
   - name : "17 Speakers"
     icon : "fa-microphone"
     
-  - name : "70+ Attendees"
+  - name : "97+ Attendees"
     icon : "fa-user-o"
     
   - name : "Flexible tickets"
