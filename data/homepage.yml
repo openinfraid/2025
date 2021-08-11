@@ -266,7 +266,13 @@ sponsors:
     link : "files/PropIOID21_EN.5.pdf"
 
   sponsor_group:
-  - name : "Platinum Sponsors"
+  - name : "Foundation Sponsor"
+    sponsor_item:
+    - name : "oif"
+      logo : "images/sponsors/oif-logo.png"
+      link : "https://openinfra.dev"
+
+  - name : "Platinum Sponsor"
     sponsor_item:
     - name : "nvidia"
       logo : "images/sponsors/nvidia-logo.png"
@@ -286,7 +292,7 @@ sponsors:
       logo : "images/sponsors/easystack-logo.png"
       link : "https://easystack.io/"
 
-  - name : "Silver Sponsors"
+  - name : "Silver Sponsor"
     sponsor_item:
     - name : "bri"
       logo : "images/sponsors/bri-logo.png"
