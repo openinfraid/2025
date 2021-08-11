@@ -269,7 +269,7 @@ sponsors:
   - name : "Foundation Sponsor"
     sponsor_item:
     - name : "oif"
-      logo : "images/sponsors/oif-logo.png"
+      logo : "images/sponsors/oif-logo.jpg"
       link : "https://openinfra.dev"
 
   - name : "Platinum Sponsor"
