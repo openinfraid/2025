@@ -39,4 +39,4 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-#### Building the New Decade of OpenInfra
+#### Building the Next Decade of OpenInfra
