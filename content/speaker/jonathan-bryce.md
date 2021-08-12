@@ -3,7 +3,7 @@ title : "Jonathan Bryce"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "CEO, Executive Director<br/>OpenInfra Foundation"
-image: "images/speakers/jonathan-bryce.jpg"
+image: "images/speakers/jonathan-bryce.jpeg"
 description : "CEO, Executive Director - OpenInfra Foundation"
 draft : false
 social:
