@@ -3,7 +3,7 @@ title : "Kiki Fachry"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Indonesia OpenStack User Group"
-image: "images/speakers/tba.JPG"
+image: "images/organizer/kiki.jpg"
 description : "Indonesia OpenStack User Group"
 draft : false
 social:
