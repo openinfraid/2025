@@ -61,7 +61,7 @@ tab:
       venue : "Main Room"
       time : "08.40 AM"
     # speaker
-    - speaker : "TBA"
+    - speaker : "Jonathan Bryce, Mark Collier, Thierry Carrez"
       speaker_image : "images/speakers/tba-thumb.JPG"
       subject : "Keynote #1 - OpenInfra Foundation"
       venue : "Main Room"
