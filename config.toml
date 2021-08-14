@@ -104,6 +104,11 @@ hasChildren = true
   name = "Pricing"
   url = "pricing"
 
+  [[menu.main]]
+  parent = "Pages"
+  name = "Organizer"
+  url = "organizer"
+
 #  [[menu.main]]
 #  parent = "Pages"
 #  name = "News"
