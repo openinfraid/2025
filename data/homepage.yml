@@ -312,6 +312,10 @@ sponsors:
       logo : "images/sponsors/indocenter-logo.png"
       link : "https://indocenter.co.id/"  
   
+    - name : "openstack-kr"
+      logo : "images/sponsors/openstack-kr-logo.png"
+      link : "https://www.meetup.com/OpenStack-and-Open-Infrastructure-Korea/"
+
   - name : "Community Partner"
     sponsor_item:
     - name : "gimpscape"
