@@ -3,7 +3,7 @@ title : "M. Luthfi As Syafii"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "SDx Indonesia"
-image: "images/speakers/tba.JPG"
+image: "images/organizers/luthfi.jpg"
 description : "SDx Indonesia"
 draft : false
 social:
