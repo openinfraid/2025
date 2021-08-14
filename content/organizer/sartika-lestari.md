@@ -3,22 +3,22 @@ title : "Sartika Lestari"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Indonesia OpenStack User Group"
-image: "images/speakers/tba.JPG"
+image: "images/organizers/tika.JPG"
 description : "Indonesia OpenStack User Group"
 draft : false
 social:
 - name: "facebook"
   icon: "fa-facebook"
-  link: "#"
+  link: "https://facebook.com/sartika.lestari.547/"
 - name: "twitter"
   icon: "fa-twitter"
-  link: "#"
+  link: "https://twitter.com/sartikalestarii"
 - name: "linkedin"
   icon: "fa-linkedin"
-  link: "#"
+  link: "https://linkedin.com/in/sartikalestari/"
 - name: "instagram"
   icon: "fa-instagram"
-  link: "#"
+  link: "https://instagram.com/sartikalestariii"
 
 personal_info:
   enable : false
