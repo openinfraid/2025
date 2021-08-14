@@ -1,24 +1,24 @@
 ---
-title : "Dirgantara Rahadian"
+title : "Saputro Aryulianto"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "IT Infranstructure Head<br/>Bank BTPN Syariah"
-image: "images/speakers/dirgantara.jpg"
-description : "IT Infranstructure Head - Bank BTPN Syariah"
+designation: "Indonesia OpenStack User Group"
+image: "images/speakers/tba.JPG"
+description : "Indonesia OpenStack User Group"
 draft : false
 social:
 - name: "facebook"
   icon: "fa-facebook"
-  link: "https://www.facebook.com/dirgantara.rahadian/"
+  link: "https://www.facebook.com/aryuliantos/"
 - name: "twitter"
   icon: "fa-twitter"
-  link: "https://twitter.com/yd1eee"
+  link: "https://twitter.com/aryuliantos/"
 - name: "linkedin"
   icon: "fa-linkedin"
-  link: "https://www.linkedin.com/in/dirgantara-rahadian-a95b657/"
+  link: "https://id.linkedin.com/in/aryulianto/"
 - name: "instagram"
   icon: "fa-instagram"
-  link: "https://www.instagram.com/yd1eee/"
+  link: "https://www.instagram.com/aryuliantos/"
 
 personal_info:
   enable : false
@@ -39,4 +39,3 @@ skills:
   - name: "HTML"
     percentage: "80%"
 ---
-#### Transformasi IT Infrastructure menjadi DevOps Possible or Imposibble?
