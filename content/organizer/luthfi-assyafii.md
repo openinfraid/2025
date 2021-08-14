@@ -2,9 +2,9 @@
 title : "M. Luthfi As Syafii"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Indonesia OpenStack User Group"
+designation: "SDx Indonesia"
 image: "images/speakers/tba.JPG"
-description : "Indonesia OpenStack User Group"
+description : "SDx Indonesia"
 draft : false
 social:
 - name: "facebook"
