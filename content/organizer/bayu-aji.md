@@ -3,7 +3,7 @@ title : "Bayu Aji"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "GIMPSCAPE Indonesia"
-image: "images/speakers/tba.JPG"
+image: "images/speakers/bayu-aji.JPG"
 description : "GIMPSCAPE Indonesia"
 draft : false
 social:
