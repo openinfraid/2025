@@ -3,7 +3,7 @@ title : "Cahyaning Asih"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "GIMPSCAPE Indonesia"
-image: "images/speakers/cahya.png"
+image: "images/organizers/cahya.png"
 description : "GIMPSCAPE Indonesia"
 draft : false
 social:
