@@ -190,16 +190,16 @@ registration:
   #form_action : "#" # works with formspree.io
 
   funfacts:
-  - name : "15 Speakers"
+  - name : "17 Speakers"
     icon : "fa-microphone"
     
-  - name : "120+ Attendees"
+  - name : "200+ Attendees"
     icon : "fa-user-o"
     
   - name : "Free COA voucher"
     icon : "fa-ticket"
     
-  - name : "1 days online event"
+  - name : "1 day online event"
     icon : "fa-calendar"
 
 ############ Pricing ####################
