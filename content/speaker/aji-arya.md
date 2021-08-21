@@ -26,10 +26,16 @@ presentation_info:
   slideEmbedPath: "/slides/Aji_Muhammad_Arya_Revaldi-Block_and_Object_Storage_Solution_with_Ceph_in_Production.pdf" 
   description: |
       Hello World
+<<<<<<< HEAD
   anotherPresentationEnable: true
   anotherPresentation:
     - title: Scalable Object Storage Solution with Ceph RGW and Keystone (OpenStack Collaborate Meetup)
       link: https://youtu.be/haYYhtYHeJA?t=1144
+=======
+#  another_presentations:
+#    - title: Scalable Object Storage Solution with Ceph RGW and Keystone (OpenStack Collaborate Meetup)
+#      link: https://youtu.be/haYYhtYHeJA?t=1144
+>>>>>>> 7b57b1605d3dbb823f4e93f823d778f76e3b7292
 
 ### UNUSED ### 
 personal_info:
