@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "#"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Dewa_Putu_Prasta_Maha_Gangga_-_Securing_Kubernetes_Service_Using_oauth2-proxy.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: true
+  anotherPresentation:
+    - title: "Implement Kolla Ansible for Production (OpenStack Meetup #10)"
+      link: https://youtu.be/O-rAPqulVuc?t=567
+
 personal_info:
   enable : false
   title : "Personal Information"
