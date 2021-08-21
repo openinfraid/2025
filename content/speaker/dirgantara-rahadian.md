@@ -20,6 +20,13 @@ social:
   icon: "fa-instagram"
   link: "https://www.instagram.com/yd1eee/"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "Personal Information"
+  slideTitle: "Transformasi IT Infrastructure menjadi DevOps Possible or Imposibble?"
+  slideEmbedPath: "/slides/Dirgantara_Rahadian-Transformasi_IT_Infrastructure_menjadi_DevOps_Possible_or_Imposibble.pdf"
+
 personal_info:
   enable : false
   title : "Personal Information"
