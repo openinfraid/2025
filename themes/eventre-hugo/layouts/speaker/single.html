@@ -43,7 +43,7 @@
         {{ with .Params.presentation_info }}
         {{ if .videoEnable }}
         <div class="col-md-6">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/76Xsn9rGU1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="{{ .videoUrl | safeURL }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="col-md-5 ml-5">
             <div>
@@ -52,12 +52,8 @@
             </div>
         </div>
         {{ end }}
-<<<<<<< HEAD
         {{ if .anotherPresentationEnable }}
         <div class="col-md-12 mt-4">
-=======
-<!--        <div class="col-md-12 mt-4">
->>>>>>> 7b57b1605d3dbb823f4e93f823d778f76e3b7292
           <h5>Watch another presentation</h5>
           <ul class="ml-3 list-group list-group-flush">
           {{ range .anotherPresentation }}
@@ -67,11 +63,7 @@
           {{ end }}
           <ul>
         </div>
-<<<<<<< HEAD
         {{ end }}
-=======
--->
->>>>>>> 7b57b1605d3dbb823f4e93f823d778f76e3b7292
         <div class="col-md-12 mt-4">
           <h2>Presentation Slide</h2>
           <iframe src="{{ .slideEmbedPath }}#view=Fit" width="100%" height="500px">
