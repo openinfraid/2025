@@ -57,7 +57,7 @@ tab:
     # speaker
     - speaker : "M. Luthfi As Syafii"
       speaker_image : "images/speakers/luthfi-tumb.jpg"
-      subject : "Welcome Speech"
+      subject : "OpenStack Indonesia in Numbers"
       venue : "Main Room"
       time : "08.40 AM"
     # speaker
