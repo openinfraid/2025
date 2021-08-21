@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: false
-<<<<<<< HEAD
+  videoUrl: "URL_HERE"
   slideEmbedPath: "/slides/Dirgantara_Rahadian-Transformasi_IT_Infrastructure_menjadi_DevOps_Possible_or_Imposibble.pdf"
   description: |
       Hello World
@@ -31,11 +31,6 @@ presentation_info:
   anotherPresentation:
     - title: None
       link: None
-=======
-  videoUrl: "Personal Information"
-  slideTitle: "Transformasi IT Infrastructure menjadi DevOps Possible or Imposibble?"
-  slideEmbedPath: "/slides/Dirgantara_Rahadian-Transformasi_IT_Infrastructure_menjadi_DevOps_Possible_or_Imposibble.pdf"
->>>>>>> 3d5066ff92dfc948db8c14e4c61c6c49676a448f
 
 personal_info:
   enable : false
