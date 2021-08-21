@@ -20,6 +20,17 @@ social:
   icon: "fa-instagram"
   link: "https://www.instagram.com/yd1eee/"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  slideEmbedPath: "/slides/Dirgantara_Rahadian-Transformasi_IT_Infrastructure_menjadi_DevOps_Possible_or_Imposibble.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"
