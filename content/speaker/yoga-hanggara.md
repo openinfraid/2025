@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "https://www.instagram.com/yohang88/"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Yoga_Hanggara_-_Teknologi_Cloud_Native_Dibalik_Layar_Penanganan_Pandemi_di_Jawa_Barat_(PIKOBAR).pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"
