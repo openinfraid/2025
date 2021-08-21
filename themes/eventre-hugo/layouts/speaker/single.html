@@ -52,11 +52,11 @@
             </div>
         </div>
         {{ end }}
-        {{ if .another_presentationEnable }}
+        {{ if .anotherPresentationEnable }}
         <div class="col-md-12 mt-4">
           <h5>Watch another presentation</h5>
           <ul class="ml-3 list-group list-group-flush">
-          {{ range .another_presentations}}
+          {{ range .anotherPresentation }}
             <li>
               <a style="color: #ed1944;" href="{{ .link | safeURL }}">{{ .title }}</a>
             </li>
