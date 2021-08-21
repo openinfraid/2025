@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "https://www.instagram.com/girikuncoro"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Giri_Kuncoro_-_Kekuatan_Super_eBPF.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"
