@@ -55,8 +55,8 @@ tab:
       venue : "Main Room"
       time : "08.30 AM"
     # speaker
-    - speaker : "Saputro Aryulianto"
-      speaker_image : "images/speakers/ary-thumb.JPG"
+    - speaker : "Muhammad Luthfi As Syafii"
+      speaker_image : "images/speakers/luthfi-thumb.jpg"
       subject : "Welcome Speech"
       venue : "Main Room"
       time : "08.40 AM"
