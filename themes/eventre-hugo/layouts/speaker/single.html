@@ -1,5 +1,4 @@
 {{ define "main" }}
-
 <section class="section single-speaker">
   <div class="container">
     <div class="block">
@@ -35,7 +34,41 @@
       </div>
     </div>
     <div class="block-2">
+      <h2>Watch the presentation</h2>
       <div class="row">
+        {{ if .Params.presentation_info.enable }}
+        {{ with .Params.presentation_info }}
+        <div class="col-md-6">
+          <h1 style="color: #ed1944;">Coming Soon!</h1>
+        </div>
+        {{ if .videoEnable }}
+        <div class="col-md-6">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/76Xsn9rGU1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="col-md-5 ml-5">
+            <div>
+              <h5>Presentation Description</h5>
+              <p>{{ .description | markdownify }}</p>
+            </div>
+        </div>
+        {{ end }}
+        <div class="col-md-12 mt-4">
+          <h5>Watch another presentation</h5>
+          <ul class="ml-3 list-group list-group-flush">
+          {{ range .another_presentations}}
+            <li>
+              <a style="color: #ed1944;" href="{{ .link | safeURL }}">{{ .title }}</a>
+            </li>
+          {{ end }}
+          <ul>
+        </div>
+        <div class="col-md-12 mt-4">
+          <h5>Presentation Slide</h5>
+          <iframe src="{{ .slideEmbedPath }}#view=Fit" width="100%" height="500px">
+        </div>
+        {{ end }}
+        {{ end }}
+
         {{ if .Params.personal_info.enable }}
         {{ with .Params.personal_info }}
         <div class="col-md-6">
