@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "#"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Tonny_Adhi_Sabastian_-_OpenTelemetry_Collector_as_Kubernetes_Universal_Telemetry_Collector_Pipeline.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"
