@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "https://instagram.com/atwatanmalik_m"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Atwatan_Malik_Mahardi_-_Implement_Secure_Containers_using_Kata_Container_and_gVisor_in_Kubernetes.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"
