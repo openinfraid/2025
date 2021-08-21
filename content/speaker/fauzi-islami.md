@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "https://www.instagram.com/fauzislami"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Muhammad_Fauzi_Islami_-_Make_Kubernetes_Secret_Object_More_Secret_Using_Sealed_Secret.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"
