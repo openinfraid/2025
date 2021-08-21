@@ -1,5 +1,5 @@
 ---
-title : "Aji Arya Revaldi"
+title : "Aji Arya"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Cloud Engineer<br/>IMTEK"
@@ -20,6 +20,19 @@ social:
   icon: "fa-instagram"
   link: "https://www.instagram.com/ajiaryaa/"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "Personal Information"
+  slideTitle: "Block and Object Sorage Solution with Ceph in Production"
+  slideEmbedPath: "/slides/Aji_Muhammad_Arya_Revaldi-Block_and_Object_Storage_Solution_with_Ceph_in_Production.pdf" 
+  description: |
+      Hello World
+  another_presentations:
+    - title: Scalable Object Storage Solution with Ceph RGW and Keystone (OpenStack Collaborate Meetup)
+      link: https://youtu.be/haYYhtYHeJA?t=1144
+
+### UNUSED ### 
 personal_info:
   enable : false
   title : "Personal Information"
