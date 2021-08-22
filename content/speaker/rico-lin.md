@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "https://www.instagram.com/ricolinguanyu/"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Rico_Lin_-_EasyStack__From_0_to_1.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"
