@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "#"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Wahyu_Anggana_-_Light_Weight_Orchestration_Tools_Using_Nomad.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"

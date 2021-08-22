@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "#"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Abdul_Hakim_-_Develop_Your_Skill_at_ADINUSA_Bootcamp.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"
