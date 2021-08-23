@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "https://instagram.com/sitidy"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Didiet_A._Pambudiono_-_Sending_Prometheus_Alertmanager_to_Google_Chat.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"
