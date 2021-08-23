@@ -20,6 +20,18 @@ social:
   icon: "fa-instagram"
   link: "#"
 
+presentation_info:
+  enable: true
+  videoEnable: false
+  videoUrl: "URL_HERE"
+  slideEmbedPath: "/slides/Dr_Cahyo_Darujati,_ST_,_MT_Machine_Learning_tanpa_Koding_dengan_Orange.pdf"
+  description: |
+      Hello World
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"
