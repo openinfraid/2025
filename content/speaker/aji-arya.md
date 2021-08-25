@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: false
-  videoUrl: "URL_HERE"
+  videoUrl: "https://www.youtube.com/watch?v=ZnSlLiHVwlY"
   slideEmbedPath: "/slides/Aji_Muhammad_Arya_Revaldi-Block_and_Object_Storage_Solution_with_Ceph_in_Production.pdf" 
   description: |
       Hello World

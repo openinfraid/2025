@@ -107,7 +107,7 @@ tab:
       venue : "Main Room"
       time : "11.20 AM"
     # speaker
-    - speaker : "Aji Arya Revaldi"
+    - speaker : "Aji Arya"
       speaker_image : "images/speakers/aji-arya-thumb.jpg"
       subject : "Talk #4 - Block and Object Storage Solution with Ceph in Production"
       venue : "Main Room"
