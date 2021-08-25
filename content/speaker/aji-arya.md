@@ -23,7 +23,8 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/watch?v=ZnSlLiHVwlY"
+  #videoUrl: "https://www.youtube.com/embed/tzBNEokRIhY?list=PLvjuQ8mUPgNcJnD3k_QNWOohhMfp0t3Jb"
+  videoUrl: "https://www.youtube.com/embed/ZnSlLiHVwlY?list=PLvjuQ8mUPgNcJnD3k_QNWOohhMfp0t3Jb"
   slideEmbedPath: "/slides/Aji_Muhammad_Arya_Revaldi-Block_and_Object_Storage_Solution_with_Ceph_in_Production.pdf" 
   anotherPresentationEnable: true
   anotherPresentation:

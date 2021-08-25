@@ -22,11 +22,9 @@ social:
 
 presentation_info:
   enable: true
-  videoEnable: false
-  videoUrl: "URL_HERE"
+  videoEnable: true
+  videoUrl: "https://www.youtube.com/embed/JzjPfsaqqnw?list=PLvjuQ8mUPgNcJnD3k_QNWOohhMfp0t3Jb"
   slideEmbedPath: "/slides/Muhammad_Fauzi_Islami_-_Make_Kubernetes_Secret_Object_More_Secret_Using_Sealed_Secret.pdf"
-  description: |
-      Hello World
   anotherPresentationEnable: false
   anotherPresentation:
     - title: None

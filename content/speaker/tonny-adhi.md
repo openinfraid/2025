@@ -22,11 +22,9 @@ social:
 
 presentation_info:
   enable: true
-  videoEnable: false
-  videoUrl: "URL_HERE"
+  videoEnable: true
+  videoUrl: "https://www.youtube.com/embed/JCXvm6ckyG0?list=PLvjuQ8mUPgNcJnD3k_QNWOohhMfp0t3Jb"
   slideEmbedPath: "/slides/Tonny_Adhi_Sabastian_-_OpenTelemetry_Collector_as_Kubernetes_Universal_Telemetry_Collector_Pipeline.pdf"
-  description: |
-      Hello World
   anotherPresentationEnable: false
   anotherPresentation:
     - title: None

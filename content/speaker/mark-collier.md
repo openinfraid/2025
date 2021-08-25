@@ -20,6 +20,17 @@ social:
   icon: "fa-instagram"
   link: "#"
 
+presentation_info:
+  enable: true
+  videoEnable: true
+  videoUrl: "https://www.youtube.com/embed/0oEiZ1SY4K8?list=PLvjuQ8mUPgNcJnD3k_QNWOohhMfp0t3Jb"
+  slideEmbedDisable: true
+  slideEmbedPath: "none"
+  anotherPresentationEnable: false
+  anotherPresentation:
+    - title: None
+      link: None
+
 personal_info:
   enable : false
   title : "Personal Information"

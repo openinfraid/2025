@@ -22,11 +22,9 @@ social:
 
 presentation_info:
   enable: true
-  videoEnable: false
-  videoUrl: "URL_HERE"
+  videoEnable: true
+  videoUrl: "https://www.youtube.com/embed/W7ukSqiZ9-A?list=PLvjuQ8mUPgNcJnD3k_QNWOohhMfp0t3Jb"
   slideEmbedPath: "/slides/Dirgantara_Rahadian-Transformasi_IT_Infrastructure_menjadi_DevOps_Possible_or_Imposibble.pdf"
-  description: |
-      Hello World
   anotherPresentationEnable: false
   anotherPresentation:
     - title: None

@@ -22,11 +22,9 @@ social:
 
 presentation_info:
   enable: true
-  videoEnable: false
-  videoUrl: "URL_HERE"
+  videoEnable: true
+  videoUrl: "https://www.youtube.com/embed/IhP84VYrxG4?list=PLvjuQ8mUPgNcJnD3k_QNWOohhMfp0t3Jb"
   slideEmbedPath: "/slides/Atwatan_Malik_Mahardi_-_Implement_Secure_Containers_using_Kata_Container_and_gVisor_in_Kubernetes.pdf"
-  description: |
-      Hello World
   anotherPresentationEnable: false
   anotherPresentation:
     - title: None

@@ -22,11 +22,9 @@ social:
 
 presentation_info:
   enable: true
-  videoEnable: false
-  videoUrl: "URL_HERE"
+  videoEnable: true
+  videoUrl: "https://www.youtube.com/embed/2_e5pUfKk0Y?list=PLvjuQ8mUPgNcJnD3k_QNWOohhMfp0t3Jb"
   slideEmbedPath: "/slides/Didiet_A._Pambudiono_-_Sending_Prometheus_Alertmanager_to_Google_Chat.pdf"
-  description: |
-      Hello World
   anotherPresentationEnable: false
   anotherPresentation:
     - title: None

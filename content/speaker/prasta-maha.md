@@ -22,8 +22,8 @@ social:
 
 presentation_info:
   enable: true
-  videoEnable: false
-  videoUrl: "URL_HERE"
+  videoEnable: true
+  videoUrl: "https://www.youtube.com/embed/ahBYTkCH4q4?list=PLvjuQ8mUPgNcJnD3k_QNWOohhMfp0t3Jb"
   slideEmbedPath: "/slides/Dewa_Putu_Prasta_Maha_Gangga_-_Securing_Kubernetes_Service_Using_oauth2-proxy.pdf"
   description: |
       Hello World
