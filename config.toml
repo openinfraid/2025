@@ -85,41 +85,39 @@ url = "schedule"
 weight = 4
 
 [[menu.main]]
+name = "Gallery"
+url = "https://www.flickr.com/photos/182934431@N07/"
 weight = 5
-name = "Pages"
-hasChildren = true
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Gallery"
-  url = "https://www.flickr.com/photos/182934431@N07/"
+[[menu.main]]
+name = "FAQ"
+url = "faq"
+weight = 6
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  url = "faq"
+[[menu.main]]
+name = "Organizer"
+url = "organizer"
+weight = 7
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  url = "pricing"
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 8
 
-  [[menu.main]]
-  parent = "Pages"
-  name = "Organizer"
-  url = "organizer"
+#[[menu.main]]
+#weight = 5
+#name = "Pages"
+#hasChildren = true
+
+#  [[menu.main]]
+#  parent = "Pages"
+#  name = "Pricing"
+#  url = "pricing"
 
 #  [[menu.main]]
 #  parent = "Pages"
 #  name = "News"
 #  url = "blog"
-
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 6
-
-
 
 #################### default parameters ################################
 [params]
