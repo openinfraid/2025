@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://2021.openinfra.id"
+baseURL = "https://dev2021.openinfra.id"
 title = "Indonesia OpenInfra Days 2021"
 theme = "eventre-hugo"
 # post pagination
