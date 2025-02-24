@@ -10,11 +10,11 @@ description : ""
 draft : false
 ---
 ### IOID21
-The Indonesia OpenInfra Days 2021 bring together users, business, developers, and operators from various organizations including companies, SMEs, governments, universities, NGOs, cloud and technology providers to discuss about IT infrastructure that leverages open-source software and hardware. This year, The Indonesia OpenInfra Days will be held online through the Official OpenStack Indonesia Youtube Channel.
+The Indonesia OpenInfra Days 2025 bring together users, business, developers, and operators from various organizations including companies, SMEs, governments, universities, NGOs, cloud and technology providers to discuss about IT infrastructure that leverages open-source software and hardware. This year, The Indonesia OpenInfra Days will be held online through the Official OpenStack Indonesia Youtube Channel.
 
 
 ### Date & Time
-Saturday, August 21st 2021
+Saturday, August 21st 2025
 
 ### Registration
 Register via GForm & BRI Transfer:<br />

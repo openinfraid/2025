@@ -47,7 +47,7 @@ Speech, Talk, and Lightning Session. This event is an improvement of the OpenSta
 Day event with wider discussion material and higher number of participants.
 Indonesia OpenInfra Day was planned to be held regularly at least annually.<br />
 <br>
-In 2021, The Indonesia OpenInfra Days will be held on Saturday, August 21st 2021
+In 2025, The Indonesia OpenInfra Days will be held on Saturday, August 21st 2025
 virtually with a target 250 number of participants. This event is organized
 and managed by OpenStack Indonesia Community.<br />
 

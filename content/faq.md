@@ -8,15 +8,15 @@ layout : "faq"
 ---
 
 
-{{< faq "Siapakah penyelenggara kegiatan acara The Indonesia OpenInfra Days 2021?" >}}
+{{< faq "Siapakah penyelenggara kegiatan acara The Indonesia OpenInfra Days 2025?" >}}
 Penyelenggara kegiatan acara ini yaitu Komunitas OpenStack Indonesia bekerja sama dengan komunitas-komunitas TI indonesia lainnya.
 {{</ faq >}}
 
 {{< faq "Untuk siapa acara ini?" >}}
-Konferensi The Indonesia OpenInfra Days 2021 terbuka bagi para pengguna, pebisnis, pengembang, dan berbagai organisasi termasuk perusahaan, UKM (Unit Kegiatan Mahasiswa), pemerintahan, Kampus, LSM (Lembaga Swadaya Masyarakat), penyedia layananan komputasi awan, dan penyedia teknologi.
+Konferensi The Indonesia OpenInfra Days 2025 terbuka bagi para pengguna, pebisnis, pengembang, dan berbagai organisasi termasuk perusahaan, UKM (Unit Kegiatan Mahasiswa), pemerintahan, Kampus, LSM (Lembaga Swadaya Masyarakat), penyedia layananan komputasi awan, dan penyedia teknologi.
 {{</ faq >}}
 
-{{< faq "Bagaimana cara menjadi pembicara  The Indonesia OpenInfra Days 2021?" >}}
+{{< faq "Bagaimana cara menjadi pembicara  The Indonesia OpenInfra Days 2025?" >}}
 Pembicara terbuka bagi setiap orang yang akan dipilih dan dinilai melalui prosedur [Call for Paper (CFP](https://s.id/ioid21_cfp)).
 {{</ faq >}}
 

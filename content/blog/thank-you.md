@@ -10,10 +10,10 @@ categories: ["events", "IOID21","anually"]
 description : ""
 draft : false
 ---
-### Indonesia OpenInfra Days 2021 
+### Indonesia OpenInfra Days 2025 
 
 Terima Kasih banyak!
-Acara Indonesia OpenInfra Days 2021 telah sukses dilaksanakan berkat dukungan dan partisipasi dari semua. Semoga lekas datang kesempatan untuk kita bertemu langsung & berdiskusi bersama. Sampai berjumpa di konferensi selanjutnya! #IOID21 #WeAreOpenInfra
+Acara Indonesia OpenInfra Days 2025 telah sukses dilaksanakan berkat dukungan dan partisipasi dari semua. Semoga lekas datang kesempatan untuk kita bertemu langsung & berdiskusi bersama. Sampai berjumpa di konferensi selanjutnya! #IOID21 #WeAreOpenInfra
 
 #### Foundation Sponsor:
 - Open Infrastructure Foundation

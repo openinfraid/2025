@@ -10,9 +10,9 @@ categories: ["events", "IOID21","anually"]
 description : ""
 draft : false
 ---
-### Indonesia OpenInfra Days 2021 
+### Indonesia OpenInfra Days 2025 
 
-akan kembali diadakan pada hari Sabtu, 21 Agustus 2021 secara virtual melalui Kanal Resmi Youtube OpenStack Indonesia. Acara ini akan menyajikan Sesi Kilat (Lightning Talks) dan Sesi Penyajian (Talks). Panitia mengundang Anda untuk berpartisipasi menjadi penyaji dalam konferensi yang rutin diadakan satu tahun sekali ini.
+akan kembali diadakan pada hari Sabtu, 21 Agustus 2025 secara virtual melalui Kanal Resmi Youtube OpenStack Indonesia. Acara ini akan menyajikan Sesi Kilat (Lightning Talks) dan Sesi Penyajian (Talks). Panitia mengundang Anda untuk berpartisipasi menjadi penyaji dalam konferensi yang rutin diadakan satu tahun sekali ini.
 
 ### Topik
 Seperti di tahun-tahun sebelumnya, topik yang disajikan dalam acara ini berkaitan dengan teknologi open infrastructure. Materi yang disajikan dapat berisi hal-hal teknis maupun non-teknis.
@@ -24,11 +24,11 @@ OpenStack | StarlingX | Airship | Zuul | Kubernetes | Docker | Ceph | GitLab | J
 Format sesi yang tersedia dalam acara ini adalah Sesi Kilat (10 menit + T&J) dan Sesi Penyajian (30 menit + T&J)
 
 ### Jadwal
-~~– Tenggat pengajuan penyajian: 23 Juli 2021<br/>
-– Pengumuman penyajian diterima: 28 Juli 2021~~
+~~– Tenggat pengajuan penyajian: 23 Juli 2025<br/>
+– Pengumuman penyajian diterima: 28 Juli 2025~~
 
-- Tenggat pengajuan penyajian diperpanjang sampai: 30 Juli 2021
-- Pengumuman penyajian diterima: 31-1 Juli 2021
+- Tenggat pengajuan penyajian diperpanjang sampai: 30 Juli 2025
+- Pengumuman penyajian diterima: 31-1 Juli 2025
 
 ### Penyerahan Presentasi
 Sila ajukan proposal penyajian Anda melaui tautan berikut: [https://s.id/ioid21_cfp](https://s.id/ioid21_cfp)
