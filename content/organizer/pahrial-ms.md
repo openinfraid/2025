@@ -1,24 +1,24 @@
 ---
-title : "M. Luthfi As Syafii"
+title : "Pahrial MS"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "SDx Indonesia"
-image: "images/organizers/luthfi.jpg"
-description : "SDx Indonesia"
+designation: "OpenInfra Indonesia UG"
+image: "images/organizers/pahrialms.jpg"
+description : "Organizer OpenInfra Indonesia UG"
 draft : false
 social:
 - name: "facebook"
   icon: "fa-facebook"
-  link: "#"
+  link: "https://web.facebook.com/pahrial.ms/"
 - name: "twitter"
   icon: "fa-twitter"
   link: "#"
 - name: "linkedin"
   icon: "fa-linkedin"
-  link: "#"
+  link: "https://www.linkedin.com/in/pahrialms/"
 - name: "instagram"
   icon: "fa-instagram"
-  link: "#"
+  link: "https://www.instagram.com/pahrial.ms/"
 
 personal_info:
   enable : false

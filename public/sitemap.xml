@@ -62,9 +62,6 @@
     <loc>http://localhost:1313/organizer/bayu-aji/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/organizer/cahyaning-asih/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/organizer/dendy-delly/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
@@ -90,6 +87,9 @@
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/speaker/</loc>
+    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/organizer/pahrial-ms/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/organizer/rohim-prima/</loc>
