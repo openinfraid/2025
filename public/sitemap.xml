@@ -11,6 +11,9 @@
     <loc>http://localhost:1313/blog/cfr/</loc>
     <lastmod>2025-05-18T15:40:24+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/cfs/</loc>
+    <lastmod>2025-05-18T15:40:24+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-05-18T15:40:24+06:00</lastmod>
   </url><url>
@@ -32,11 +35,11 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-05-18T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/cfs/</loc>
-    <lastmod>2025-05-18T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/weareopeninfra/</loc>
     <lastmod>2025-05-18T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/organizer/fadilah-riczky/</loc>
+    <lastmod>2025-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
