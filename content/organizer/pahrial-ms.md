@@ -2,7 +2,7 @@
 title : "Pahrial MS"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Organizer OpenInfra Indonesia User Group"
+designation: "OpenInfra Indonesia User Group"
 image: "images/organizers/pahrialms.jpg"
 description : "Organizer OpenInfra Indonesia User Group"
 draft : false
