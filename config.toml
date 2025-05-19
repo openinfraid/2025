@@ -121,8 +121,8 @@ weight = 8
 
 #################### default parameters ################################
 [params]
-logo = "images/logo-openinfra.png"
-images = ["images/logo-openinfra.png"]
+logo = "images/logo.png"
+images = ["images/logo.png"]
 logo_footer = "images/footer-logo.png"
 logo_width = "100px"
 # Meta data
