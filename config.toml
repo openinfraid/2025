@@ -3,7 +3,7 @@ baseURL = "https://2025.openinfra.id"
 title = "OpenInfra Days Indonesia 2025"
 theme = "eventre-hugo"
 # post pagination
-paginate = "2"
+# paginate = "2"
 # post excerpt
 summaryLength = "10"
 # google analytics
@@ -121,13 +121,13 @@ weight = 8
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
-images = ["images/logo.png"]
+logo = "images/logo-openinfra.png"
+images = ["images/logo-openinfra.png"]
 logo_footer = "images/footer-logo.png"
 logo_width = "100px"
 # Meta data
-description = "Indonesia OpenInfra Days 2021"
-author = "#IOID21"
+description = "Indonesia OpenInfra Days 2025"
+author = "#IOID25"
 # contact form action
 contact_form_action = "https://formspree.io/f/mrgrlwgq"
 # copyright
@@ -143,7 +143,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Buy Ticket"
 icon = "images/icon/ticket.png"
-link = "pricing"
+link = "https://www.loket.com/event/openinfradays2025"
 
 # Subscription
 [params.subscription]

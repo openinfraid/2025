@@ -1,11 +1,11 @@
 .main-nav{
-	background: $light;
+	background: $black;
 	@include tablet{
 		position: relative;
 	}
 	.navbar-brand{
 		padding: 35px 40px 35px 50px;
-		border-right: 1px solid $border-color;
+		border-right: none;
 		@include large-desktop {
 			padding: 20px 30px;
 		}
@@ -20,7 +20,7 @@
 			.nav-link{
 				position: relative;
 				text-align: center;
-				color: $black;
+				color: $light;
 				padding-left: 8px;
 				padding-right: 20px;
 				font-size: 1.06rem;

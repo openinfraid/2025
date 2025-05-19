@@ -45,8 +45,8 @@ $(window).on('load', function () {
 		'day': $day,
 		'month': $month,
 		'year': $year,
-		hour: 00,
-		minute: 00
+		hour: 0,
+		minute: 0
 	});
 	// -----------------------------
 	// To Top Init

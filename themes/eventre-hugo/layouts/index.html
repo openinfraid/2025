@@ -79,6 +79,35 @@
 {{ end }}
 <!--====  End of About  ====-->
 
+<!--===========================================
+=            Call to Action Ticket            =
+==================================
+==========-->
+{{ if site.Data.homepage.call_to_action.enable }}
+{{ with site.Data.homepage.call_to_action }}
+<section class="cta-ticket bg-ticket overlay-dark">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8">
+        <!-- Get ticket info -->
+        <div class="content-block">
+          <h2>{{ .title | markdownify }}</h2>
+          <p>{{ .content | markdownify }}</p>
+          {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{.link | absURL }}" class="btn btn-main-md">{{.label}}</a>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="image-block"><img src="{{.image | absURL }}" alt="" class="img-fluid"></div>
+</section>
+{{ end }}
+{{ end }}
+<!--====  End of Call to Action Ticket  ====-->
+
 <!--==============================
 =            Speakers            =
 ===============================-->
@@ -200,6 +229,8 @@
 {{ end }}
 {{ end }}
 <!--====  End of Schedule  ====-->
+
+
 
 <!--==================================
 =            Registration            =
@@ -323,36 +354,6 @@
 {{ end }}
 {{ end }}
 <!--====  End of Pricing Table  ====-->
-
-
-<!--===========================================
-=            Call to Action Ticket            =
-==================================
-==========-->
-{{ if site.Data.homepage.call_to_action.enable }}
-{{ with site.Data.homepage.call_to_action }}
-<section class="cta-ticket bg-ticket overlay-dark">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8">
-        <!-- Get ticket info -->
-        <div class="content-block">
-          <h2>{{ .title | markdownify }}</h2>
-          <p>{{ .content | markdownify }}</p>
-          {{ if .button.enable }}
-          {{ with .button }}
-          <a href="{{.link | absURL }}" class="btn btn-main-md">{{.label}}</a>
-          {{ end }}
-          {{ end }}
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="image-block"><img src="{{.image | absURL }}" alt="" class="img-fluid"></div>
-</section>
-{{ end }}
-{{ end }}
-<!--====  End of Call to Action Ticket  ====-->
 
 <!--==============================
 =            Sponsors            =

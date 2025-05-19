@@ -2,33 +2,49 @@
 banner:
   enable : true
   heading : "Indonesia"
-  heading_2 : "OpenInfra Days 2021"
-  content : "Saturday, 21th August 2021"
+  heading_2 : "OpenInfra Days 2025"
+  content : "Saturday, 19th July 2025"
   timer:
     enable : true
-    year : 2021
-    month : 8
-    day : 21
+    year : 2025
+    month : 7
+    day : 19
   button:
     enable : true
     label : "get ticket now"
-    link : "https://s.id/ioid21_register"
+    link : "https://www.loket.com/event/openinfradays2025"
 
     
 ################# About ###################
 about:
-  enable : true
-  title : "About #IOID21"
-  image : "images/logo.png"
-  content : "The Indonesia OpenInfra Days brings together users, business, developers, and operations from various organizations including enterprises, SMEs, governments, universities, NGOs, cloud providers, and technology providers to discuss IT infrastructure that utilize open source software and hardware. Open source technologies that recently arose on providing reliable cloud infrastructure services including OpenStack, StarlingX, Airship, Kubernetes, Docker, Ceph, GitLab, Jenkins, Elastic Stack, Terraform, Ansible, Prometheus, Kata Containers, Hadoop, Open Compute, Open Networking, HPC, Machine Learning, Blockchain, IoT, and other technologies."
+  enable: true
+  title: "About #IOID25"
+  image: "images/logo.png"
+  content: >
+    Indonesia OpenInfra Days 2025 akan diselenggarakan di <a href="https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7" target="_blank" style="color: #007BFF;">Yogyakarta</a>, mempertemukan pengguna, pengembang, profesional TI, pelaku bisnis, peneliti, dan pengambil kebijakan dari berbagai sektor — termasuk perusahaan, UKM, instansi pemerintah, universitas, LSM, penyedia cloud, dan vendor teknologi.
+
+    Acara ini menjadi wadah untuk mengeksplorasi dan mendiskusikan infrastruktur TI berbasis teknologi open source, baik perangkat lunak maupun perangkat keras. Fokus utama mencakup teknologi open infrastructure yang mendukung layanan cloud yang handal dan skalabel seperti OpenStack, StarlingX, Airship, Kubernetes, Docker, Ceph, GitLab, Jenkins, Elastic Stack, Terraform, Ansible, Prometheus, Kata Containers, serta pengembangan menuju teknologi masa depan seperti Machine Learning, Blockchain, IoT, HPC, dan Edge Computing.
   button_solid:
+    enable: true
+    label: "Buy ticket"
+    link: "https://www.loket.com/event/openinfradays2025"
+  button_outline:
+    enable: true
+    label: "Read more"
+    link: "about"
+
+############### Call to action ############
+call_to_action:
+  enable : false
+  title : "Get Ticket Now!"
+  image : "images/speakers/speaker-ticket.png"
+  content : ""
+  button:
     enable : true
     label : "Buy ticket"
-    link : "pricing"
-  button_outline:
-    enable : true
-    label : "Read more"
-    link : "about"
+    link : "https://www.loket.com/event/openinfradays2025"
+
+
 
 
 ################# Speaker ###################
@@ -44,123 +60,104 @@ tab:
   title : "Event Schedule"
   content : ""
   tablist:
-  # tab item
   - name : "Saturday"
-    date : "21th August 2021"
+    date : "19th July 2025"
     tablist_items:
-    # speaker
-    - speaker : "Master of Ceremony"
-      speaker_image : "images/speakers/mc-sandika-thumb.jpg"
-      subject : "Opening"
-      venue : "Main Room"
+    - speaker : "Speaker 01"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "08.30 AM"
-    # speaker
-    - speaker : "M. Luthfi As Syafii"
-      speaker_image : "images/speakers/luthfi-tumb.jpg"
-      subject : "OpenStack Indonesia in Numbers"
-      venue : "Main Room"
+    - speaker : "Speaker 02"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "08.40 AM"
-    # speaker
-    - speaker : "Jonathan Bryce"
-      speaker_image : "images/speakers/jonathan-bryce-thumb.jpeg"
-    - speaker : "Mark Collier"
-      speaker_image : "images/speakers/mark-collier-thumb.jpg"
-      subject : "Keynote #1 - OpenInfra Foundation"
-      venue : "Main Room"
+    - speaker : "Speaker 03"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "09.00 AM"
-    - speaker : "Thierry Carrez"
-      speaker_image : "images/speakers/thierry-carrez-thumb.jpeg"
-    # speaker
-    - speaker : "Rico Lin"
-      speaker_image : "images/speakers/rico-lin-thumb.jpg"
-      subject : "Keynote #2 - EasyStack:From 0 to 1"
-      venue : "Main Room"
+    - speaker : "Speaker 04"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "09.30 AM"
-    # speaker
-    - speaker : "Wahyu Anggana"
-      speaker_image : "images/speakers/wahyu-anggana-thumb.jpg"
-      subject : "Lightning Talk #1 - Light Weight Orchestration Tools Using Nomad"
-      venue : "Main Room"
+    - speaker : "Speaker 05"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "10.00 AM"
-    # speaker
-    - speaker : "Cahyo Darujati"
-      speaker_image : "images/speakers/cahyo-darujati-thumb.jpg"
-      subject : "Lightning Talk #2 - Machine Learning tanpa Koding dengan Orange"
-      venue : "Main Room"
+    - speaker : "Speaker 06"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "10.10 AM"
-    # speaker
-    - speaker : "Prasta Maha"
-      speaker_image : "images/speakers/prasta-maha-thumb.jpg"
-      subject : "Talk #1 - Securing Kubernetes Service Using oauth2-proxy"
-      venue : "Main Room"
+    - speaker : "Speaker 07"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "10.20 AM"
-    # speaker
-    - speaker : "M. Fauzi Islami"
-      speaker_image : "images/speakers/fauzi-islami-thumb.jpg"
-      subject : "Talk #2 - Make Kubernetes Secret Object More Secret Using Sealed Secret"
-      venue : "Main Room"
+    - speaker : "Speaker 08"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "10.50 AM"
-    # speaker
-    - speaker : "Atwatan Malik"
-      speaker_image : "images/speakers/atwatan-malik-thumb.png"
-      subject : "Talk #3 - Implement Secure Containers using Kata Container and gVisor in Kubernetes"
-      venue : "Main Room"
+    - speaker : "Speaker 09"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "11.20 AM"
-    # speaker
-    - speaker : "Aji Arya"
-      speaker_image : "images/speakers/aji-arya-thumb.jpg"
-      subject : "Talk #4 - Block and Object Storage Solution with Ceph in Production"
-      venue : "Main Room"
+    - speaker : "Speaker 10"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "12.50 PM"
-    # speaker
-    - speaker : "Didiet A. Pambudiono"
-      speaker_image : "images/speakers/didiet-pambudiono-thumb.jpg"
-      subject : "Talk #5 - Sending Prometheus Alertmanager to Google Chat"
-      venue : "Main Room"
+    - speaker : "Speaker 11"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "01.20 PM"
-    # speaker
-    - speaker : "Dirgantara Rahadian"
-      speaker_image : "images/speakers/dirgantara-thumb.jpg"
-      subject : "Keynote #3 - Transformasi Infrastructure menjadi DevOps Possible or Impossible?"
-      venue : "Main Room"
+    - speaker : "Speaker 12"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "01.50 PM"
-    # speaker
-    - speaker : "Tonny Adhi Sabastian"
-      speaker_image : "images/speakers/tonny-adhi-thumb.JPG"
-      subject : "Talk #6 - OpenTelemetry Collector as Kubernetes Universal Telemetry Collector Pipeline"
-      venue : "Main Room"
+    - speaker : "Speaker 13"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "02.20 PM"
-    # speaker
-    - speaker : "Ikhsan Putra"
-      speaker_image : "images/speakers/ikhsan-putra-thumb.jpg"
-      subject : "Talk #7 - Build Compute Service from Scratch"
-      venue : "Main Room"
+    - speaker : "Speaker 14"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "02.50 PM"
-    # speaker
-    - speaker : "Abdul Hakim"
-      speaker_image : "images/speakers/hakim-thumb.jpg"
-      subject : "Keynote #4 - Develop Your Skill at ADINUSA Bootcamp"
-      venue : "Main Room"
+    - speaker : "Speaker 15"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "03.20 PM"
-    # speaker
-    - speaker : "Giri Kuncoro"
-      speaker_image : "images/speakers/giri-kuncoro-thumb.png"
-      subject : "Talk #8 - Kekuatan Super eBPF"
-      venue : "Main Room"
+    - speaker : "Speaker 16"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "03.50 PM"
-    # speaker
-    - speaker : "Yoga Hanggara"
-      speaker_image : "images/speakers/yoga-hanggara-thumb.jpeg"
-      subject : "Talk #9 - Teknologi Cloud Native Dibalik Layar Penanganan Pandemi di Jawa Barat (PIKOBAR)"
-      venue : "Main Room"
+    - speaker : "Speaker 17"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "04.20 PM"
-    # speaker
-    - speaker : "Master of Ceremony"
-      speaker_image : "images/speakers/mc-sandika-thumb.jpg"
-      subject : "Closing & Doorprize"
-      venue : "Main Room"
+    - speaker : "Speaker 18"
+      speaker_image : "images/speakers/anonymous.jpeg"
+      subject : "Soon"
+      venue : "TBA"
       time : "04.50 PM"
 
+
+
+
+##
   # tab item
   #  - name : "Day-02"
   #  date : "23 November 2017"
@@ -184,16 +181,16 @@ tab:
 
 ############ Registration ####################
 registration:
-  enable : true
-  title : "Statistic #IOID21"
-  content : "Current Statistic for Indonesia OpenInfra Days 2021"
+  enable : false
+  title : "Statistic #IOID25"
+  content : "Current Statistic for Indonesia OpenInfra Days 2025"
   #form_action : "#" # works with formspree.io
 
   funfacts:
   - name : "17 Speakers"
     icon : "fa-microphone"
     
-  - name : "200+ Attendees"
+  - name : "250+ Attendees"
     icon : "fa-user-o"
     
   - name : "Free COA voucher"
@@ -204,25 +201,14 @@ registration:
 
 ############ Pricing ####################
 pricing:
-  enable : true
+  enable : false
   title : "Get Ticket"
   content : ""
-  pricing_table:
-  - name : "Standard"
-    price : "IDR 30K"
+  pricing_table: 
+  - name : "Full-day Event"
+    price : "IDR 75K"
     price_per : "Person"
-    button_link : "https://s.id/ioid21_register"
-    features:
-    - "All Sessions"
-    - "Early Access"
-    - "Networking"
-    - "Q+A with Speakers"
-    - "Merchandise Special"
-    
-  - name : "Patron"
-    price : "IDR 150K"
-    price_per : "Person"
-    button_link : "https://s.id/ioid21_register"
+    button_link : "https://www.loket.com/event/openinfradays2025"
     features:
     - "All Sessions"
     - "Early Access"
@@ -232,31 +218,8 @@ pricing:
     - "Sticker Pack"
     - "Exclusive T-Shirt"
 
-  - name : "Custom"
-    price : "IDR ~"
-    price_per : "Person"
-    button_link : "https://s.id/ioid21_register"
-    features:
-    - "Donation up to 150k+"
-    - "All Sessions"
-    - "Early Access"
-    - "Networking"
-    - "Q+A with Speakers"
-    - "Merchandise Special"
-    - "Sticker Pack"
-    - "Exclusive T-Shirt"
 
 
-############### Call to action ############
-call_to_action:
-  enable : true
-  title : "Get Ticket Now!"
-  image : "images/speakers/speaker-ticket.png"
-  content : ""
-  button:
-    enable : true
-    label : "Buy ticket"
-    link : "https://s.id/ioid21_register"
 
 
 ############### Sponsors ##################
@@ -278,74 +241,50 @@ sponsors:
 
   - name : "Platinum Sponsor"
     sponsor_item:
-    - name : "nvidia"
-      logo : "images/sponsors/nvidia-logo.png"
-      link : "https://nvidia.com"
+    - name : "Anon"
+      logo : "images/sponsors/company-anon.png"
+      link : "githu.com"
       
   - name : "Gold Sponsors"
     sponsor_item:
-    - name : "btech"
-      logo : "images/sponsors/btech-logo.png"
-      link : "https://btech.id"
+    - name : "Anon"
+      logo : "images/sponsors/company-anon.png"
+      link : "github.com"
   
-    - name : "biznetgio"
-      logo : "images/sponsors/biznet-giocloud-logo.png"
-      link : "https://www.biznetgio.com/"
+    - name : "Anon"
+      logo : "images/sponsors/company-anon.png"
+      link : "github.com"
 
-    - name : "easystack"
-      logo : "images/sponsors/easystack-logo.png"
-      link : "https://easystack.io/"
+    - name : "Anon"
+      logo : "images/sponsors/company-anon.png"
+      link : "github.com"
 
   - name : "Silver Sponsor"
     sponsor_item:
     - name : "bri"
-      logo : "images/sponsors/bri-logo.png"
-      link : "https://bri.co.id"
+      logo : "images/sponsors/company-anon.png"
+      link : "github.com"
       
   - name : "Custom Sponsors"
     sponsor_item:
-    - name : "imtek"
-      logo : "images/sponsors/imtek-logo.png"
-      link : "https://imtek.id"
+    - name : "Anon"
+      logo : "images/sponsors/company-anon.png"
+      link : "github.com"
     
-    - name : "onid"
-      logo : "images/sponsors/onid-logo.png"
-      link : "https://t.me/opennetworkingid"
+    - name : "Anon"
+      logo : "images/sponsors/company-anon.png"
+      link : "github.com"
 
     - name : "indocenter"
-      logo : "images/sponsors/indocenter-logo.png"
-      link : "https://indocenter.co.id/"  
+      logo : "images/sponsors/company-anon.png"
+      link : "github.com"  
   
-    - name : "openstack-kr"
-      logo : "images/sponsors/openstack-kr-logo.png"
+    - name : "Anon"
+      logo : "images/sponsors/company-anon.png"
       link : "https://www.meetup.com/OpenStack-and-Open-Infrastructure-Korea/"
 
   - name : "Community Partner"
     sponsor_item:
-    - name : "gimpscape"
-      logo : "images/community/gimpscape.png"
-      link : "https://gimpscape.org/"
-
-    - name : "klas"
-      logo : "images/community/klas.png"
-      link : "https://klas.or.id/"
-    
-    - name : "opensuse-id"
-      logo : "images/community/opensuse-id.png"
-      link : "https://opensuse.id/"
-      
-    - name : "sdx"
-      logo : "images/community/sdx.png"
-      link : "https://t.me/SDxIndonesia"
-    
-    - name : "cncf-indonesia"
-      logo : "images/community/cncf-indo.png"
-      link : "https://t.me/kubernetesindonesia"
-
-    - name : "adaptive-net-lab"
-      logo : "images/community/anl.png"
-      link : "https://adaptivenetworklab.org/"
-
-    - name : "nevittelkom"
-      logo : "images/community/nev.png"
-      link : "https://www.instagram.com/nevittelkom/"
+    - name : "Anon"
+      logo : "images/community/community-anon.png"
+      link : "github.com"
