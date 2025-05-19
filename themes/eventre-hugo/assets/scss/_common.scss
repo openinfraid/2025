@@ -22,15 +22,15 @@
 }
 
 .overlay {
-  &:before {
-    content: '';
-    background: url(../images/background/objects.png) no-repeat;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-  }
+//  &:before {
+//    content: '';
+//    background: url(../images/background/objects.png) no-repeat;
+//    position: absolute;
+//    top: 0;
+//    left: 0;
+//    right: 0;
+//    bottom: 0;
+//  }
 
   &:after {
     content: '';
@@ -176,7 +176,7 @@ button {
 }
 
 .bg-banner-one {
-  background: url(../images/background/homepage-one-banner.jpg) no-repeat;
+  background: url(../images/background/homepage-one-banner-new.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }

@@ -1,7 +1,7 @@
 ---
 title : "Call for Presentation"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-06-18T15:40:24+06:00
+date: 2025-05-18T15:40:24+06:00
 image: "images/news/cfp.png"
 author: "Ary"
 author_id: "https://linkedin.com/in/aryulianto"

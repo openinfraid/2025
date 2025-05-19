@@ -1,11 +1,11 @@
 ---
 title : "Call for Registration"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2020-07-01T15:40:24+06:00
+date: 2025-05-18T15:40:24+06:00
 image: "images/news/cfr.png"
 author: "Ary"
-tags: ["EVENTS", "IOID21", "WeAreOpenInfra"]
-categories: ["events", "IOID21","anually"]
+tags: ["EVENTS", "IOID25", "WeAreOpenInfra"]
+categories: ["events", "IOID25","anually"]
 description : ""
 draft : false
 ---
@@ -14,7 +14,7 @@ The Indonesia OpenInfra Days 2025 bring together users, business, developers, an
 
 
 ### Date & Time
-Saturday, August 21st 2025
+Saturday, July 19st 2025
 
 ### Registration
 Register via GForm & BRI Transfer:<br />

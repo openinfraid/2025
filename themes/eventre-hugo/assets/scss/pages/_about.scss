@@ -1,6 +1,11 @@
 .about{
 	padding: 120px 0;
 }
+.bg-about img {
+	border-radius: 0 !important;
+	max-height: 300px;
+	object-fit: contain;
+  }  
 .testimonial{
 	.testimonial-item{
 		margin-bottom: 30px;
