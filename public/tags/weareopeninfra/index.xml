@@ -9,18 +9,18 @@
     <lastBuildDate>Sun, 18 May 2025 15:40:24 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/weareopeninfra/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Call for Presentation</title>
+      <title>Call for Proposals</title>
       <link>http://localhost:1313/blog/cfp/</link>
       <pubDate>Sun, 18 May 2025 15:40:24 +0600</pubDate>
       <guid>http://localhost:1313/blog/cfp/</guid>
-      <description>&lt;h3 id=&#34;indonesia-openinfra-days-2025&#34;&gt;Indonesia OpenInfra Days 2025&lt;/h3&gt;&#xA;&lt;p&gt;akan kembali diadakan pada hari Sabtu, 21 Agustus 2025 secara virtual melalui Kanal Resmi Youtube OpenStack Indonesia. Acara ini akan menyajikan Sesi Kilat (Lightning Talks) dan Sesi Penyajian (Talks). Panitia mengundang Anda untuk berpartisipasi menjadi penyaji dalam konferensi yang rutin diadakan satu tahun sekali ini.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;indonesia-openinfra-days-2025&#34;&gt;Indonesia OpenInfra Days 2025&lt;/h3&gt;&#xA;&lt;p&gt;Akan kembali diadakan pada hari Sabtu, 19 Juli 2025 secara luring di &lt;a href=&#34;https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7&#34; style=&#34;color: #007BFF;&#34;&gt;Teaching Industry Learning Center (TILC) Sekolah Vokasi UGM, Yogyakarta&lt;/a&gt;. Acara ini akan menyajikan Sesi Keynote Speech, Talks, Lighting Talk, Breakout Room Session. Panitia mengundang Anda untuk berpartisipasi menjadi penyaji dalam konferensi yang rutin diadakan satu tahun sekali ini.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Call for Registration</title>
       <link>http://localhost:1313/blog/cfr/</link>
       <pubDate>Sun, 18 May 2025 15:40:24 +0600</pubDate>
       <guid>http://localhost:1313/blog/cfr/</guid>
-      <description>&lt;h3 id=&#34;ioid21&#34;&gt;IOID21&lt;/h3&gt;&#xA;&lt;p&gt;The Indonesia OpenInfra Days 2025 bring together users, business, developers, and operators from various organizations including companies, SMEs, governments, universities, NGOs, cloud and technology providers to discuss about IT infrastructure that leverages open-source software and hardware. This year, The Indonesia OpenInfra Days will be held online through the Official OpenStack Indonesia Youtube Channel.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;ioid25&#34;&gt;IOID25&lt;/h3&gt;&#xA;&lt;p&gt;Indonesia OpenInfra Days 2025 menghimpun pengguna, pelaku bisnis, pengembang, dan operator dari berbagai organisasi—termasuk perusahaan, UMKM, instansi pemerintah, universitas, LSM, serta penyedia layanan cloud dan teknologi—untuk membahas infrastruktur TI berbasis open source.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
