@@ -23,20 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>Cahyaning Asih</title>
-      <link>http://localhost:1313/organizer/cahyaning-asih/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/organizer/cahyaning-asih/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dendy Putra Delly</title>
-      <link>http://localhost:1313/organizer/dendy-delly/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/organizer/dendy-delly/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Kiki Fachry</title>
       <link>http://localhost:1313/organizer/kiki-fachry/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
@@ -44,17 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>M. Luthfi As Syafii</title>
-      <link>http://localhost:1313/organizer/luthfi-assyafii/</link>
+      <title>Pahrial MS</title>
+      <link>http://localhost:1313/organizer/pahrial-ms/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/organizer/luthfi-assyafii/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rohim Prima</title>
-      <link>http://localhost:1313/organizer/rohim-prima/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/organizer/rohim-prima/</guid>
+      <guid>http://localhost:1313/organizer/pahrial-ms/</guid>
       <description></description>
     </item>
     <item>
@@ -69,13 +48,6 @@
       <link>http://localhost:1313/organizer/sartika-lestari/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       <guid>http://localhost:1313/organizer/sartika-lestari/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Yoga Dwi Goesty</title>
-      <link>http://localhost:1313/organizer/dwi-goesty/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/organizer/dwi-goesty/</guid>
       <description></description>
     </item>
   </channel>
