@@ -9,15 +9,13 @@ categories: ["events", "IOID25","anually"]
 description : ""
 draft : false
 ---
-### IOID21
-The Indonesia OpenInfra Days 2025 bring together users, business, developers, and operators from various organizations including companies, SMEs, governments, universities, NGOs, cloud and technology providers to discuss about IT infrastructure that leverages open-source software and hardware. This year, The Indonesia OpenInfra Days will be held online through the Official OpenStack Indonesia Youtube Channel.
+### IOID25
+Indonesia OpenInfra Days 2025 menghimpun pengguna, pelaku bisnis, pengembang, dan operator dari berbagai organisasi—termasuk perusahaan, UMKM, instansi pemerintah, universitas, LSM, serta penyedia layanan cloud dan teknologi—untuk membahas infrastruktur TI berbasis open source.
 
+Tahun ini, Indonesia OpenInfra Days akan diselenggarakan secara luring (offline) di <a href="https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7" style="color: #007BFF;">Teaching Industry Learning Center (TILC) Sekolah Vokasi UGM, Yogyakarta</a>. Acara ini menawarkan kesempatan untuk berjejaring langsung, berdiskusi, dan belajar tentang teknologi infrastruktur terbuka terkini.
 
 ### Date & Time
-Saturday, July 19st 2025
+Sabtu, 19 Juli 2025
 
 ### Registration
-Register via GForm & BRI Transfer:<br />
-– Fill this form: https://s.id/ioid21_register<br />
-– Transfer the registration fee to:<br />
-BRI 112701030456501 a/n Yoga Dwi Goesty Dara Seta
+Daftar segera di <a href="https://www.loket.com/event/openinfradays2025" style="color: #007BFF;">openinfradays2025</a>

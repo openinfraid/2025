@@ -21,7 +21,7 @@ Pembicara terbuka bagi setiap orang yang akan dipilih dan dinilai melalui prosed
 {{</ faq >}}
 
 {{< faq "Bagaimana saya bisa memesan tiket pendaftaran acara ini?" >}}
-Pemesanan tiket dapat mengisi tautan berikut [https://s.id/ioid21_register](https://s.id/ioid21_register) dan melakukan pembayaran BRI 112701030456501 a/n Yoga Dwi Goesty Dara Seta.
+Pemesanan tiket dapat melalui tautan <a href="https://www.loket.com/event/openinfradays2025" style="color: #007BFF;">openinfradays2025</a>.
 {{</ faq >}}
 
 {{< faq "Dapatkah saya membeli memesan tiket pada hari acara berlangsung (D-Day)?" >}}
@@ -29,7 +29,7 @@ Anda tidak dapat memesan tiket pada hari acara berlangsung.
 {{</ faq >}}
 
 {{< faq "Bagaimana cara saya dapat menghadiri acara ini?" >}}
-Acara ini akan dilakukan secara virtual. Bagi peserta yang telah memesan tiket akan mendapatkan tautan streaming acara.
+Acara ini akan dilakukan secara luring. Bagi peserta yang telah memesan tiket dapat menuju venue pada hari Sabtu, 19 Juli 2025 di <a href="https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7" style="color: #007BFF;">Teaching Industry Learning Center (TILC) Sekolah Vokasi UGM, Yogyakarta</a>.
 {{</ faq >}}
 
 {{< faq "Apakah semua peserta akan mendapatkan merchandise?" >}}
