@@ -2,9 +2,9 @@
 title : "Fadilah Riczky"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-03-14T15:40:24+06:00
-designation: "Indonesia OpenStack User Group"
+designation: "Organizer OpenInfra Indonesia User Group"
 image: "images/organizers/fadil.png"
-description : "Indonesia OpenStack User Group"
+description : "Organizer OpenInfra Indonesia User Group"
 draft : false
 social:
 - name: "facebook"
