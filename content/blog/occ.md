@@ -2,7 +2,7 @@
 title : "Openstack Contribution Camp"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-05-18T15:40:24+06:00
-image: "images/news/occ.png"
+image: "images/news/occ-2025.png"
 author: "Pahrial"
 author_id: "https://linkedin.com/in/pahrialms"
 tags: ["EVENTS", "OCC25", "WeAreOpenInfra"]
