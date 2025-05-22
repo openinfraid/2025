@@ -10,30 +10,30 @@
     <atom:link href="http://localhost:1313/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for Proposals</title>
-      <link>http://localhost:1313/blog/cfp/</link>
+      <link>http://localhost:1313/cfp/</link>
       <pubDate>Sun, 18 May 2025 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/blog/cfp/</guid>
+      <guid>http://localhost:1313/cfp/</guid>
       <description>&lt;h3 id=&#34;indonesia-openinfra-days-2025&#34;&gt;Indonesia OpenInfra Days 2025&lt;/h3&gt;&#xA;&lt;p&gt;Akan kembali diadakan pada hari Sabtu, 19 Juli 2025 secara luring di &lt;a href=&#34;https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7&#34; style=&#34;color: #007BFF;&#34;&gt;Teaching Industry Learning Center (TILC) Sekolah Vokasi UGM, Yogyakarta&lt;/a&gt;. Acara ini akan menyajikan Sesi Keynote Speech, Talks, Lighting Talk, Breakout Room Session. Panitia mengundang Anda untuk berpartisipasi menjadi penyaji dalam konferensi yang rutin diadakan satu tahun sekali ini.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Call for Registration</title>
-      <link>http://localhost:1313/blog/cfr/</link>
+      <link>http://localhost:1313/cfr/</link>
       <pubDate>Sun, 18 May 2025 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/blog/cfr/</guid>
+      <guid>http://localhost:1313/cfr/</guid>
       <description>&lt;h3 id=&#34;ioid25&#34;&gt;IOID25&lt;/h3&gt;&#xA;&lt;p&gt;Indonesia OpenInfra Days 2025 menghimpun pengguna, pelaku bisnis, pengembang, dan operator dari berbagai organisasi—termasuk perusahaan, UMKM, instansi pemerintah, universitas, LSM, serta penyedia layanan cloud dan teknologi—untuk membahas infrastruktur TI berbasis open source.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Call For Sponsors</title>
-      <link>http://localhost:1313/blog/cfs/</link>
+      <link>http://localhost:1313/cfs/</link>
       <pubDate>Sun, 18 May 2025 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/blog/cfs/</guid>
+      <guid>http://localhost:1313/cfs/</guid>
       <description>&lt;h3 id=&#34;indonesia-openinfra-days-2025&#34;&gt;Indonesia OpenInfra Days 2025&lt;/h3&gt;&#xA;&lt;p&gt;Indonesia OpenInfra Days 2025&#xA;📍 Yogyakarta – 🗓 Sabtu, 19 Juli 2025&lt;/p&gt;</description>
     </item>
     <item>
       <title>Openstack Contribution Camp</title>
-      <link>http://localhost:1313/blog/occ/</link>
+      <link>http://localhost:1313/occ/</link>
       <pubDate>Sun, 18 May 2025 15:40:24 +0600</pubDate>
-      <guid>http://localhost:1313/blog/occ/</guid>
+      <guid>http://localhost:1313/occ/</guid>
       <description>&lt;h3 id=&#34;openstack-contribution-camp-2025&#34;&gt;OpenStack Contribution Camp 2025&lt;/h3&gt;&#xA;&lt;p&gt;OpenStack Contribution Camp 2025 kolaborasi antara OpenInfra Indonesia dan &lt;a href=&#34;https://openinfra-kr.org/&#34; style=&#34;color: #007BFF;&#34;&gt;Korea User Group&lt;/a&gt;, Tanggal 16-17 Juli 2025 yang bertempat di &lt;a href=&#34;https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7&#34; style=&#34;color: #007BFF;&#34;&gt;Teaching Industry Learning Center (TILC) Sekolah Vokasi UGM, Yogyakarta&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
