@@ -1,9 +1,10 @@
 ---
 title : "Call for Proposals"
+url: "/cfp"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-05-18T15:40:24+06:00
 image: "images/news/cfp-2025.png"
-author: "Pahrial"
+author: "Ary"
 author_id: "https://linkedin.com/in/aryulianto"
 tags: ["EVENTS", "IOID25", "WeAreOpenInfra"]
 categories: ["events", "IOID25","anually"]

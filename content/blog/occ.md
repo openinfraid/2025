@@ -1,5 +1,6 @@
 ---
 title : "Openstack Contribution Camp"
+url: "/occ"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-05-18T15:40:24+06:00
 image: "images/news/occ-2025.png"

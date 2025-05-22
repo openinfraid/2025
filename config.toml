@@ -131,7 +131,7 @@ author = "#IOID25"
 # contact form action
 contact_form_action = "https://formspree.io/f/mrgrlwgq"
 # copyright
-copyright = "Powered by [IMTEK](https://imtek.id/) for [OpenStack Indonesia](https://openstack.id)"
+copyright = "Powered by [IMTEK](https://imtek.id/) for [OpenInfra Indonesia](https://openinfra.id)"
 
 # Preloader
 [params.preloader]
@@ -175,17 +175,17 @@ expire_days = 2
 [[params.social]]
 title = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://www.facebook.com/groups/openstackindo"
+link = "https://www.facebook.com/openinfraid"
 
 [[params.social]]
 title = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://twitter.com/openstackindo"
+link = "https://twitter.com/openinfraid"
 
 [[params.social]]
 title = "youtube"
 icon = "fa-youtube-play" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://www.youtube.com/OpenStackIndonesia"
+link = "https://www.youtube.com/@openinfraid"
 
 [[params.social]]
 title = "telegram"
@@ -195,9 +195,9 @@ link = "https://t.me/openstackindo"
 [[params.social]]
 title = "github"
 icon = "fa-github" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://github.com/openstackindo"
+link = "https://github.com/openinfraid"
 
 [[params.social]]
 title = "meetup"
 icon = "fa-meetup" # fontawesome icon pack v4.7 https://fontawesome.com/v4.7.0/icons/
-link = "https://www.meetup.com/Indonesia-OpenStack-User-Group/"
+link = "https://www.meetup.com/openinfraid"
