@@ -2,9 +2,9 @@
 title : "Bayu Aji"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "GIMPSCAPE Indonesia"
-image: "images/organizers/bayu-aji.jpg"
-description : "GIMPSCAPE Indonesia"
+designation: "OpenInfra Indonesia User Group"
+image: "images/organizers/bayu.jpg"
+description : "Organizer OpenInfra Indonesia User Group"
 draft : false
 social:
 - name: "facebook"
