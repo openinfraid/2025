@@ -11,11 +11,11 @@ description : ""
 draft : false
 ---
 ### OpenStack Contribution Camp 2025
-OpenStack Contribution Camp 2025 kolaborasi antara OpenInfra Indonesia dan Korea User Group, Tanggal 16-17 Juli 2025 yang bertempat di Teaching Industry Learning Center (TILC) Sekolah Vokasi UGM.
+OpenStack Contribution Camp 2025 kolaborasi antara OpenInfra Indonesia dan <a href="https://openinfra-kr.org/" style="color: #007BFF;">Korea User Group</a>, Tanggal 16-17 Juli 2025 yang bertempat di <a href="https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7" style="color: #007BFF;">Teaching Industry Learning Center (TILC) Sekolah Vokasi UGM, Yogyakarta</a>.
 
-Note: Delivery Full in English 
+**Note: Delivery Full in English**
 
-Tujuan dari Kamp Kontribusi OpenStack
+**Tujuan dari Kamp Kontribusi OpenStack**<br/>
 
 Mengingat terbatasnya waktu dari program mentoring 2 hari ini, tujuannya bukanlah kontribusi kode secara langsung, melainkan untuk membangun pengetahuan dasar tentang cara berkontribusi ke OpenStack.
 
@@ -25,10 +25,9 @@ Program ini terstruktur sebagai berikut:
 
 - Day 2: Hands-on practice
 
-Untuk mengikuti program ini peserta perlu registrasi pada link yang tertera dan menyetujui beberapa prasyarat yang telah ditentukan :
-<a href="https://s.id/occ2025" style="color: #007BFF !important;">https://s.id/occ2025</a>.
+Untuk mengikuti program ini peserta perlu <a href="https://s.id/occ2025" style="color: #007BFF;" target="_blank" rel="noopener">REGISTRASI</a> pada link yang tertera dan menyetujui beberapa prasyarat yang telah ditentukan.
 
-Jika ada pertanyaan lebih lanjut, jangan ragu untuk menghubungi kami di <a style="color: #007BFF !important;">info@openinfra.id</a>
+Jika ada pertanyaan lebih lanjut, jangan ragu untuk menghubungi kami di **info@openinfra.id**.
 
 
 
