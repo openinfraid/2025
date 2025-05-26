@@ -27,18 +27,18 @@ OpenStack • StarlingX • Airship • Zuul • Kubernetes • Docker • Ceph 
 Format sesi yang tersedia dalam acara ini adalah Sesi Kilat (10 menit + T&J) dan Sesi Penyajian (30 menit + T&J)
 
 ### Jadwal
-– Tenggat pengajuan penyajian: 30 Juni 2025</br>
-– Pengumuman penyajian diterima: 05 Juni 2025
+– Tenggat pengajuan penyajian: 27 Juni 2025</br>
+– Pengumuman penyajian diterima: 1 Juli 2025
 
 
 ### Penyerahan Presentasi
-Sila ajukan proposal penyajian Anda melaui tautan berikut: [https://s.id/ioid21_cfp](https://s.id/ioid21_cfp)
+Sila ajukan proposal penyajian anda melaui tautan [ini](https://forms.gle/HVnB49CN1PD62SMr8).
 
 ### Contoh Penyajian Diterima
 Kunjungi tautan berikut untuk referensi penyajian: [IOID2019](https://www.openstack.id/2019/11/13/salindia-presentasi-ioid19/) | [OICNDI2020](https://www.openstack.id/2020/11/26/salindia-presentasi-oicndi2020/)
 
 ### Penilai
-Wakil Komunitas OpenStack Indonesia
+Wakil Komunitas OpenInfra & OpenStack Indonesia User Group
 
 ### Penyelenggara
-Komunitas OpenStack Indonesia
+Komunitas OpenInfra & OpenStack Indonesia User Group
