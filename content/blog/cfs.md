@@ -21,5 +21,5 @@ Tingkatkan visibilitas brand Anda di hadapan ratusan profesional TI, pengembang,
 
 🔹 Kategori Sponsor: Foundation, Platinum, Gold, Silver, Partner</br>
 🔹 Manfaat: Branding, Booth, Publikasi, Networking</br>
-🔹 Kontak: contact@openinfra.id</br>
+🔹 Kontak: info@openinfra.id</br>
 🔗 https://2025.openinfra.id
