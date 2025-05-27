@@ -2,7 +2,7 @@
 title : "Call for Proposal"
 url: "/cfp"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2025-05-27T15:40:24+06:00
+date: 2025-05-27T11:40:24+06:00
 image: "images/news/cfp-2025.png"
 author: "Ary"
 author_id: "https://linkedin.com/in/aryulianto"
