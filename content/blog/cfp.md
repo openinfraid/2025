@@ -1,8 +1,8 @@
 ---
-title : "Call for Proposals"
+title : "Call for Proposal"
 url: "/cfp"
 page_header_bg : "images/background/page-title-bg.jpg"
-date: 2025-05-18T15:40:24+06:00
+date: 2025-05-27T15:40:24+06:00
 image: "images/news/cfp-2025.png"
 author: "Ary"
 author_id: "https://linkedin.com/in/aryulianto"
@@ -11,34 +11,52 @@ categories: ["events", "IOID25","anually"]
 description : ""
 draft : false
 ---
-### Indonesia OpenInfra Days 2025 
+# 🇮 Indonesia OpenInfra Days 2025
 
-Akan kembali diadakan pada hari Sabtu, 19 Juli 2025 secara luring di <a href="https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7" style="color: #007BFF;">Teaching Industry Learning Center (TILC) Sekolah Vokasi UGM, Yogyakarta</a>. Acara ini akan menyajikan Sesi Keynote Speech, Talks, Lighting Talk, Breakout Room Session. Panitia mengundang Anda untuk berpartisipasi menjadi penyaji dalam konferensi yang rutin diadakan satu tahun sekali ini.
+**Indonesia OpenInfra Days 2025** akan kembali hadir dan diselenggarakan secara **luring** pada:
 
-### Topik
-Seperti di tahun-tahun sebelumnya, topik yang disajikan dalam acara ini berkaitan dengan teknologi open infrastructure. Materi yang disajikan dapat berisi hal-hal teknis maupun non-teknis.
+🗓 **Hari Sabtu, 19 Juli 2025**  
+📍 **Teaching Industry Learning Center (TILC), Sekolah Vokasi UGM, Yogyakarta**  
+📌 [Lihat Lokasi di Google Maps](https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7)
 
-### Berikut contoh teknologi yang berkaitan:
-Seperti tahun-tahun sebelumnya, kami mengundang proposal yang berkaitan dengan teknologi open infrastructure, baik dari sisi teknis maupun non-teknis. Beberapa teknologi dan topik yang relevan mencakup:
+Acara tahunan ini merupakan wadah kolaborasi, diskusi, dan berbagi pengetahuan bagi komunitas teknologi terbuka (Open Infrastructure) di Indonesia. 
 
-OpenStack • StarlingX • Airship • Zuul • Kubernetes • Docker • Ceph • GitLab • Jenkins • Elastic Stack • Terraform • Ansible • Prometheus • Kata Containers • Hadoop • Open Compute • Open Networking • HPC • Machine Learning • Blockchain • IoT • Community & Governance
+Rangkaian acara akan mencakup:
+- **Keynote Speech**
+- **Talks**
+- **Lightning Talks**
+- **Breakout Room Sessions**
 
-### Sesi
-Format sesi yang tersedia dalam acara ini adalah Sesi Kilat (10 menit + T&J) dan Sesi Penyajian (30 menit + T&J)
+Kami mengundang Anda semua, baik praktisi, akademisi, pelaku industri, maupun penggemar teknologi open source, untuk berpartisipasi sebagai **penyaji** dalam konferensi ini.
 
-### Jadwal
-– Tenggat pengajuan penyajian: 30 Juni 2025</br>
-– Pengumuman penyajian diterima: 05 Juni 2025
+---
 
+## 🎤 Format Sesi
 
-### Penyerahan Presentasi
-Sila ajukan proposal penyajian Anda melaui tautan berikut: [https://s.id/ioid21_cfp](https://s.id/ioid21_cfp)
+Tersedia dua jenis format sesi untuk Anda pilih:
 
-### Contoh Penyajian Diterima
-Kunjungi tautan berikut untuk referensi penyajian: [IOID2019](https://www.openstack.id/2019/11/13/salindia-presentasi-ioid19/) | [OICNDI2020](https://www.openstack.id/2020/11/26/salindia-presentasi-oicndi2020/)
+- **Lightning Talks/Sesi Kilat**  
+  ⏱ Durasi: 10 menit presentasi + sesi tanya jawab singkat  
 
-### Penilai
-Wakil Komunitas OpenStack Indonesia
+- **Talks/Sesi Penyajian**  
+  ⏱ Durasi: 30 menit presentasi + sesi tanya jawab  
 
-### Penyelenggara
-Komunitas OpenStack Indonesia
+---
+
+## 📆 Jadwal Penting
+
+- Tenggat Pengajuan Proposal Penyajian: Jumat, **27 Juni 2025**  
+- Pengumuman Proposal yang Diterima: Selasa, **1 Juli 2025**
+
+---
+
+## 📩 Pengajuan Proposal
+
+Tertarik untuk menjadi penyaji?   Silakan ajukan proposal Anda melalui tautan berikut:
+
+👉 [https://s.id/oid25-cfp](https://s.id/oid25-cfp)
+
+---
+
+Mari berbagi inspirasi dan membangun ekosistem open infrastructure Indonesia bersama!  
+Untuk informasi lebih lanjut, pantau terus kanal resmi komunitas OpenInfra Indonesia atau surel info@openinfra.id.
