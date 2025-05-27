@@ -3,7 +3,7 @@ title : "Openstack Contribution Camp"
 url: "/occ"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2025-05-18T15:40:24+06:00
-image: "images/news/occ-2025.png"
+image: "images/news/occ.png"
 author: "Pahrial"
 author_id: "https://linkedin.com/in/pahrialms"
 tags: ["EVENTS", "OCC25", "WeAreOpenInfra"]
@@ -26,7 +26,7 @@ Program ini terstruktur sebagai berikut:
 
 - Day 2: Hands-on practice
 
-Untuk mengikuti program ini peserta perlu <a href="https://s.id/occ2025" style="color: #007BFF;" target="_blank" rel="noopener">REGISTRASI</a> pada link yang tertera dan menyetujui beberapa prasyarat yang telah ditentukan.
+Untuk mengikuti program ini peserta perlu registrasi di <a href="https://s.id/occ2025" class="link-blue">https://s.id/occ2025</a> pada link yang tertera dan menyetujui beberapa prasyarat yang telah ditentukan.
 
 Jika ada pertanyaan lebih lanjut, jangan ragu untuk menghubungi kami di **info@openinfra.id**.
 
