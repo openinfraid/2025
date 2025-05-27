@@ -1,5 +1,5 @@
 ---
-title: "Anonymous 14"
+title: "Speaker 14"
 page_header_bg: "images/background/page-title-bg.png"
 date: 2020-03-14T15:40:24+06:00
 designation: "Guest Speaker"
@@ -31,4 +31,4 @@ skills:
   skillbars: []
 ---
 
-#### Anonymous Contribution Talk
+#### Speaker Contribution Talk

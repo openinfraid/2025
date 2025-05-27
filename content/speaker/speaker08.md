@@ -31,4 +31,4 @@ skills:
   skillbars: []
 ---
 
-#### Anonymous Contribution Talk
+#### Speaker Contribution Talk
