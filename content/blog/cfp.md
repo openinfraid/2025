@@ -11,7 +11,7 @@ categories: ["events", "IOID25","anually"]
 description : ""
 draft : false
 ---
-# 🇮 Indonesia OpenInfra Days 2025
+#Indonesia OpenInfra Days 2025
 
 **Indonesia OpenInfra Days 2025** akan kembali hadir dan diselenggarakan secara **luring** pada:
 
@@ -19,7 +19,7 @@ draft : false
 📍 **Teaching Industry Learning Center (TILC), Sekolah Vokasi UGM, Yogyakarta**  
 📌 [Lihat Lokasi di Google Maps](https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7)
 
-Acara tahunan ini merupakan wadah kolaborasi, diskusi, dan berbagi pengetahuan bagi komunitas teknologi terbuka (Open Infrastructure) di Indonesia. 
+Acara tahunan ini merupakan wadah kolaborasi, diskusi, dan berbagi pengetahuan bagi komunitas teknologi terbuka (Open Source) di Indonesia. 
 
 Rangkaian acara akan mencakup:
 - **Keynote Speech**
@@ -31,7 +31,7 @@ Kami mengundang Anda semua, baik praktisi, akademisi, pelaku industri, maupun pe
 
 ---
 
-## 🎤 Format Sesi
+#### 🎤 Format Sesi
 
 Tersedia dua jenis format sesi untuk Anda pilih:
 
@@ -43,14 +43,14 @@ Tersedia dua jenis format sesi untuk Anda pilih:
 
 ---
 
-## 📆 Jadwal Penting
+#### 📆 Jadwal Penting
 
 - Tenggat Pengajuan Proposal Penyajian: Jumat, **27 Juni 2025**  
 - Pengumuman Proposal yang Diterima: Selasa, **1 Juli 2025**
 
 ---
 
-## 📩 Pengajuan Proposal
+#### 📩 Pengajuan Proposal
 
 Tertarik untuk menjadi penyaji?   Silakan ajukan proposal Anda melalui tautan berikut:
 
