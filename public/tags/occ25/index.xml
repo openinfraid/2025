@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OCC25 on OpenInfra Days Indonesia 2025</title>
+    <link>http://localhost:1313/tags/occ25/</link>
+    <description>Recent content in OCC25 on OpenInfra Days Indonesia 2025</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 May 2025 15:40:24 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/occ25/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Openstack Contribution Camp</title>
+      <link>http://localhost:1313/occ/</link>
+      <pubDate>Sun, 18 May 2025 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/occ/</guid>
+      <description>&lt;h3 id=&#34;openstack-contribution-camp-2025&#34;&gt;OpenStack Contribution Camp 2025&lt;/h3&gt;&#xA;&lt;p&gt;OpenStack Contribution Camp 2025 kolaborasi antara OpenInfra Indonesia dan &lt;a href=&#34;https://openinfra-kr.org/&#34; style=&#34;color: #007BFF;&#34;&gt;Korea User Group&lt;/a&gt;, Tanggal 16-17 Juli 2025 yang bertempat di &lt;a href=&#34;https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7&#34; style=&#34;color: #007BFF;&#34;&gt;Teaching Industry Learning Center (TILC) Sekolah Vokasi UGM, Yogyakarta&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

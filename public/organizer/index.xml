@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organizer on OpenInfra Days Indonesia 2025</title>
+    <link>http://localhost:1313/organizer/</link>
+    <description>Recent content in Organizer on OpenInfra Days Indonesia 2025</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Mar 2025 15:40:24 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/organizer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fadilah Riczky</title>
+      <link>http://localhost:1313/organizer/fadilah-riczky/</link>
+      <pubDate>Fri, 14 Mar 2025 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/organizer/fadilah-riczky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bayu Aji</title>
+      <link>http://localhost:1313/organizer/bayu-aji/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/organizer/bayu-aji/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diana Zuniarti</title>
+      <link>http://localhost:1313/organizer/diana/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/organizer/diana/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kiki Fachry</title>
+      <link>http://localhost:1313/organizer/kiki-fachry/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/organizer/kiki-fachry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pahrial MS</title>
+      <link>http://localhost:1313/organizer/pahrial-ms/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/organizer/pahrial-ms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saputro Aryulianto</title>
+      <link>http://localhost:1313/organizer/saputro-aryulianto/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/organizer/saputro-aryulianto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sartika Lestari</title>
+      <link>http://localhost:1313/organizer/sartika-lestari/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/organizer/sartika-lestari/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
