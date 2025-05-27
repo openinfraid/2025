@@ -26,7 +26,7 @@ Program ini terstruktur sebagai berikut:
 
 - Day 2: Hands-on practice
 
-Untuk mengikuti program ini peserta perlu <a href="https://s.id/occ2025" style="color: #007BFF;" target="_blank" rel="noopener">REGISTRASI</a> pada link yang tertera dan menyetujui beberapa prasyarat yang telah ditentukan.
+Untuk mengikuti program ini peserta perlu registrasi di [https://s.id/occ2025](https://s.id/occ2025) pada link yang tertera dan menyetujui beberapa prasyarat yang telah ditentukan.
 
 Jika ada pertanyaan lebih lanjut, jangan ragu untuk menghubungi kami di **info@openinfra.id**.
 
