@@ -19,7 +19,7 @@ Indonesia OpenInfra Days 2025
 Bergabunglah sebagai sponsor dan dukung konferensi open infrastructure terbesar di Indonesia!
 Tingkatkan visibilitas brand Anda di hadapan ratusan profesional TI, pengembang, dan komunitas open source.
 
-🔹 Kategori Sponsor: Foundation, Platinum, Gold, Silver, Partner
-🔹 Manfaat: Branding, Booth, Publikasi, Networking
-🔹 📧 Kontak: openstack.indonesia@gmail.com
+🔹 Kategori Sponsor: Foundation, Platinum, Gold, Silver, Partner</br>
+🔹 Manfaat: Branding, Booth, Publikasi, Networking</br>
+🔹 Kontak: info@openinfra.id</br>
 🔗 https://2025.openinfra.id
