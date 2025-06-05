@@ -251,23 +251,19 @@ sponsors:
       
   - name : "Gold Sponsors"
     sponsor_item:
-    - name : "Sponsor Placeholder"
-      logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "openinfra.id"
+    - name : "PT. Datacomm Diangraha"
+      logo : "images/sponsors/datacomm-logo.png"
+      link : "https://www.datacomm.co.id"
   
-    - name : "Sponsor Placeholder"
-      logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "openinfra.id"
-
-    - name : "Sponsor Placeholder"
-      logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "openinfra.id"
+    - name : "PT. Megatronix Mitraniaga"
+      logo : "images/sponsors/megatronix-logo.jpeg"
+      link : "https://mymegatronix.co.id"
 
   - name : "Silver Sponsor"
     sponsor_item:
-    - name : "Sponsor Placeholder"
-      logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "openinfra.id"
+    - name : "PT Boer Technology"
+      logo : "images/sponsors/btech-logo.png"
+      link : "https://btech.id"
     
     - name : "Sponsor Placeholder"
       logo : "images/sponsors/sponsor_placeholder.svg"
