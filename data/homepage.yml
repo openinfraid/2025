@@ -248,6 +248,9 @@ sponsors:
     - name : "Sponsor Placeholder"
       logo : "images/sponsors/sponsor_placeholder.svg"
       link : "openinfra.id"
+    - name : "Sponsor Placeholder"
+      logo : "images/sponsors/sponsor_placeholder.svg"
+      link : "openinfra.id"
       
   - name : "Gold Sponsors"
     sponsor_item:
