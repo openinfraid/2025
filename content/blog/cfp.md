@@ -58,5 +58,10 @@ Tertarik untuk menjadi penyaji?   Silakan ajukan proposal Anda melalui tautan be
 
 ---
 
+#### ✈️ Travel Support
+Panitia berupaya menyediakan dukungan perjalanan untuk penyaji (speaker) dari luar kota. Namun, ketersediaan bantuan transportasi dan/atau akomodasi tidak dijamin dan akan bergantung pada dukungan dana sponsor yang tersedia.
+
+---
+
 Mari berbagi inspirasi dan membangun ekosistem open infrastructure Indonesia bersama!  
 Untuk informasi lebih lanjut, pantau terus kanal resmi komunitas OpenInfra Indonesia atau surel info@openinfra.id.
