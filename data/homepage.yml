@@ -262,6 +262,10 @@ sponsors:
       logo : "images/sponsors/megatronix-logo.jpeg"
       link : "https://mymegatronix.co.id"
 
+    - name : "Global Milenia Teknologi x Sivali Cloud Technology"
+      logo : "images/sponsors/gmt-sivali-logo.png"
+      link : "https://www.globalmilenia.co.id/"
+
   - name : "Silver Sponsor"
     sponsor_item:
     - name : "PT Boer Technology"
