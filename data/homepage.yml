@@ -280,27 +280,23 @@ sponsors:
       logo : "images/sponsors/sponsor_placeholder.svg"
       link : "openinfra.id"
       
-  - name : "Custom Sponsors"
-    sponsor_item:
-    - name : "Sponsor Placeholder "
-      logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "openinfra.id"
+#  - name : "Custom Sponsors"
+#    sponsor_item:
+#    - name : "Sponsor Placeholder "
+#      logo : "images/sponsors/sponsor_placeholder.svg"
+#      link : "openinfra.id"
     
-    - name : "Sponsor Placeholder "
-      logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "openinfra.id"
+#    - name : "Sponsor Placeholder "
+#      logo : "images/sponsors/sponsor_placeholder.svg"
+#      link : "openinfra.id"
     
-    - name : "Sponsor Placeholder "
-      logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "openinfra.id"
+#    - name : "Sponsor Placeholder "
+#      logo : "images/sponsors/sponsor_placeholder.svg"
+#      link : "openinfra.id"
 
     
   - name : "Community Partner"
     sponsor_item:
-    - name : "gimpscape"
-      logo : "images/community/gimpscape.png"
-      link : "https://gimpscape.org/"
-    
     - name : "opensuse-id"
       logo : "images/community/opensuse-id.png"
       link : "https://opensuse.id/"
