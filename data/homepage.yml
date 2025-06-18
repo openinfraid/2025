@@ -265,6 +265,10 @@ sponsors:
     - name : "Global Milenia Teknologi x Sivali Cloud Technology"
       logo : "images/sponsors/gmt-sivali-logo.png"
       link : "https://www.globalmilenia.co.id/"
+    
+    - name : "Flexi Integrasi Digdaya"
+      logo : "images/sponsors/flexi-logo.png"
+      link : "https://flexi.co.id"
 
   - name : "Silver Sponsor"
     sponsor_item:
