@@ -276,9 +276,9 @@ sponsors:
       logo : "images/sponsors/nashta-logo.png"
       link : "https://nashtagroup.co.id"
     
-    - name : "Sponsor Placeholder"
-      logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "openinfra.id"
+    - name : "PT Delta Awan Angkasa"
+      logo : "images/sponsors/nevacloud-logo.png"
+      link : "https://nevacloud.com"
       
 #  - name : "Custom Sponsors"
 #    sponsor_item:
