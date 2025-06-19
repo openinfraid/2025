@@ -245,12 +245,12 @@ sponsors:
   
   - name : "Platinum Sponsor"
     sponsor_item:
+    - name : "EasyStack"
+      logo : "images/sponsors/easystack-logo-new.png"
+      link : "https://easystack.io/"
     - name : "Sponsor Placeholder"
       logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "openinfra.id"
-    - name : "Sponsor Placeholder"
-      logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "openinfra.id"
+      link : "/"
       
   - name : "Gold Sponsors"
     sponsor_item:
