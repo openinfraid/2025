@@ -85,24 +85,29 @@ url = "schedule"
 weight = 4
 
 [[menu.main]]
+name = "Travel & Onsite Info"
+url = "travel-onsite-info"
+weight = 5
+
+[[menu.main]]
 name = "Gallery"
 url = "https://www.flickr.com/photos/182934431@N07/"
-weight = 5
+weight = 6
 
 [[menu.main]]
 name = "FAQ"
 url = "faq"
-weight = 6
+weight = 7
 
 [[menu.main]]
 name = "Organizer"
 url = "organizer"
-weight = 7
+weight = 8
 
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 8
+weight = 9
 
 #[[menu.main]]
 #weight = 5
