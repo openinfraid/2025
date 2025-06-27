@@ -11,7 +11,7 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 <br/><br/>
 
 ##### Quick links:
-- <a href="https://g.co/kgs/3m57FZ3" style="color: #007BFF;">The Venue</a>
+- <a href="https://maps.app.goo.gl/9NWpMMDJ7L4SNy989" style="color: #007BFF;">The Venue</a>
 - <a href="https://2025.openinfra.id/schedule/" style="color: #007BFF;">The Schedule</a>
 - <a href="" style="color: #007BFF;">Meal Coupons</a>
 - <a href="" style="color: #007BFF;">Code of Conduct</a>
