@@ -13,8 +13,9 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 ##### Quick links:
 - <a href="https://maps.app.goo.gl/9NWpMMDJ7L4SNy989" style="color: #007BFF;">The Venue</a>
 - <a href="https://2025.openinfra.id/schedule/" style="color: #007BFF;">The Schedule</a>
-- <a href="" style="color: #007BFF;">Meal Coupons</a>
-- <a href="" style="color: #007BFF;">Code of Conduct</a>
+- <a href="https://docs.google.com/spreadsheets/d/1YTmHXFJAo2K-GWTqrBIoUyU4ZYqpjJxnl3LINrojIfI/edit?usp=sharing" style="color: #007BFF;">Hotel Suggestions</a>
+- <a href="" style="color: #007BFF;">OpenStack Birthday Party</a>
+- <a href="https://openinfra.org/legal/code-of-conduct" style="color: #007BFF;">Code of Conduct</a>
 - <a href="https://2025.openinfra.id/contact/" style="color: #007BFF;">Contact the organizers</a>
 
 --------
@@ -25,6 +26,11 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 - There is no dedicated WiFi for the Event.
 
 ---------
+
+#### Hotel Recommendations
+
+- For your convenience, we have compiled a list of recommended hotels near the event venue. You can view the list and more details on the following <a href="https://docs.google.com/spreadsheets/d/1YTmHXFJAo2K-GWTqrBIoUyU4ZYqpjJxnl3LINrojIfI/edit?usp=sharing" style="color: #007BFF;">Hotel Suggestions</a>. We hope this helps you find a suitable place to stay during the event!
+
 
 ##### Celebrate with Us at the OpenStack Birthday Party!
 
