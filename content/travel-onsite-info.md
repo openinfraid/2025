@@ -21,26 +21,22 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 ##### What to expect
 
 - Coffee and cookies will be provided in the morning.
+- Lunch will be provided.
 - There is no dedicated WiFi for the Event.
 
 ---------
 
-##### Celebrate with Us at the Dinner Party!
+##### Celebrate with Us at the OpenStack Birthday Party!
 
----------
-##### Event Extras
-
-- Saturday, July 19, 2025
-  - Keynotes
-
-- Saturday, July 19, 2025
-  - OpenStack Birthday
+- Saturday Night, July 19, 2025
+  - TBD
 
 --------
 ##### Accommodations & Tourist Information
 
 - **Visit Yogyakarta** - You can browse tourist attractions in Yogyakarta.
   - Instagram: <a href=https://www.instagram.com/pariwisata.jogjakota/ style="color: #007BFF;">@pariwisata.jogjakota</a>
+--------
 
 ##### Travel Applications and Transportation Cards
 - **Map & Transportation Application**
