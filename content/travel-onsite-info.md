@@ -14,14 +14,13 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 - <a href="https://maps.app.goo.gl/9NWpMMDJ7L4SNy989" style="color: #007BFF;">The Venue</a>
 - <a href="https://2025.openinfra.id/schedule/" style="color: #007BFF;">The Schedule</a>
 - <a href="https://docs.google.com/spreadsheets/d/1YTmHXFJAo2K-GWTqrBIoUyU4ZYqpjJxnl3LINrojIfI/edit?usp=sharing" style="color: #007BFF;">Hotel Suggestions</a>
-- <a href="" style="color: #007BFF;">OpenStack Birthday Party</a>
 - <a href="https://openinfra.org/legal/code-of-conduct" style="color: #007BFF;">Code of Conduct</a>
 - <a href="https://2025.openinfra.id/contact/" style="color: #007BFF;">Contact the organizers</a>
 
 --------
 ##### What to expect
 
-- Coffee and cookies will be provided in the morning.
+- Coffee break will be provided.
 - Lunch will be provided.
 - There is no dedicated WiFi for the Event.
 
@@ -30,12 +29,6 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 #### Hotel Recommendations
 
 - For your convenience, we have compiled a list of recommended hotels near the event venue. You can view the list and more details on the following <a href="https://docs.google.com/spreadsheets/d/1YTmHXFJAo2K-GWTqrBIoUyU4ZYqpjJxnl3LINrojIfI/edit?usp=sharing" style="color: #007BFF;">Hotel Suggestions</a>. We hope this helps you find a suitable place to stay during the event!
-
-
-##### Celebrate with Us at the OpenStack Birthday Party!
-
-- Saturday Night, July 19, 2025
-  - TBD
 
 --------
 ##### Accommodations & Tourist Information
@@ -77,11 +70,6 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
   - **Cost**: Motorcycle (for 1 person) starts from 10.000 IDR. Or a car (for 4 - 6 people) starts from 25.000 IDR.
   - **Note**: It’s recommended to walk away from the station for several meters to the west before ordering a ride-hailing app.
 
-##### Conventional Ojek
-- Take Exit and look for people who offer to ride (mainly they gather right at the Exit), tell them your destination “TILC SV UGM”.
-  - **Travel Time**: approx. 20 minutes
-  - **Cost**: ??? IDR.
-
 ##### City Bus (Trans Jogja)
 - Exit the station from the south gateway and look for Trans Jogja's bus stop (ID: halte) “TPB Jlagran”, wait for Route 3B, tell the officer that you want to go to Sekolah Vokasi UGM (halte Vokasi UGM).
   - **Travel Time**: approx. 1 hour
@@ -107,4 +95,4 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 ------------
 #### Getting Assistance
-Have Questions? Contact the OpenInfra Days Indonesia organizers at …
+Have Questions? Contact the OpenInfra Days Indonesia organizers at oid25-crew@openinfra.id
