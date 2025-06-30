@@ -1,20 +1,19 @@
 ################# Banner ###################
 banner:
-  enable : true
-  heading : "Indonesia"
-  heading_2 : "OpenInfra Days 2025"
-  content : "Saturday, 19th July 2025"
+  enable: true
+  heading: "Indonesia"
+  heading_2: "OpenInfra Days 2025"
+  content: "Saturday, 19th July 2025"
   timer:
-    enable : true
-    year : 2025
-    month : 7
-    day : 19
+    enable: true
+    year: 2025
+    month: 7
+    day: 19
   button:
-    enable : true
-    label : "get ticket now"
-    link : "https://www.loket.com/event/openinfradays2025"
+    enable: true
+    label: "get ticket now"
+    link: "https://www.loket.com/event/openinfradays2025"
 
-    
 ################# About ###################
 about:
   enable: true
@@ -35,133 +34,126 @@ about:
 
 ############### Call to action ############
 call_to_action:
-  enable : false
-  title : "Get Ticket Now!"
-  image : "images/speakers/speaker-ticket.png"
-  content : ""
+  enable: false
+  title: "Get Ticket Now!"
+  image: "images/speakers/speaker-ticket.png"
+  content: ""
   button:
-    enable : true
-    label : "Buy ticket"
-    link : "https://www.loket.com/event/openinfradays2025"
-
-
-
+    enable: true
+    label: "Buy ticket"
+    link: "https://www.loket.com/event/openinfradays2025"
 
 ################# Speaker ###################
 speakers:
-  enable : true
-  title : "Who Speaking?"
-  content : ""
+  enable: true
+  title: "Who Speaking?"
+  content: ""
   # speaker items are coming from "content/speakers" folder
 
-###################### Tab ####################
+  ###################### Tab ####################
 tab:
-  enable : true
-  title : "Event Schedule"
-  content : ""
+  enable: true
+  title: "Event Schedule"
+  content: ""
   tablist:
-  - name : "Saturday"
-    date : "19th July 2025"
+  - name: "Saturday"
+    date: "19th July 2025"
     tablist_items:
-    - speaker : "Speaker 01"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "08.30 AM"
-    - speaker : "Speaker 02"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "08.40 AM"
-    - speaker : "Speaker 03"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "09.00 AM"
-    - speaker : "Speaker 04"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "09.30 AM"
-    - speaker : "Speaker 05"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "10.00 AM"
-    - speaker : "Speaker 06"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "10.10 AM"
-    - speaker : "Speaker 07"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "10.20 AM"
-    - speaker : "Speaker 08"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "10.50 AM"
-    - speaker : "Speaker 09"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "11.20 AM"
-    - speaker : "Speaker 10"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "12.50 PM"
-    - speaker : "Speaker 11"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "01.20 PM"
-    - speaker : "Speaker 12"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "01.50 PM"
-    - speaker : "Speaker 13"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "02.20 PM"
-    - speaker : "Speaker 14"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "02.50 PM"
-    - speaker : "Speaker 15"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "03.20 PM"
-    - speaker : "Speaker 16"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "03.50 PM"
-    - speaker : "Speaker 17"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "04.20 PM"
-    - speaker : "Speaker 18"
-      speaker_image : "images/speakers/tba-thumb.JPG"
-      subject : "Soon"
-      venue : "TBA"
-      time : "04.50 PM"
-
-
-
-
-##
-  # tab item
-  #  - name : "Day-02"
-  #  date : "23 November 2017"
-  #  tablist_items:
+    - speaker: "Speaker 01"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "08.30 AM"
+    - speaker: "Speaker 02"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "08.40 AM"
+    - speaker: "Speaker 03"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "09.00 AM"
+    - speaker: "Speaker 04"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "09.30 AM"
+    - speaker: "Speaker 05"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "10.00 AM"
+    - speaker: "Speaker 06"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "10.10 AM"
+    - speaker: "Speaker 07"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "10.20 AM"
+    - speaker: "Speaker 08"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "10.50 AM"
+    - speaker: "Speaker 09"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "11.20 AM"
+    - speaker: "Speaker 10"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "12.50 PM"
+    - speaker: "Speaker 11"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "01.20 PM"
+    - speaker: "Speaker 12"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "01.50 PM"
+    - speaker: "Speaker 13"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "02.20 PM"
+    - speaker: "Speaker 14"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "02.50 PM"
+    - speaker: "Speaker 15"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "03.20 PM"
+    - speaker: "Speaker 16"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "03.50 PM"
+    - speaker: "Speaker 17"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "04.20 PM"
+    - speaker: "Speaker 18"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "04.50 PM"
+    ##
+    # tab item
+    #  - name : "Day-02"
+    #  date : "23 November 2017"
+    #  tablist_items:
     # speaker
     #  - speaker : "TBA"
     #  speaker_image : "images/speakers/tba-thumb-one.jpg"
@@ -169,9 +161,9 @@ tab:
     #  venue : "Main Room"
     #  time : "9.00 AM"
 
-  #  - name : "Day-03"
-  #  date : "25 November 2017"
-  #  tablist_items:
+    #  - name : "Day-03"
+    #  date : "25 November 2017"
+    #  tablist_items:
     # speaker
     #- speaker : "TBA"
     #speaker_image : "images/speakers/tba-thumb-one.jpg"
@@ -179,36 +171,36 @@ tab:
     #venue : "Main Room"
     #time : "9.00 AM"
 
-############ Registration ####################
+    ############ Registration ####################
 registration:
-  enable : false
-  title : "Statistic #IOID25"
-  content : "Current Statistic for Indonesia OpenInfra Days 2025"
+  enable: false
+  title: "Statistic #IOID25"
+  content: "Current Statistic for Indonesia OpenInfra Days 2025"
   #form_action : "#" # works with formspree.io
 
   funfacts:
-  - name : "17 Speakers"
-    icon : "fa-microphone"
-    
-  - name : "250+ Attendees"
-    icon : "fa-user-o"
-    
-  - name : "Free COA voucher"
-    icon : "fa-ticket"
-    
-  - name : "1 day online event"
-    icon : "fa-calendar"
+  - name: "17 Speakers"
+    icon: "fa-microphone"
+
+  - name: "250+ Attendees"
+    icon: "fa-user-o"
+
+  - name: "Free COA voucher"
+    icon: "fa-ticket"
+
+  - name: "1 day online event"
+    icon: "fa-calendar"
 
 ############ Pricing ####################
 pricing:
-  enable : false
-  title : "Get Ticket"
-  content : ""
-  pricing_table: 
-  - name : "Full-day Event"
-    price : "IDR 75K"
-    price_per : "Person"
-    button_link : "https://www.loket.com/event/openinfradays2025"
+  enable: false
+  title: "Get Ticket"
+  content: ""
+  pricing_table:
+  - name: "Full-day Event"
+    price: "IDR 75K"
+    price_per: "Person"
+    button_link: "https://www.loket.com/event/openinfradays2025"
     features:
     - "All Sessions"
     - "Early Access"
@@ -218,101 +210,101 @@ pricing:
     - "Sticker Pack"
     - "Exclusive T-Shirt"
 
-
-
-
-
 ############### Sponsors ##################
 sponsors:
-  enable : true
-  title : "Sponsors & Community Partner"
-  content : ""
+  enable: true
+  title: "Sponsors & Community Partner"
+  content: ""
   button:
-    enable : true
-    label : "Become a sponsor"
-    link : "files/OID25-Sponsorship_Prospectus_20250515.pdf"
+    enable: true
+    label: "Become a sponsor"
+    link: "files/OID25-Sponsorship_Prospectus_20250515.pdf"
 
   sponsor_group:
-  - name : "Foundation & Venue Sponsor"
+  - name: "Foundation & Venue Sponsor"
     sponsor_item:
-    - name : "oif"
-      logo : "images/sponsors/oif-logo.png"
-      link : "https://openinfra.dev"
-    
-    - name : "ugm"
-      logo : "images/sponsors/ugm-logo.png"
-      link : "https://ugm.ac.id"
-  
-  - name : "Platinum Sponsor"
-    sponsor_item:
-    - name : "EasyStack"
-      logo : "images/sponsors/easystack-logo-new.png"
-      link : "https://easystack.io/"
-    - name : "Sponsor Placeholder"
-      logo : "images/sponsors/sponsor_placeholder.svg"
-      link : "/"
-      
-  - name : "Gold Sponsors"
-    sponsor_item:
-    - name : "PT. Datacomm Diangraha"
-      logo : "images/sponsors/datacomm-logo.png"
-      link : "https://www.datacomm.co.id"
-  
-    - name : "ZCONVERTER Inc."
-      logo : "images/sponsors/zconverter-logo.png"
-      link : "https://zconverter.com"
+    - name: "oif"
+      logo: "images/sponsors/oif-logo.png"
+      link: "https://openinfra.dev"
 
-    - name : "Global Milenia Teknologi x Sivali Cloud Technology"
-      logo : "images/sponsors/gmt-sivali-logo.png"
-      link : "https://www.globalmilenia.co.id/"
-    
-    - name : "Flexi Integrasi Digdaya"
-      logo : "images/sponsors/flexi-logo.png"
-      link : "https://flexi.co.id"
+    - name: "ugm"
+      logo: "images/sponsors/ugm-logo.png"
+      link: "https://ugm.ac.id"
 
-  - name : "Silver Sponsor"
+  - name: "Platinum Sponsor"
     sponsor_item:
-    - name : "PT Boer Technology"
-      logo : "images/sponsors/btech-logo.png"
-      link : "https://btech.id"
-    
-    - name : "PT. NashTa Global Utama"
-      logo : "images/sponsors/nashta-logo.png"
-      link : "https://nashtagroup.co.id"
-    
-    - name : "PT Delta Awan Angkasa"
-      logo : "images/sponsors/nevacloud-logo.png"
-      link : "https://nevacloud.com"
-      
-#  - name : "Custom Sponsors"
-#    sponsor_item:
-#    - name : "Sponsor Placeholder "
-#      logo : "images/sponsors/sponsor_placeholder.svg"
-#      link : "openinfra.id"
-    
-#    - name : "Sponsor Placeholder "
-#      logo : "images/sponsors/sponsor_placeholder.svg"
-#      link : "openinfra.id"
-    
-#    - name : "Sponsor Placeholder "
-#      logo : "images/sponsors/sponsor_placeholder.svg"
-#      link : "openinfra.id"
+    - name: "EasyStack"
+      logo: "images/sponsors/easystack-logo-new.png"
+      link: "https://easystack.io/"
+    - name: "Sponsor Placeholder"
+      logo: "images/sponsors/sponsor_placeholder.svg"
+      link: "/"
 
-    
-  - name : "Community Partner"
+  - name: "Gold Sponsors"
     sponsor_item:
-    - name : "opensuse-id"
-      logo : "images/community/opensuse-id.png"
-      link : "https://opensuse.id/"
-      
-    - name : "forkomtrisvugm"
-      logo : "images/community/forkom.png"
-      link : "http://tri.sv.ugm.ac.id/forkom"
-    
-    - name : "cncf-indonesia"
-      logo : "images/community/cncf-indo.png"
-      link : "https://t.me/kubernetesindonesia"
+    - name: "PT. Datacomm Diangraha"
+      logo: "images/sponsors/datacomm-logo.png"
+      link: "https://www.datacomm.co.id"
 
-    - name : "klikkopi"
-      logo : "images/community/klikkopi-logo.png"
-      link : "https://www.instagram.com/klik.kopi/"
+    - name: "ZCONVERTER Inc."
+      logo: "images/sponsors/zconverter-logo.png"
+      link: "https://zconverter.com"
+
+    - name: "Global Milenia Teknologi x Sivali Cloud Technology"
+      logo: "images/sponsors/gmt-sivali-logo.png"
+      link: "https://www.globalmilenia.co.id/"
+
+    - name: "Flexi Integrasi Digdaya"
+      logo: "images/sponsors/flexi-logo.png"
+      link: "https://flexi.co.id"
+
+    - name: "WOWRACK"
+      logo: "images/sponsors/wowrack-logo.png"
+      link: "https://www.wowrack.com"
+
+  - name: "Silver Sponsor"
+    sponsor_item:
+    - name: "PT Boer Technology"
+      logo: "images/sponsors/btech-logo.png"
+      link: "https://btech.id"
+
+    - name: "PT. NashTa Global Utama"
+      logo: "images/sponsors/nashta-logo.png"
+      link: "https://nashtagroup.co.id"
+
+    - name: "PT Delta Awan Angkasa"
+      logo: "images/sponsors/nevacloud-logo.png"
+      link: "https://nevacloud.com"
+
+  #  - name : "Custom Sponsors"
+  #    sponsor_item:
+  #    - name : "Sponsor Placeholder "
+  #      logo : "images/sponsors/sponsor_placeholder.svg"
+  #      link : "openinfra.id"
+
+  #    - name : "Sponsor Placeholder "
+  #      logo : "images/sponsors/sponsor_placeholder.svg"
+  #      link : "openinfra.id"
+
+  #    - name : "Sponsor Placeholder "
+  #      logo : "images/sponsors/sponsor_placeholder.svg"
+  #      link : "openinfra.id"
+
+
+  - name: "Community Partner"
+    sponsor_item:
+    - name: "opensuse-id"
+      logo: "images/community/opensuse-id.png"
+      link: "https://opensuse.id/"
+
+    - name: "forkomtrisvugm"
+      logo: "images/community/forkom.png"
+      link: "http://tri.sv.ugm.ac.id/forkom"
+
+    - name: "cncf-indonesia"
+      logo: "images/community/cncf-indo.png"
+      link: "https://t.me/kubernetesindonesia"
+
+    - name: "klikkopi"
+      logo: "images/community/klikkopi-logo.png"
+      link: "https://www.instagram.com/klik.kopi/"
