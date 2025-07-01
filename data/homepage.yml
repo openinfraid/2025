@@ -173,22 +173,22 @@ tab:
 
     ############ Registration ####################
 registration:
-  enable: false
+  enable: true
   title: "Statistic #IOID25"
   content: "Current Statistic for Indonesia OpenInfra Days 2025"
   #form_action : "#" # works with formspree.io
 
   funfacts:
-  - name: "17 Speakers"
+  - name: "35+ Speakers"
     icon: "fa-microphone"
 
   - name: "250+ Attendees"
     icon: "fa-user-o"
 
-  - name: "Free COA voucher"
+  - name: "Door Prize"
     icon: "fa-ticket"
 
-  - name: "1 day online event"
+  - name: "1 Day in-person Event"
     icon: "fa-calendar"
 
 ############ Pricing ####################
