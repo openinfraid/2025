@@ -17,7 +17,7 @@ banner:
 ################# About ###################
 about:
   enable: true
-  title: "About #IOID25"
+  title: "About #OID25"
   image: "images/logo.png"
   content: >
     Indonesia OpenInfra Days 2025 akan diselenggarakan di <a href="https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7" target="_blank" style="color: #007BFF;">Yogyakarta</a>, mempertemukan pengguna, pengembang, profesional TI, pelaku bisnis, peneliti, dan pengambil kebijakan dari berbagai sektor — termasuk perusahaan, UKM, instansi pemerintah, universitas, LSM, penyedia cloud, dan vendor teknologi.
@@ -174,7 +174,7 @@ tab:
     ############ Registration ####################
 registration:
   enable: true
-  title: "Statistic #IOID25"
+  title: "Statistic #OID25"
   content: "Current Statistic for Indonesia OpenInfra Days 2025"
   #form_action : "#" # works with formspree.io
 
@@ -185,7 +185,7 @@ registration:
   - name: "250+ Attendees"
     icon: "fa-user-o"
 
-  - name: "Door Prize"
+  - name: "Win a Grand Prize"
     icon: "fa-ticket"
 
   - name: "1 Day in-person Event"
