@@ -3,7 +3,7 @@ title : "Balian Haidar R.D."
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Universitas Gadjah Mada"
-image: "images/organizers/balian.jpg"
+image: "images/organizers/balian.png"
 description : "Organizer OpenInfra Days Indonesia 2025"
 draft : false
 social:

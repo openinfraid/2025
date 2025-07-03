@@ -3,7 +3,7 @@ title : "Maullana Hidayanto"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Universitas Gadjah Mada"
-image: "images/organizers/maul.jpg"
+image: "images/organizers/maul.png"
 description : "Organizer OpenInfra Days Indonesia 2025"
 draft : false
 social:

@@ -3,7 +3,7 @@ title : "Diana Zuniarti"
 page_header_bg : "images/background/page-title-bg.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "OpenInfra Indonesia User Group"
-image: "images/organizers/diana.jpg"
+image: "images/organizers/dianaz.png"
 description : "Organizer OpenInfra Indonesia User Group"
 draft : false
 social:
