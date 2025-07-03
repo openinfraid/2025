@@ -150,23 +150,23 @@ tab:
       venue: "TBA"
       time: "04.50 PM"
     
-    - name: "Breakout Room 1"
-      date: "19 July 2025"
-      tablist_items:
-        - speaker: "TBA"
-          speaker_image: "images/speakers/tba-thumb-one.jpg"
-          subject: "TBA"
-          venue: "R201"
-          time: "9.00 AM"
-    - name: "Breakout Room 2"
-      date: "19 July 2025"
-      tablist_items:
-        - speaker: "TBA"
-          speaker_image: "images/speakers/tba-thumb-one.jpg"
-          subject: "TBA"
-          venue: "R04"
-          time: "9.00 AM"
+  - name: "Breakout Room 1"
+    date: "19th July 2025"
+    tablist_items:
+    - speaker: "Speaker 01"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "08.30 AM"
 
+  - name: "Breakout Room 2"
+    date: "19th July 2025"
+    tablist_items:
+    - speaker: "Speaker 01"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "08.30 AM"
     ############ Registration ####################
 registration:
   enable: true
