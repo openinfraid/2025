@@ -150,7 +150,7 @@ tab:
       venue: "TBA"
       time: "04.50 PM"
     
-  - name: "Breakout Room 1"
+  - name: "Breakout 1"
     #date: "R201"
     tablist_items:
     - speaker: "Speaker 01"
@@ -159,7 +159,7 @@ tab:
       venue: "TBA"
       time: "08.30 AM"
 
-  - name: "Breakout Room 2"
+  - name: "Breakout 2"
     #date: "R204"
     tablist_items:
     - speaker: "Speaker 01"
@@ -168,7 +168,7 @@ tab:
       venue: "TBA"
       time: "08.30 AM"
   
-  - name: "Breakout Room 3"
+  - name: "Breakout 3"
     #date: "R216"
     tablist_items:
     - speaker: "Speaker 01"
@@ -177,7 +177,7 @@ tab:
       venue: "TBA"
       time: "08.30 AM"
 
-  - name: "Breakout Room 4"
+  - name: "Breakout 4"
     #date: "R210"
     tablist_items:
     - speaker: "Speaker 01"
