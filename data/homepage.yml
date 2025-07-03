@@ -56,8 +56,8 @@ tab:
   title: "Event Schedule"
   content: ""
   tablist:
-  - name: "Saturday"
-    date: "19th July 2025"
+  - name: "Main Hall"
+    #date: "19th July 2025"
     tablist_items:
     - speaker: "Speaker 01"
       speaker_image: "images/speakers/tba-thumb.JPG"
@@ -151,7 +151,6 @@ tab:
       time: "04.50 PM"
     
   - name: "Breakout Room 1"
-    date: "19th July 2025"
     tablist_items:
     - speaker: "Speaker 01"
       speaker_image: "images/speakers/tba-thumb.JPG"
@@ -160,7 +159,22 @@ tab:
       time: "08.30 AM"
 
   - name: "Breakout Room 2"
-    date: "19th July 2025"
+    tablist_items:
+    - speaker: "Speaker 01"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "08.30 AM"
+  
+ - name: "Breakout Room 3"
+    tablist_items:
+    - speaker: "Speaker 01"
+      speaker_image: "images/speakers/tba-thumb.JPG"
+      subject: "Soon"
+      venue: "TBA"
+      time: "08.30 AM"
+
+  - name: "Breakout Room 4"
     tablist_items:
     - speaker: "Speaker 01"
       speaker_image: "images/speakers/tba-thumb.JPG"
