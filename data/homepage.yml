@@ -149,27 +149,27 @@ tab:
       subject: "Soon"
       venue: "TBA"
       time: "04.50 PM"
-    ##
-    # tab item
-    #  - name : "Day-02"
-    #  date : "23 November 2017"
-    #  tablist_items:
-    # speaker
-    #  - speaker : "TBA"
-    #  speaker_image : "images/speakers/tba-thumb-one.jpg"
-    #  subject : "TBA"
-    #  venue : "Main Room"
-    #  time : "9.00 AM"
+    
+     tab item
+      - name : "Breakout Room 1"
+      date : "23 November 2017"
+      tablist_items:
+     speaker
+      - speaker : "TBA"
+      speaker_image : "images/speakers/tba-thumb-one.jpg"
+      subject : "TBA"
+      venue : "R201"
+      time : "9.00 AM"
 
-    #  - name : "Day-03"
-    #  date : "25 November 2017"
-    #  tablist_items:
-    # speaker
-    #- speaker : "TBA"
-    #speaker_image : "images/speakers/tba-thumb-one.jpg"
-    #subject : "TBA"
-    #venue : "Main Room"
-    #time : "9.00 AM"
+      - name : "Breakout Room 2"
+      date : "25 November 2017"
+      tablist_items:
+     speaker
+      - speaker : "TBA"
+      speaker_image : "images/speakers/tba-thumb-one.jpg"
+      subject : "TBA"
+      venue : "R04"
+      time : "9.00 AM"
 
     ############ Registration ####################
 registration:
