@@ -1,6 +1,6 @@
 ---
 title: "Travel & Onsite Info"
-page_header_bg: "images/background/page-title-bg-sdl.jpg"
+page_header_bg: "images/background/cta-ticket-bg.jpg"
 date: 2025-06-01T10:00:00+07:00
 description: ""
 draft: false
