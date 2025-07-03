@@ -2,7 +2,7 @@
 title: "Seongsoo | Thor"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Infrastructure Engineer @OpenInfra Korea User Group"
+designation: "Infra Engineer @OpenInfra Korea UG"
 image: "images/speakers/seongsoo.png"
 description: "This is a placeholder speaker."
 draft: false

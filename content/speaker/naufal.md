@@ -2,7 +2,7 @@
 title: "Naufal Gholib Shiddiq"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Cloud Engineer @Boer Technology (Btech)"
+designation: "Cloud Engineer @Btech"
 image: "images/speakers/naufal.jpg"
 description: "This is a placeholder speaker."
 draft: false
