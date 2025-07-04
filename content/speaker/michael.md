@@ -1,8 +1,8 @@
 ---
-title: "Michael edward"
+title: "Michael Edward"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Technical Support @Gigabyte"
+designation: "Technical Support @GIGABYTE"
 image: "images/speakers/michael.jpeg"
 description: "This is a placeholder speaker."
 draft: false
