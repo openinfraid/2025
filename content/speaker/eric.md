@@ -3,7 +3,7 @@ title: "Eric Guo"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "VP @EasyStack"
-image: "images/speakers/eric.jpeg"
+image: "images/speakers/eric.png"
 description: "This is a placeholder speaker."
 draft: false
 social:
