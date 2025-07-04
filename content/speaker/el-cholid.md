@@ -3,7 +3,7 @@ title: "El Muhammad C.H."
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "IT Consultant"
-image: "images/speakers/el-cholid.png"
+image: "images/speakers/el-cholid-fix.png"
 description: "This is a placeholder speaker."
 draft: false
 social:
