@@ -3,7 +3,7 @@ title: "Bazigan Tsamara S."
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "IT Consultant @ID-Networkers"
-image: "images/speakers/bazigan.jpg"
+image: "images/speakers/bazigan.jpeg"
 description: "This is a placeholder speaker."
 draft: false
 social:

@@ -3,7 +3,7 @@ title: "Iwan Setiawan"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Riset Infrastruktur @EE Unsoed"
-image: "images/speakers/iwans.jpg"
+image: "images/speakers/iwans.jpeg"
 description: "This is a placeholder speaker."
 draft: false
 social:
