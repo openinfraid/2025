@@ -331,9 +331,9 @@ sponsors:
     - name: "EasyStack"
       logo: "images/sponsors/easystack-logo-new.png"
       link: "https://easystack.io/"
-    - name: "Sponsor Placeholder"
-      logo: "images/sponsors/sponsor_placeholder.svg"
-      link: "/"
+    - name: "AMD"
+      logo: "images/sponsors/amd-logo.png"
+      link: "https://www.amd-id.com"
 
   - name: "Gold Sponsors"
     sponsor_item:
