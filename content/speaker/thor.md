@@ -34,6 +34,10 @@ skills:
   skillbars: []
 ---
 
-#### Openstack Helm: Pipelining Openstack Cluster
+#### Contributing to OpenStack: Tools, Community, and Mentorship from Korea
 
-Dalam upaya meningkatkan efisiensi dan otomatisasi dalam penyebaran serta manajemen OpenStack Cluster, Helm Charts telah menjadi salah satu tools yang semakin populer. OpenStack Helm project yang menyediakan sekumpulan Helm Charts untuk menginstal dan mengelola komponen OpenStack di dalam Kubernetes. materi ini membahas konsep pipelining dalam OpenStack Helm, yaitu bagaimana flow komponen OpenStack dapat diotomatisasi secara terstruktur dan modular menggunakan pipeline, seperti yang didukung oleh CI/CD tools (Github Action/Gitlab).
+Getting involved in OpenStack can feel overwhelming at first — with a large global community, a diverse technical ecosystem, and a unique contribution process.
+
+In this session, we will break down the structure of the OpenStack global community, introduce key tools and technologies used in contribution workflows, and share how the Korea User Group has supported new contributors through a structured mentorship program.
+
+Whether you’re looking to make your first patch or build a local contribution program, this session will offer insights and practical knowledge to help you (or your community) take the next step in participating in OpenStack development.

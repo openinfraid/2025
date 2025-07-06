@@ -34,6 +34,5 @@ skills:
   skillbars: []
 ---
 
-#### Openstack Helm: Pipelining Openstack Cluster
-
-Dalam upaya meningkatkan efisiensi dan otomatisasi dalam penyebaran serta manajemen OpenStack Cluster, Helm Charts telah menjadi salah satu tools yang semakin populer. OpenStack Helm project yang menyediakan sekumpulan Helm Charts untuk menginstal dan mengelola komponen OpenStack di dalam Kubernetes. materi ini membahas konsep pipelining dalam OpenStack Helm, yaitu bagaimana flow komponen OpenStack dapat diotomatisasi secara terstruktur dan modular menggunakan pipeline, seperti yang didukung oleh CI/CD tools (Github Action/Gitlab).
+#### Wowrack Introduction
+Get to know about Wowrack product and services

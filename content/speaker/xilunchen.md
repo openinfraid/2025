@@ -34,6 +34,6 @@ skills:
   skillbars: []
 ---
 
-#### Openstack Helm: Pipelining Openstack Cluster
+#### Building open cloud and AI infra for customer innovation
 
-Dalam upaya meningkatkan efisiensi dan otomatisasi dalam penyebaran serta manajemen OpenStack Cluster, Helm Charts telah menjadi salah satu tools yang semakin populer. OpenStack Helm project yang menyediakan sekumpulan Helm Charts untuk menginstal dan mengelola komponen OpenStack di dalam Kubernetes. materi ini membahas konsep pipelining dalam OpenStack Helm, yaitu bagaimana flow komponen OpenStack dapat diotomatisasi secara terstruktur dan modular menggunakan pipeline, seperti yang didukung oleh CI/CD tools (Github Action/Gitlab).
+In the digital transformation era, organizations are required to innovate faster by leveraging cloud and artificial intelligence (AI) technologies. This session explores how to build an open, flexible, and scalable cloud and AI infrastructure to drive customer innovation. It highlights the use of open-source technologies, cloud-native architecture, and seamless AI integration within enterprise digital ecosystems. The discussion includes how open infrastructure enables platform interoperability, accelerates service development, and optimizes large-scale data processing. Through case studies and best practices, participants will gain both strategic and technical insights into designing and implementing a modern digital foundation that supports business growth and competitiveness across industries.
