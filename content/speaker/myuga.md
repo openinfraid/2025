@@ -1,5 +1,5 @@
 ---
-title: "M. Yuga Nugraha."
+title: "M. Yuga Nugraha"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Engineer @Practical DevSecOps"
