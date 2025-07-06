@@ -1,15 +1,15 @@
 ---
-title: "Suci Ginita"
+title: "Thor"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Growth Marketing Lead @Wowrack"
-image: "images/speakers/suci.jpeg"
+designation: "CSP Developer @Kakao Enterprise"
+image: "images/speakers/thor.jpg"
 description: "This is a placeholder speaker."
 draft: false
 social:
 - name: "linkedin"
   icon: "fa-linkedin"
-  link: "https://www.linkedin.com/in/suciginita/"
+  link: "https://www.linkedin.com/in/"
 
 presentation_info:
   enable: false
