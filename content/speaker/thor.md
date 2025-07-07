@@ -3,7 +3,7 @@ title: "Thor"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "CSP Developer @Kakao Enterprise"
-image: "images/speakers/thor.jpg"
+image: "images/speakers/thor.jpeg"
 description: "This is a placeholder speaker."
 draft: false
 social:
