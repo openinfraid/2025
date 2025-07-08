@@ -20,7 +20,7 @@ about:
   title: "About #OID25"
   image: "images/logo.png"
   content: >
-    Indonesia OpenInfra Days 2025 akan diselenggarakan di <a href="https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7" target="_blank" style="color: #007BFF;">Yogyakarta</a>, mempertemukan pengguna, pengembang, profesional TI, pelaku bisnis, peneliti, dan pengambil kebijakan dari berbagai sektor — termasuk perusahaan, UKM, instansi pemerintah, universitas, LSM, penyedia cloud, dan vendor teknologi.
+    Indonesia OpenInfra Days 2025 akan diselenggarakan di Universitas Gadjah Mada, bertepat di gedung <a href="https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7" target="_blank" style="color: #007BFF;">TILC (Teaching Industry Learning Center) SV UGM, Yogyakarta</a>. Mempertemukan pengguna, pengembang, profesional TI, pelaku bisnis, peneliti, dan pengambil kebijakan dari berbagai sektor — termasuk perusahaan, UKM, instansi pemerintah, universitas, LSM, penyedia cloud, dan vendor teknologi.
 
     Acara ini menjadi wadah untuk mengeksplorasi dan mendiskusikan infrastruktur TI berbasis teknologi open source, baik perangkat lunak maupun perangkat keras. Fokus utama mencakup teknologi open infrastructure yang mendukung layanan cloud yang handal dan skalabel seperti OpenStack, StarlingX, Airship, Kubernetes, Docker, Ceph, GitLab, Jenkins, Elastic Stack, Terraform, Ansible, Prometheus, Kata Containers, serta pengembangan menuju teknologi masa depan seperti Machine Learning, Blockchain, IoT, HPC, dan Edge Computing.
   button_solid:
