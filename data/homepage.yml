@@ -69,7 +69,7 @@ tab:
       subject: "Opening"
       venue: "Ballroom"
       time: "09.30 AM"
-    - speaker: "UGM"
+    - speaker: ""
       #speaker_image: "images/speakers/tba-thumb.JPG"
       subject: "Welcoming Speech from UGM"
       venue: "Ballroom"
@@ -304,7 +304,7 @@ registration:
   #form_action : "#" # works with formspree.io
 
   funfacts:
-  - name: "35+ Speakers"
+  - name: "35 Speakers"
     icon: "fa-microphone"
 
   - name: "250+ Attendees"
