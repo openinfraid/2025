@@ -47,10 +47,12 @@
                       <i class="fa fa-clock-o"></i>
                       <span class="time">{{ .time }}</span>
                     </div>
-                    <!-- Speaker -->
+                    <!-- Speaker with link -->
                     <div class="speaker">
-                      <img src="{{ .speaker_image | absURL }}" alt="{{.speaker}}">
-                      <span class="name">{{.speaker}}</span>
+                      <a href="/speaker/{{ .speaker_slug }}">
+                        <img src="{{ .speaker_image | absURL }}" alt="{{ .speaker }}">
+                        <span class="name">{{ .speaker }}</span>
+                      </a>
                     </div>
                     <!-- Subject -->
                     <div class="subject">{{ .subject }}</div>
