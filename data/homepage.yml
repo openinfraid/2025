@@ -122,7 +122,7 @@ tab:
       venue: "Ballroom"
       time: "11.20 AM"
     - speaker: "Xilun Chen"
-      speaker_image: "images/speakers/xilun-thumb.jpg"
+      speaker_image: "images/speakers/xilunchen-thumb.png"
       subject: "Building open cloud and AI infra for customer innovation"
       speaker_slug: "xilunchen"
       venue: "Ballroom"
