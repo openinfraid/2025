@@ -1,9 +1,9 @@
 ---
-title: "Xilun chen"
+title: "Xilun Chen"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "CEO and Founder EasyStack"
-image: "images/speakers/xilunchen.jpg"
+designation: "CEO and Founder @EasyStack"
+image: "images/speakers/xilunchen.png"
 description: "This is a placeholder speaker."
 draft: false
 social:
