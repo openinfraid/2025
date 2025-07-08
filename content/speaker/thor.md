@@ -1,15 +1,15 @@
 ---
-title: "Seongsoo Cho"
+title: "Jihyun Huh"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "OpenInfra Korea User Group"
-image: "images/speakers/seongsoo.png"
+designation: "CSP Developer @Kakao Enterprise"
+image: "images/speakers/thor.jpeg"
 description: "This is a placeholder speaker."
 draft: false
 social:
 - name: "linkedin"
   icon: "fa-linkedin"
-  link: "https://www.linkedin.com/in/seongsoocho/"
+  link: "https://www.linkedin.com/in/jihyun-huh-96108b2bb/"
 
 presentation_info:
   enable: false

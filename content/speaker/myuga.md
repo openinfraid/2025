@@ -1,15 +1,15 @@
 ---
-title: "Muhammad Yuga N."
+title: "M. Yuga Nugraha"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "DevOps Engineer @P DevSecOps"
+designation: "Engineer @Practical DevSecOps"
 image: "images/speakers/myuga.jpeg"
 description: "This is a placeholder speaker."
 draft: false
 social:
 - name: "linkedin"
   icon: "fa-linkedin"
-  link: "https://www.linkedin.com/in/myugan/"
+  link: "https://www.linkedin.com/in/muhammadyugan/"
 
 presentation_info:
   enable: false

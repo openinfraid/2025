@@ -1,15 +1,15 @@
 ---
-title: "DJ MIN"
+title: "Suci Ginita"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "CEO & Founder ZConverter Cloud"
-image: "images/speakers/djmin.png"
+designation: "Growth Marketing Lead @Wowrack"
+image: "images/speakers/suci.jpeg"
 description: "This is a placeholder speaker."
 draft: false
 social:
 - name: "linkedin"
   icon: "fa-linkedin"
-  link: "https://www.linkedin.com/company/zconverter"
+  link: "https://www.linkedin.com/in/suciginita/"
 
 presentation_info:
   enable: false
@@ -34,8 +34,5 @@ skills:
   skillbars: []
 ---
 
-#### OpenStack+Z: Simplifying and accelerating VMware Migration to OpenStack
-
-This topic introduces ZConverter OpenStack+Z project, enabling simplified VMware
-Migration to OpenStack, flexible move-in and move-out capability across any hypervisor or
-cloud platform.
+#### Wowrack Introduction
+Get to know about Wowrack product and services

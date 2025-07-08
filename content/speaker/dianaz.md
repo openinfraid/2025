@@ -38,16 +38,16 @@ skills:
 
 #### Stop Waiting, Start Migrating: Start Your OpenStack Journey Today
 
-Dalam dunia teknologi informasi yang berkembang sangat cepat, banyak aplikasi kini membutuhkan sumber daya infrastruktur yang besar dan fleksibel. Di sisi lain, perusahaan juga dihadapkan pada tantangan biaya lisensi yang terus meningkat dari platform proprietary. Tak sedikit perusahaan yang mengeluhkan besarnya pengeluaran operasional setiap bulannya.
+In today’s fast-evolving world of information technology, many applications now demand scalable and flexible infrastructure resources. At the same time, companies are facing increasing challenges with rising licensing costs from proprietary platforms. It's not uncommon for organizations to voice concerns over their growing monthly operational expenses.
 
-OpenStack hadir sebagai salah satu solusi open-source yang menawarkan efisiensi biaya, fleksibilitas, dan kontrol penuh terhadap infrastruktur. Namun, masih banyak organisasi yang ragu untuk bermigrasi karena kekhawatiran terhadap kompleksitas dan risiko perubahan. Padahal, bisa jadi ... menunda migrasi justru membuat kerugian semakin besar.
+OpenStack emerges as an open-source solution that offers cost efficiency, flexibility, and full control over infrastructure. However, many organizations remain hesitant to migrate due to perceived complexities and risks. In reality, delaying the migration might actually lead to greater long-term losses.
 
-Melalui sesi ini, saya akan membahas:
+In this session, I will cover:
 
-1. Mengapa sekarang adalah waktu yang tepat untuk migrasi ke OpenStack
-2. Faktor-faktor yang perlu dipertimbangkan sebelum melakukan migrasi
-3. Strategi migrasi yang efektif, mencakup tahapan pra, saat, dan pasca migrasi
-4. Tools dan pendekatan teknis yang bisa digunakan untuk mempermudah proses migrasi
-5. Demo singkat (jika waktu memungkinkan) menggunakan salah satu tool migrasi
+1. Why now is the right time to migrate to OpenStack
+2. Key considerations before initiating a migration
+3. Effective migration strategies, including pre-, during-, and post-migration phases
+4. Tools and technical approaches to simplify the migration process
 
-Sesi ini ditujukan bagi para profesional TI, cloud engineer, atau para management yang ingin mengambil keputusan untuk memantapkan mereka migrasi ke openstack.  
+
+This session is aimed at IT professionals, cloud engineers, and decision-makers who are exploring or planning a move to OpenStack.

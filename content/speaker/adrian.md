@@ -2,8 +2,8 @@
 title: "Adrian Koh"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "Managing Director @EasyStack SG"
-image: "images/speakers/adrian-fix.png"
+designation: "Managing Director @EasyStack"
+image: "images/speakers/adrian.png"
 description: "This is a placeholder speaker."
 draft: false
 social:
