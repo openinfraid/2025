@@ -3,7 +3,7 @@ title: "Ananda Dwi R."
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "DevOps Engineer"
-image: "images/speakers/anandad.png"
+image: "images/speakers/anandad-fix.png"
 description: "This is a placeholder speaker."
 draft: false
 social:
