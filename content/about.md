@@ -36,4 +36,4 @@ Indonesia OpenInfra Days menghimpun pengguna, pemangku kepentingan bisnis, penge
 
 Acara ini merupakan konferensi satu hari yang diselenggarakan secara luring dengan format Single Track, diperkaya dengan Keynote Speeches, Talks, Breakout Room Sessions, dan Lightning Sessions. Format ini memperluas cakupan diskusi dibandingkan OpenStack Day sebelumnya dan meningkatkan keterlibatan komunitas.
 
-Pada tahun 2025, Indonesia OpenInfra Days akan diselenggarakan secara offline pada Sabtu, 19 Juli 2025, dengan target lebih dari 250 peserta. Acara ini diorganisir dan dikelola oleh Komunitas OpenInfra Indonesia User Group.
+Pada tahun 2025, Indonesia OpenInfra Days akan diselenggarakan secara offline pada Sabtu, 19 Juli 2025 di gedung <a href="https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7" target="_blank" style="color: #007BFF;">TILC (Teaching Industry Learning Center) SV UGM, Yogyakarta</a>, dengan target lebih dari 250 peserta. Acara ini diorganisir dan dikelola oleh Komunitas OpenInfra Indonesia User Group.
