@@ -192,7 +192,7 @@ tab:
       speaker_image: "images/speakers/tba-thumb.JPG"
       subject: "Soon"
       venue: "R201"
-      time: "03.10 PM"
+      time: "03.45 PM"
 
   - name: "Breakout 2"
     #date: "R204"
@@ -226,7 +226,7 @@ tab:
       speaker_image: "images/speakers/tba-thumb.JPG"
       subject: "Exit Plan dari VMware dengan Strategi Migrasi ke OpenStack"
       venue: "R204"
-      time: "03.10 PM"
+      time: "03.45 PM"
 
   - name: "Breakout 3"
     #date: "R216"
@@ -260,7 +260,7 @@ tab:
       speaker_image: "images/speakers/tba-thumb.JPG"
       subject: "Virtual Lab Sistem Operasi dan Jaringan Komputer Sekolah/Kampus dengan LXD dan LXD-UI"
       venue: "R216"
-      time: "03.10 PM"
+      time: "03.45 PM"
 
   - name: "Breakout 4"
     #date: "R210"
@@ -294,7 +294,7 @@ tab:
       speaker_image: "images/speakers/tba-thumb.JPG"
       subject: "Penerapan Multisite pada Ceph Object Gateway"
       venue: "R210"
-      time: "03.10 PM"
+      time: "03.45 PM"
 
     ############ Registration ####################
 registration:
