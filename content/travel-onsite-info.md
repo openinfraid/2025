@@ -15,7 +15,7 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 - <a href="https://2025.openinfra.id/schedule/" style="color: #007BFF;">The Schedule</a>
 - <a href="https://docs.google.com/spreadsheets/d/1YTmHXFJAo2K-GWTqrBIoUyU4ZYqpjJxnl3LINrojIfI/edit?usp=sharing" style="color: #007BFF;">Hotel Suggestions</a>
 - <a href="https://openinfra.org/legal/code-of-conduct" style="color: #007BFF;">Code of Conduct</a>
-- <a href="https://2025.openinfra.id/travel-onsite-info/#emergency-info" style="color: #007BFF;">Emergency Info</a>
+- <a href="https://2025.openinfra.id/travel-onsite-info/#emergency-call" style="color: #007BFF;">Emergency Call</a>
 - <a href="https://2025.openinfra.id/contact/" style="color: #007BFF;">Contact the organizers</a>
 --------
 ##### What to expect
@@ -95,10 +95,10 @@ This is where you’ll find almost anything you need while on-site at the OpenIn
 
 ------------
 
-#### Emergency Info
-RSUP Sardjito. 
-(0274) 583613 (Emergency Call). 
-[https://sardjito.co.id/](https://sardjito.co.id/). 
+#### Emergency Call
+<a href="https://maps.app.goo.gl/WZdYj9mN8hd45EnW7" style="color: #007BFF;">RSUP Sardjito</a>:
+ - Emergency Call <a href="https://2025.openinfra.id/travel-onsite-info/#emergency-call" style="color: #007BFF;">(0274) 583613</a>.
+ - [https://sardjito.co.id/](https://sardjito.co.id/). 
 
 ------------
 #### Getting Assistance
