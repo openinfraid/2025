@@ -1,6 +1,6 @@
 ---
 title: "Diana Zuniarti"
-page_header_bg: "images/background/page-title-bg.png"
+page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Cloud Engineer @EasyStack"
 image: "images/speakers/dianaz.png"
