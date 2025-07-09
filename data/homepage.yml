@@ -110,7 +110,7 @@ tab:
       venue: "Ballroom"
       time: "11.00 AM"
     - speaker: "Rachmat Putra Chandra"
-      speaker_image: "images/speakers/tba-thumb.JPG"
+      speaker_image: "images/speakers/rachmad-thumb.png"
       subject: "Data Center High Availability"
       speaker_slug: "rachmad"
       venue: "Ballroom"
