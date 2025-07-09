@@ -34,5 +34,6 @@ skills:
   skillbars: []
 ---
 
-#### Wowrack Introduction
-Get to know about Wowrack product and services
+#### Building Resilient Infrastructure for the Digital Era with Wowrack
+
+Building Resilient Infrastructure for the Digital Era with Wowrack
