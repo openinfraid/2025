@@ -2,7 +2,7 @@
 title: "Aldin Setiawan"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
-designation: "System Administrator @VaultCloud"
+designation: "System Administrator @IMPHNEN"
 image: "images/speakers/aldin.png"
 description: "This is a placeholder speaker."
 draft: false
