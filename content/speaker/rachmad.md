@@ -34,6 +34,10 @@ skills:
   skillbars: []
 ---
 
-#### Data center high avaibility
+#### Resilience by Design: Redefining Data Centers with Modern HA Architecture
 
-Data center high avaibility
+In an increasingly digital and always-on world, downtime is no longer an option. As organizations demand greater agility, scalability, and reliability, the design of data centers must evolve beyond traditional redundancy. This seminar explores how modern High Availability (HA) architectures are transforming data centers into resilient, self-healing systems.
+
+Through the lens of open infrastructure and cloud-native technologies, we will uncover design patterns and best practices that ensure continuous service delivery, even in the face of failures. Topics include active-active clusters, distributed systems, fault-tolerant storage, network resilience, and automated recovery strategies.
+
+Attendees will gain actionable insights into building HA-driven infrastructure that not only minimizes risk but also aligns with modern DevOps and SRE principles. Whether you are designing from scratch or modernizing legacy systems, this session will help redefine your approach to availability—by design
