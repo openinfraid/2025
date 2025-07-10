@@ -78,7 +78,7 @@ tab:
     - speaker: "Prof. Dr.-Ing. Ir. Agus Maryono, IPM., ASEAN Eng."
       speaker_image: "images/speakers/dekan-thumb.png"
       subject: "Speech from Dekan UGM"
-      speaker_slug: "dekan-ugm"
+      speaker_slug: ""
       venue: "Ballroom"
       time: "09.35 AM"
     - speaker: ""
