@@ -2372,11 +2372,20 @@ ul.pagination {
   display: flex;
   align-items: center;
   gap: 10px; }
-  .schedule .speaker img {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    object-fit: cover; }
+  .schedule .speaker .avatars {
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: auto; }
+    .schedule .speaker .avatars img {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #fff;
+      margin-left: -10px; }
+      .schedule .speaker .avatars img:first-child {
+        margin-left: 0; }
   .schedule .speaker .name {
     display: inline-block;
     max-width: 160px;

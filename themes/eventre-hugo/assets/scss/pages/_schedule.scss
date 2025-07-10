@@ -4,11 +4,24 @@
     align-items: center;
     gap: 10px;
 
-    img {
-      width: 40px;
-      height: 40px;
-      border-radius: 50%;
-      object-fit: cover;
+    .avatars {
+      display: flex;
+      align-items: center;
+      position: relative;
+      width: auto;
+
+      img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 2px solid #fff;
+        margin-left: -10px;
+
+        &:first-child {
+          margin-left: 0;
+        }
+      }
     }
 
     .name {

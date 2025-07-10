@@ -50,12 +50,18 @@
                     <!-- Speaker with link -->
                     <div class="speaker">
                       <a href="/speaker/{{ .speaker_slug }}" style="color: #222222; text-decoration: none; display: flex; align-items: center; gap: 10px;">
-                        {{ if .speaker_image }}
-                          <img src="{{ .speaker_image | absURL }}" alt="{{ .speaker }}">
-                        {{ end }}
+                        <div class="avatars">
+                          {{ if .speaker_image1 }}
+                            <img src="{{ .speaker_image1 | absURL }}" alt="Speaker 1">
+                          {{ end }}
+                          {{ if .speaker_image2 }}
+                            <img src="{{ .speaker_image2 | absURL }}" alt="Speaker 2">
+                          {{ end }}
+                        </div>
                         <span class="name" title="{{ .speaker }}">{{ .speaker }}</span>
                       </a>
                     </div>
+
                     <!-- Subject with link -->
                     <div class="subject">
                       <a href="/speaker/{{ .speaker_slug }}" style="color: #222222; text-decoration: none;">
