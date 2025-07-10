@@ -206,10 +206,10 @@ tab:
       speaker_slug: "erry"
       venue: "R201"
       time: "03.10 PM"
-    - speaker: "Speaker 05"
-      speaker_image: "images/speakers/tba-thumb.JPG"
+    - speaker: "Muhammad Irfan Ardiansyah"
+      speaker_image: "images/speakers/mirfan-thumb.png"
       subject: "Soon"
-      speaker_slug: "soon"
+      speaker_slug: "mirfan"
       venue: "R201"
       time: "03.45 PM"
 
