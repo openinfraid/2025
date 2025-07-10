@@ -49,9 +49,11 @@
                     </div>
                     <!-- Speaker with link -->
                     <div class="speaker">
-                      <a href="/speaker/{{ .speaker_slug }}" style="color: #222222; text-decoration: none;">
-                        <img src="{{ .speaker_image | absURL }}" alt="{{ .speaker }}">
-                        <span class="name">{{ .speaker }}</span>
+                      <a href="/speaker/{{ .speaker_slug }}" style="color: #222222; text-decoration: none; display: flex; align-items: center; gap: 10px;">
+                        {{ if .speaker_image }}
+                          <img src="{{ .speaker_image | absURL }}" alt="{{ .speaker }}">
+                        {{ end }}
+                        <span class="name" title="{{ .speaker }}">{{ .speaker }}</span>
                       </a>
                     </div>
                     <!-- Subject with link -->

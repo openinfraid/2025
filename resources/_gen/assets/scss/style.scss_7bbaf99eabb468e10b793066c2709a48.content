@@ -2367,3 +2367,33 @@ ul.pagination {
 .contact-form button {
   margin-top: 30px;
   margin-bottom: 30px; }
+
+.schedule .speaker {
+  display: flex;
+  align-items: center;
+  gap: 10px; }
+  .schedule .speaker img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover; }
+  .schedule .speaker .name {
+    display: inline-block;
+    max-width: 160px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+    font-weight: 500; }
+    .schedule .speaker .name:hover {
+      cursor: help; }
+
+.schedule .schedule-details .block {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 20px; }
+  .schedule .schedule-details .block .time,
+  .schedule .schedule-details .block .subject,
+  .schedule .schedule-details .block .venue {
+    flex: 1 1 100px; }

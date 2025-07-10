@@ -1,0 +1,41 @@
+.schedule {
+  .speaker {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    img {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    .name {
+      display: inline-block;
+      max-width: 160px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      vertical-align: middle;
+      font-weight: 500;
+
+      &:hover {
+        cursor: help;
+      }
+    }
+  }
+
+  .schedule-details .block {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+
+    .time,
+    .subject,
+    .venue {
+      flex: 1 1 100px;
+    }
+  }
+}
