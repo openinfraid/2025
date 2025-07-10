@@ -1,5 +1,5 @@
 ---
-title: "Muhammad Irfan Ardiansyah"
+title: "M. Irfan Ardiansyah"
 page_header_bg: "images/background/speaker.jpg"
 date: 2020-03-14T15:40:24+06:00
 designation: "Commercial Trainer @AMD"
