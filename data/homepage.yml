@@ -111,7 +111,7 @@ tab:
       time: "11.00 AM"
     - speaker: "Rachmat Putra Chandra"
       speaker_image: "images/speakers/rachmad-thumb.png"
-      subject: "Data Center High Availability"
+      subject: "Resilience by Design: Redefining Data Centers with Modern HA Architecture"
       speaker_slug: "rachmad"
       venue: "Ballroom"
       time: "11.10 AM"
