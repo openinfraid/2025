@@ -10,6 +10,9 @@ social:
 - name: "linkedin"
   icon: "fa-linkedin"
   link: "https://www.linkedin.com/in/"
+- name: "instagram"
+  icon: "fa-instagram"
+  link: "https://www.instagram.com/irfanardi_3001"
 
 presentation_info:
   enable: false
@@ -34,5 +37,4 @@ skills:
   skillbars: []
 ---
 
-#### Soon
-
+#### AMD ROCM: Accelerated Machine Learning Workload for Open Ecosystem, Open Source, and Open Platform
