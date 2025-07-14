@@ -36,6 +36,6 @@ skills:
   skillbars: []
 ---
 
-#### Soon
+#### Unlocking AI Potential with AMD: Driving Innovation Through an Open Ecosystem
 
-Soon
+Unlocking AI Potential with AMD: Driving Innovation Through an Open Ecosystem
