@@ -19,8 +19,8 @@ draft : false
 - Official Photos: <a href="https://s.id/occ25-photos" style="color: #007BFF;">s.id/occ25-photos</a>
 
 - Recording Videos:
-  - <a href="https://youtu.be/1vF1IqJulAc" style="color: #007BFF;">[DAY 1] OpenStack Contribution Camp 2025 – OpenInfra Indonesia X Korea User Group (16 Juli 2025)</a>
-  - <a href="https://youtu.be/2zLkjzKXHO0" style="color: #007BFF;">[DAY 2] OpenStack Contribution Camp 2025 – OpenInfra Indonesia X Korea User Group (17 Juli 2025)</a>
+  - <a href="https://youtu.be/1vF1IqJulAc" style="color: #007BFF;">[DAY 1] OpenStack Contribution Camp 2025 – (16 Juli 2025)</a>
+  - <a href="https://youtu.be/2zLkjzKXHO0" style="color: #007BFF;">[DAY 2] OpenStack Contribution Camp 2025 – (17 Juli 2025)</a>
 
 ### OpenStack Contribution Camp 2025
 OpenStack Contribution Camp 2025 kolaborasi antara OpenInfra Indonesia dan <a href="https://openinfra-kr.org/" style="color: #007BFF;">Korea User Group</a>, Tanggal 16-17 Juli 2025 yang bertempat di <a href="https://maps.app.goo.gl/s1FmrFBvEwKpaiPR7" style="color: #007BFF;">Teaching Industry Learning Center (TILC) Sekolah Vokasi UGM, Yogyakarta</a>.
