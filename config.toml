@@ -97,13 +97,13 @@ weight = 6
 [[menu.main]]
 name = "OpenStack Contribution Camp - Photos"
 url = "https://s.id/occ25-photos"
-parent = "gallery"
+parent = "Gallery"
 weight = 1
 
 [[menu.main]]
 name = "OpenInfra Days Indonesia - Photos"
 url = "https://s.id/oid25-photos"
-parent = "gallery"
+parent = "Gallery"
 weight = 2
 
 [[menu.main]]
