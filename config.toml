@@ -91,8 +91,20 @@ weight = 5
 
 [[menu.main]]
 name = "Gallery"
-url = "https://www.flickr.com/photos/182934431@N07/"
+url = "/"
 weight = 6
+
+[[menu.main]]
+name = "OpenStack Contribution Camp - Photos"
+url = "https://s.id/occ25-photos"
+parent = "gallery"
+weight = 1
+
+[[menu.main]]
+name = "OpenInfra Days Indonesia - Photos"
+url = "https://s.id/oid25-photos"
+parent = "gallery"
+weight = 2
 
 [[menu.main]]
 name = "FAQ"
