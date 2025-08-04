@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://youtu.be/t9kW3bPxAEI?si=69uFPTK_PMOwazgn"
+  videoUrl: "https://www.youtube.com/embed/t9kW3bPxAEI?si=69uFPTK_PMOwazgn"
   slideEmbedPath: "/slides/Bazigan_OID25_Easy_Implementation_Ceph_On_Proxmox.pdf" 
   anotherPresentationEnable: false
 

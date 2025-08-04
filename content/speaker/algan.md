@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://youtu.be/AzMdFsH0zyQ?si=8IZgBd_FD1nM6tTV"
+  videoUrl: "https://www.youtube.com/embed/AzMdFsH0zyQ?si=8IZgBd_FD1nM6tTV"
   slideEmbedPath: "/slides/Ali_Gandi_OID25_CephFS_Pool_Resize_on_PVE.pdf" 
   anotherPresentationEnable: false
 

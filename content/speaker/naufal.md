@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://youtu.be/3pCpDngbswI?si=p2hbWQy0YASghdh-"
+  videoUrl: "https://www.youtube.com/embed/3pCpDngbswI?si=p2hbWQy0YASghdh-"
   slideEmbedPath: "/slides/Naufal_Gholib_OID25_Enhancing_Ceph_Security_Encrypting_OSDs_With_Hashicorp_Vault_Integration.pdf" 
   anotherPresentationEnable: false
 

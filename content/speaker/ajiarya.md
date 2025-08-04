@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://youtu.be/kPfjofgCa_c?si=IfuFSgytNvkzmxB1"
+  videoUrl: "https://www.youtube.com/embed/kPfjofgCa_c?si=IfuFSgytNvkzmxB1"
   slideEmbedPath: "/slides/Aji_Arya_OID25_Ceph_Upgrades_Made_Simple.pdf" 
   anotherPresentationEnable: false
 
