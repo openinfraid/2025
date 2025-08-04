@@ -10,17 +10,22 @@ social:
 - name: "linkedin"
   icon: "fa-linkedin"
   link: "https://www.linkedin.com/in/ali-gandi-b4bb46a1/"
+- name: "facebook"
+  icon: "fa-facebook"
+  link: "#"
+- name: "twitter"
+  icon: "fa-twitter"
+  link: "https://twitter.com/"
+- name: "instagram"
+  icon: "fa-instagram"
+  link: "https://www.instagram.com/"
 
 presentation_info:
-  enable: false
-  videoEnable: false
-  videoUrl: ""
-  slideEmbedPath: ""
-  description: ""
+  enable: true
+  videoEnable: true
+  videoUrl: "https://youtu.be/AzMdFsH0zyQ?si=8IZgBd_FD1nM6tTV"
+  slideEmbedPath: "/slides/Ali_Gandi_OID25_CephFS_Pool_Resize_on_PVE.pdf" 
   anotherPresentationEnable: false
-  anotherPresentation:
-    - title: None
-      link: None
 
 personal_info:
   enable : false

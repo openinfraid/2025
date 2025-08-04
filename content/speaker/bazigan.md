@@ -10,17 +10,22 @@ social:
 - name: "linkedin"
   icon: "fa-linkedin"
   link: "https://linkedin.com/in/bazigantsamara"
+- name: "facebook"
+  icon: "fa-facebook"
+  link: "#"
+- name: "twitter"
+  icon: "fa-twitter"
+  link: "https://twitter.com/"
+- name: "instagram"
+  icon: "fa-instagram"
+  link: "https://www.instagram.com/"
 
 presentation_info:
-  enable: false
-  videoEnable: false
-  videoUrl: ""
-  slideEmbedPath: ""
-  description: ""
+  enable: true
+  videoEnable: true
+  videoUrl: "https://youtu.be/t9kW3bPxAEI?si=69uFPTK_PMOwazgn"
+  slideEmbedPath: "/slides/Bazigan_OID25_Easy_Implementation_Ceph_On_Proxmox.pdf" 
   anotherPresentationEnable: false
-  anotherPresentation:
-    - title: None
-      link: None
 
 personal_info:
   enable : false
