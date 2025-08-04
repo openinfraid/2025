@@ -13,17 +13,22 @@ social:
 - name: "instagram"
   icon: "fa-instagram"
   link: "https://www.instagram.com/irfanardi_3001"
+- name: "facebook"
+  icon: "fa-facebook"
+  link: "#"
+- name: "twitter"
+  icon: "fa-twitter"
+  link: "https://twitter.com/"
+- name: "instagram"
+  icon: "fa-instagram"
+  link: "https://www.instagram.com/"
 
 presentation_info:
-  enable: false
-  videoEnable: false
-  videoUrl: ""
-  slideEmbedPath: ""
-  description: ""
+  enable: true
+  videoEnable: true
+  videoUrl: "https://www.youtube.com/embed/"
+  slideEmbedPath: "/slides/" 
   anotherPresentationEnable: false
-  anotherPresentation:
-    - title: None
-      link: None
 
 personal_info:
   enable : false

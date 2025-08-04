@@ -10,17 +10,22 @@ social:
 - name: "linkedin"
   icon: "fa-linkedin"
   link: "https://www.linkedin.com/in/egi-adithia-pradana-99420644/"
+- name: "facebook"
+  icon: "fa-facebook"
+  link: "#"
+- name: "twitter"
+  icon: "fa-twitter"
+  link: "https://twitter.com/"
+- name: "instagram"
+  icon: "fa-instagram"
+  link: "https://www.instagram.com/"
 
 presentation_info:
-  enable: false
-  videoEnable: false
-  videoUrl: ""
-  slideEmbedPath: ""
-  description: ""
+  enable: true
+  videoEnable: true
+  videoUrl: "https://www.youtube.com/embed/"
+  slideEmbedPath: "/slides/OID25_Virtual_Lab_Sistem_Operasi_dan_Jaringan_Komputer_Sekolah_Kampus_dengan_LXD_dan_LXD-UI.pdf" 
   anotherPresentationEnable: false
-  anotherPresentation:
-    - title: None
-      link: None
 
 personal_info:
   enable : false
