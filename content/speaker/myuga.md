@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/embed/"
+  videoUrl: "https://www.youtube.com/embed/JSEMEKkMHY4?si=LbJL3Lxgz3z8tyFV"
   slideEmbedPath: "/slides/MYuga_Are_Containers_Dying_Rethinking_Isolation_with_MicroVMs.pdf" 
   anotherPresentationEnable: false
 

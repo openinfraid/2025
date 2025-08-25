@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/embed/"
+  videoUrl: "https://www.youtube.com/embed/b26DIys2OtA?si=f6hs8tn7G-WRCUNh"
   slideEmbedPath: "/slides/OID25_Aldin_Setiawan_OpenStack_Helm.pdf" 
   anotherPresentationEnable: false
 

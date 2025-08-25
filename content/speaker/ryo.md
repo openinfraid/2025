@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/embed/"
+  videoUrl: "https://www.youtube.com/embed/OBuN7vx_m2A?si=DeFDEVE66QF20rNy"
   slideEmbedPath: "/slides/Open_Infra_Presentation_Ryo_MicroCloud.pdf" 
   anotherPresentationEnable: false
 

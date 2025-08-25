@@ -10,17 +10,22 @@ social:
 - name: "linkedin"
   icon: "fa-linkedin"
   link: "https://www.linkedin.com/in/ananda-fikri"
+- name: "facebook"
+  icon: "fa-facebook"
+  link: "#"
+- name: "twitter"
+  icon: "fa-twitter"
+  link: "https://twitter.com/"
+- name: "instagram"
+  icon: "fa-instagram"
+  link: "https://www.instagram.com/"
 
 presentation_info:
-  enable: false
-  videoEnable: false
-  videoUrl: ""
-  slideEmbedPath: ""
-  description: ""
+  enable: true
+  videoEnable: true
+  videoUrl: "https://www.youtube.com/embed/ntaqIUMu53g?si=9qoEdAHdLO3WRb9N"
+  slideEmbedPath: "/slides/OID25_THE_DARK_SIDE_OF_DEVSECOPS_GHOST_IN_THE_DEPLOYMENT_PROCESS.pdf" 
   anotherPresentationEnable: false
-  anotherPresentation:
-    - title: None
-      link: None
 
 personal_info:
   enable : false

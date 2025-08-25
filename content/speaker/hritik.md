@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/embed/"
+  videoUrl: "https://www.youtube.com/embed/VPXu4-rMLrw?si=8u2j-LYeAYf2bMVL"
   slideEmbedPath: "/slides/Hritik_Shedding_the_VMware_Layer_A_Migration_to_Bare_Metal_Infrastructure_Hrittik_Roy.pdf" 
   anotherPresentationEnable: false
 

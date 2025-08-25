@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/embed/"
+  videoUrl: "https://www.youtube.com/embed/Z9uje2owGvY?si=qhmt0E4VjplAvZYP"
   slideEmbedPath: "/slides/" 
   anotherPresentationEnable: false
 

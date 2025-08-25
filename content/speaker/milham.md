@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/embed/"
+  videoUrl: "https://www.youtube.com/embed/m0nPpA9Fmwo?si=Cil76nVx8lmOr5xF"
   slideEmbedPath: "/slides/OID25_Ilham_VMWare_to_OpenStack_Migration.pdf" 
   anotherPresentationEnable: false
 

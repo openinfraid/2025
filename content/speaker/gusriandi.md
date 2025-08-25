@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/embed/"
+  videoUrl: "https://www.youtube.com/embed/cGW9JxveuGo?si=wgrH2cGF3UcUjS7d"
   slideEmbedPath: "/slides/OID25_Gusriandi_OpenStack_Charm_without_MAAS.pdf" 
   anotherPresentationEnable: false
 

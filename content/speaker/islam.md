@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/embed/"
+  videoUrl: "https://www.youtube.com/embed/B7CWKd6oGQk?si=B_zdILs7z7EmZdcS"
   slideEmbedPath: "/slides/OID25_islamyakin.pdf" 
   anotherPresentationEnable: false
 

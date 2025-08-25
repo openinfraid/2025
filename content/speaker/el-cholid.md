@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/embed/"
+  videoUrl: "https://www.youtube.com/embed/8lF8-2PlkVA?si=HdjZ_4LbXzKqrl2-"
   slideEmbedPath: "/slides/OID25_El Muhammad_How_We_Use_RayStack_at_Scale.pdf" 
   anotherPresentationEnable: false
 

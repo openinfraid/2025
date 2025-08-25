@@ -23,7 +23,7 @@ social:
 presentation_info:
   enable: true
   videoEnable: true
-  videoUrl: "https://www.youtube.com/embed/"
+  videoUrl: "https://www.youtube.com/embed/mrEJoxJuKFM?si=2gdPMicNBWlTymxW"
   slideEmbedPath: "/slides/OID25_Virtual_Lab_Sistem_Operasi_dan_Jaringan_Komputer_Sekolah_Kampus_dengan_LXD_dan_LXD-UI.pdf" 
   anotherPresentationEnable: false
 
